@@ -1,0 +1,3371 @@
+TS_LOAD	SYS_DESC	VEH_SER_NO	OPR_NAME
+11:54.8	Paint Inspection	TPD286	PAINT
+36:09.0	STVMS Tracking Top Station	SLP187	Top Station
+36:14.0	STVMS Tracking Top Station	SGN329	Top Station
+40:50.3	Assembly Line Tracker	SGN329	Pool 60 Start
+40:50.5	Assembly Line Tracker	SLP187	Pool 60 Start
+36:20.2	Cab call scan	TGJ401	A Line
+37:52.0	Cab Conveyer	TFU306	Cab Upload 2
+37:52.0	Cab Conveyor / Monorail	TFU306	Cab Upload
+40:00.2	OMT Offline Tracking	EMV512	Enter Offline
+40:00.2	OMT Offline Tracking	EMV512	Sold
+41:51.0	Paint Inspection	KQN543	PAINT
+44:12.3	Cab Conveyer	LNY482	Cab Upload 2
+44:12.3	Cab Conveyor / Monorail	LNY482	Cab Upload
+45:42.0	U-BOLT	QVS392	Front U-Bolt
+46:55.5	Cab Call Scan	ULN810	B Line
+48:24.4	OMT Offline Tracking	SVK948	Enter Offline
+51:41.0	U-BOLT	HMX073	Front U-Bolt
+53:06.2	Hood Conveyor	CXD285	Hood Upload
+53:14.2	Cab Conveyer	KWT597	Cab Upload 2
+53:14.2	Cab Conveyor / Monorail	KWT597	Cab Upload
+53:41.7	Paint Inspection	XGW598	PAINT
+54:33.9	Paint Inspection	YDL247	PAINT
+55:50.2	Assembly Line Tracker	EQK798	Pool 13 Start
+56:00.5	Cab call scan	OIF375	A Line
+56:39.1	Hood Conveyor	BEM390	Hood Upload
+57:09.0	U-BOLT	WDM529	Front U-Bolt
+57:34.0	STVMS Tracking Chassis Start	DFZ024	Chassis Start
+59:37.8	OMT Offline Tracking	XKG621	Enter Offline
+00:31.6	Cab Conveyer	UJB305	Cab Upload 2
+00:31.6	Cab Conveyor / Monorail	UJB305	Cab Upload
+00:50.5	Assembly Line Tracker	GDU671	Pool 13 Start
+00:50.8	Assembly Line Tracker	TGS974	Pool 13 Start
+01:27.3	OMT Offline Tracking	RTW145	Enter Offline
+01:27.3	OMT Offline Tracking	RTW145	Sold
+04:25.2	Cab Call Scan	FNG604	B Line
+05:29.0	U-BOLT	XSF309	Front U-Bolt
+05:50.2	Assembly Line Tracker	ELI075	Pool 13 Start
+09:46.3	Hood Conveyor	CVE258	Hood Upload
+10:05.2	Cab call scan	NVM832	A Line
+10:06.0	STVMS Tracking Chassis Start	EQK798	Chassis Start
+10:09.0	STVMS Tracking Chassis Start	TGS974	Chassis Start
+10:11.0	STVMS Tracking Chassis Start	GDU671	Chassis Start
+10:14.0	STVMS Tracking Chassis Start	ELI075	Chassis Start
+11:14.8	Cab Conveyer	TGJ401	Cab Upload 2
+11:14.8	Cab Conveyor / Monorail	TGJ401	Cab Upload
+11:35.0	U-BOLT	GMS924	Front U-Bolt
+13:03.4	OMT Offline Tracking	KIM819	Enter Offline
+14:05.5	OMT Offline Tracking	UFV140	Enter Offline
+15:03.3	Cab Conveyer	ULN810	Cab Upload 2
+15:03.3	Cab Conveyor / Monorail	ULN810	Cab Upload
+15:50.3	Assembly Line Tracker	PEK163	Pool 13 Start
+17:28.2	Hood Conveyor	RCF947	Hood Upload
+17:29.2	Cab Call Scan	YKZ247	B Line
+17:34.0	U-BOLT	ITO673	Front U-Bolt
+21:47.0	Cab Conveyer	OIF375	Cab Upload 2
+21:47.0	Cab Conveyor / Monorail	OIF375	Cab Upload
+22:17.1	OMT Offline Tracking	YTG326	Enter Offline
+25:25.0	U-BOLT	QME682	Front U-Bolt
+27:59.9	OMT Offline Tracking	RZW691	Enter Offline
+28:26.9	Cab Call Scan	JLD084	B Line
+33:15.4	Cab call scan	MBF976	A Line
+33:36.0	Cab Conveyer	FNG604	Cab Upload 2
+33:36.0	Cab Conveyor / Monorail	FNG604	Cab Upload
+35:50.4	Assembly Line Tracker	BEM390	Pool 13 Start
+35:50.8	Assembly Line Tracker	CXD285	Pool 13 Start
+35:51.1	Assembly Line Tracker	SYB619	Pool 13 Start
+37:19.2	Cab Call Scan	JDY852	B Line
+40:28.9	OMT Offline Tracking	FUR610	Enter Offline
+42:24.5	OMT Offline Tracking	GYV645	Enter Offline
+42:39.2	Cab Conveyer	YKZ247	Cab Upload 2
+42:39.2	Cab Conveyor / Monorail	YKZ247	Cab Upload
+43:12.3	Cab call scan	EGK921	A Line
+43:55.0	STVMS Tracking Chassis Start	PEK163	Chassis Start
+44:03.0	STVMS Tracking Chassis Start	SYB619	Chassis Start
+44:05.0	STVMS Tracking Chassis Start	CXD285	Chassis Start
+44:08.0	STVMS Tracking Chassis Start	BEM390	Chassis Start
+44:12.0	STVMS Tracking Chassis Start	CVE258	Chassis Start
+45:25.5	Hood Conveyor	ALP937	Hood Upload
+46:18.0	Cab Conveyer	NVM832	Cab Upload 2
+46:18.0	Cab Conveyor / Monorail	NVM832	Cab Upload
+47:05.0	U-BOLT	SLP187	Front U-Bolt
+48:12.8	Hood Conveyor	CSD174	Hood Upload
+50:50.4	Assembly Line Tracker	ETO603	Pool 13 Start
+50:50.8	Assembly Line Tracker	CVE258	Pool 13 Start
+51:45.0	STVMS Tracking Chassis Start	ETO603	Chassis Start
+51:56.4	Cab Conveyer	MBF976	Cab Upload 2
+51:56.4	Cab Conveyor / Monorail	MBF976	Cab Upload
+53:55.4	Cab call scan	XYI250	A Line
+54:29.2	Paint Inspection	CNZ205	PAINT
+55:26.0	U-BOLT	SGN329	Front U-Bolt
+55:56.7	Paint Inspection	MQH836	PAINT
+58:19.3	Hood Conveyor	TPD286	Hood Upload
+59:28.3	Cab Conveyer	JLD084	Cab Upload 2
+59:28.3	Cab Conveyor / Monorail	JLD084	Cab Upload
+59:31.1	OMT Offline Tracking	WMR075	Enter Offline
+00:50.4	Assembly Line Tracker	ALP937	Pool 13 Start
+00:50.8	Assembly Line Tracker	RCF947	Pool 13 Start
+01:36.8	OMT Offline Tracking	YKL520	Enter Offline
+02:34.3	Cab Call Scan	BHK490	B Line
+03:53.1	Hood Conveyor	JYI091	Hood Upload
+05:26.0	U-BOLT	TCS146	Front U-Bolt
+07:38.9	Cab Conveyer	EGK921	Cab Upload 2
+07:38.9	Cab Conveyor / Monorail	EGK921	Cab Upload
+09:07.7	Paint Inspection	HRY673	PAINT
+09:48.0	U-BOLT	OQA530	Front U-Bolt
+10:02.8	Cab call scan	UYZ958	A Line
+10:29.8	Hood Conveyor	TQL981	Hood Upload
+13:57.8	Cab Conveyer	JDY852	Cab Upload 2
+13:57.8	Cab Conveyor / Monorail	JDY852	Cab Upload
+14:05.4	Paint Inspection	MRI015	PAINT
+14:05.9	OMT Offline Tracking	KHN863	Enter Offline
+14:52.6	OMT Offline Tracking	QFB620	Enter Offline
+15:50.4	Assembly Line Tracker	CSD174	Pool 13 Start
+16:34.0	U-BOLT	DFZ024	Front U-Bolt
+17:36.5	Cab Call Scan	TNY179	B Line
+17:56.5	Hood Conveyor	KQN543	Hood Upload
+19:12.2	Cab Conveyer	XYI250	Cab Upload 2
+19:12.2	Cab Conveyor / Monorail	XYI250	Cab Upload
+21:03.0	Hood Conveyor	XGW598	Hood Upload
+23:43.4	Cab call scan	PYH561	A Line
+25:50.9	Assembly Line Tracker	JYI091	Pool 13 Start
+25:51.1	Paint Inspection	YGL283	PAINT
+25:51.4	Assembly Line Tracker	TPD286	Pool 13 Start
+25:52.0	U-BOLT	EQK798	Front U-Bolt
+26:46.7	Cab Call Scan	EPB160	B Line
+27:36.5	OMT Offline Tracking	QMF308	Enter Offline
+28:03.3	Paint Inspection	AKC912	PAINT
+30:43.0	STVMS Tracking Chassis Start	RCF947	Chassis Start
+30:46.0	STVMS Tracking Chassis Start	ALP937	Chassis Start
+30:49.0	STVMS Tracking Chassis Start	CSD174	Chassis Start
+30:52.2	Assembly Line Tracker	TQL981	Pool 13 Start
+30:53.0	STVMS Tracking Chassis Start	TPD286	Chassis Start
+30:58.0	STVMS Tracking Chassis Start	JYI091	Chassis Start
+31:09.8	Hood Conveyor	YDL247	Hood Upload
+31:21.0	U-BOLT	TGS974	Front U-Bolt
+32:31.0	Hood Conveyor	CNZ205	Hood Upload
+33:41.2	Cab Conveyer	BHK490	Cab Upload 2
+33:41.2	Cab Conveyor / Monorail	BHK490	Cab Upload
+36:42.4	Cab Conveyer	UYZ958	Cab Upload 2
+36:42.4	Cab Conveyor / Monorail	UYZ958	Cab Upload
+37:21.5	Cab call scan	LWK693	A Line
+38:45.0	U-BOLT	GDU671	Front U-Bolt
+40:02.2	OMT Offline Tracking	PSZ241	Enter Offline
+40:02.2	OMT Offline Tracking	PSZ241	Sold
+40:33.1	Hood Conveyor	MQH836	Hood Upload
+42:21.3	Cab Conveyer	TNY179	Cab Upload 2
+42:21.3	Cab Conveyor / Monorail	TNY179	Cab Upload
+42:35.3	Hood Conveyor	MRI015	Hood Upload
+42:57.7	OMT Offline Tracking	BEC741	Enter Offline
+43:30.9	Cab Call Scan	QVS392	B Line
+45:51.1	Assembly Line Tracker	XGW598	Pool 13 Start
+45:51.7	Assembly Line Tracker	KQN543	Pool 13 Start
+45:57.3	Paint Inspection	IQS845	PAINT
+46:37.9	Hood Conveyor	HRY673	Hood Upload
+47:37.0	U-BOLT	ELI075	Front U-Bolt
+49:26.8	Cab Conveyer	PYH561	Cab Upload 2
+49:26.8	Cab Conveyor / Monorail	PYH561	Cab Upload
+49:29.0	STVMS Tracking Chassis Start	TQL981	Chassis Start
+49:33.0	STVMS Tracking Chassis Start	KQN543	Chassis Start
+49:35.0	STVMS Tracking Chassis Start	XGW598	Chassis Start
+50:49.7	Hood Conveyor	AKC912	Hood Upload
+51:12.9	Cab call scan	HZD382	A Line
+52:50.0	U-BOLT	PEK163	Front U-Bolt
+53:39.6	Cab Call Scan	WDM529	B Line
+57:21.7	OMT Offline Tracking	TJV623	Enter Offline
+58:16.2	Cab Conveyer	EPB160	Cab Upload 2
+58:16.2	Cab Conveyor / Monorail	EPB160	Cab Upload
+58:48.4	Paint Inspection	DTP539	PAINT
+01:51.0	U-BOLT	SYB619	Front U-Bolt
+04:48.0	Paint Inspection	IBA235	PAINT
+05:50.8	Assembly Line Tracker	CNZ205	Pool 13 Start
+05:51.4	Assembly Line Tracker	YDL247	Pool 13 Start
+06:13.6	Cab call scan	XSF309	A Line
+08:18.0	U-BOLT	CXD285	Front U-Bolt
+08:27.9	Cab Conveyer	LWK693	Cab Upload 2
+08:27.9	Cab Conveyor / Monorail	LWK693	Cab Upload
+09:27.9	Paint Inspection	ZYA587	PAINT
+10:50.7	Assembly Line Tracker	MQH836	Pool 13 Start
+12:05.7	OMT Offline Tracking	DWK315	Enter Offline
+13:30.0	STVMS Tracking Chassis Start	YDL247	Chassis Start
+13:34.0	STVMS Tracking Chassis Start	CNZ205	Chassis Start
+13:37.0	STVMS Tracking Chassis Start	MQH836	Chassis Start
+14:04.5	Hood Conveyor	DTP539	Hood Upload
+14:41.3	Paint Inspection	MBP046	PAINT
+15:11.0	OMT Offline Tracking	NGC871	Enter Offline
+15:29.7	Cab Call Scan	GMS924	B Line
+15:52.0	U-BOLT	BEM390	Front U-Bolt
+15:53.9	Assembly Line Tracker	MRI015	Pool 13 Start
+16:06.8	Hood Conveyor	IQS845	Hood Upload
+17:22.9	Cab Conveyer	QVS392	Cab Upload 2
+17:22.9	Cab Conveyor / Monorail	QVS392	Cab Upload
+20:32.4	Hood Conveyor	ZYA587	Hood Upload
+20:33.0	STVMS Tracking Chassis Start	MRI015	Chassis Start
+20:48.4	Paint Inspection	BRL042	PAINT
+21:57.6	Cab call scan	ITO673	A Line
+24:55.1	Hood Conveyor	IBA235	Hood Upload
+25:45.6	Cab Conveyer	WDM529	Cab Upload 2
+25:45.6	Cab Conveyor / Monorail	WDM529	Cab Upload
+28:27.6	Paint Inspection	FHL057	PAINT
+29:10.8	OMT Offline Tracking	LNY482	Enter Offline
+31:13.0	U-BOLT	ETO603	Front U-Bolt
+34:02.0	Cab Call Scan	QME682	B Line
+34:55.0	Cab Conveyer	HZD382	Cab Upload 2
+34:55.0	Cab Conveyor / Monorail	HZD382	Cab Upload
+35:52.1	Hood Conveyor	MBP046	Hood Upload
+35:52.1	Assembly Line Tracker	AKC912	Pool 13 Start
+35:52.8	Assembly Line Tracker	HRY673	Pool 13 Start
+36:02.3	Paint Inspection	LMN504	PAINT
+36:47.3	Cab in white conveyer	PMG926	CIW upload
+37:13.7	Cab call scan	YPV702	A Line
+39:17.0	U-BOLT	RCF947	Front U-Bolt
+40:52.6	Cab Conveyer	XSF309	Cab Upload 2
+40:52.6	Cab Conveyor / Monorail	XSF309	Cab Upload
+41:45.2	Cab in white conveyer	GOB710	CIW upload
+41:56.5	Paint Inspection	TPG078	PAINT
+43:24.8	Hood Conveyor	FHL057	Hood Upload
+43:27.7	OMT Offline Tracking	UJB305	Enter Offline
+43:42.4	OMT Offline Tracking	KWT597	Enter Offline
+44:31.0	U-BOLT	ALP937	Front U-Bolt
+47:07.2	Cab Call Scan	FTO836	B Line
+47:34.8	Hood Conveyor	BRL042	Hood Upload
+47:45.6	Paint Inspection	XPR275	PAINT
+47:47.8	Cab in white conveyer	QDR380	CIW upload
+49:08.4	Cab Conveyer	GMS924	Cab Upload 2
+49:08.4	Cab Conveyor / Monorail	GMS924	Cab Upload
+49:16.5	OMT Offline Tracking	TFU306	Enter Offline
+50:51.5	Assembly Line Tracker	DTP539	Pool 13 Start
+51:29.4	OMT Offline Tracking	CQO892	Enter Offline
+51:56.4	Cab call scan	SGN329	A Line
+53:30.5	OMT Offline Tracking	TGJ401	Enter Offline
+53:55.3	Cab in white conveyer	CSW718	CIW upload
+54:10.6	Paint Inspection	GYI954	PAINT
+54:18.0	U-BOLT	CSD174	Front U-Bolt
+55:00.8	OMT Offline Tracking	ULN810	Enter Offline
+55:04.0	STVMS Tracking Chassis Start	HRY673	Chassis Start
+55:07.0	STVMS Tracking Chassis Start	AKC912	Chassis Start
+55:10.0	STVMS Tracking Chassis Start	DTP539	Chassis Start
+55:17.0	STVMS Tracking Chassis Start	IQS845	Chassis Start
+55:21.0	STVMS Tracking Chassis Start	ZYA587	Chassis Start
+55:23.8	Cab Conveyer	ITO673	Cab Upload 2
+55:23.8	Cab Conveyor / Monorail	ITO673	Cab Upload
+58:19.7	Hood Conveyor	LMN504	Hood Upload
+59:21.7	Cab Call Scan	SLP187	B Line
+59:22.2	Cab Conveyor / Monorail	QME682	Cab Upload
+59:22.2	Cab Conveyer	QME682	Cab Upload 2
+59:26.0	U-BOLT	TPD286	Front U-Bolt
+00:02.8	Hood Conveyor	TPG078	Hood Upload
+00:05.7	Paint Inspection	EUL768	PAINT
+00:12.3	Cab in white conveyer	ZPW452	CIW upload
+01:57.0	OMT Offline Tracking	OIF375	Enter Offline
+01:57.0	OMT Offline Tracking	OIF375	Sold
+06:39.9	Cab Conveyer	FTO836	Cab Upload 2
+06:39.9	Cab Conveyor / Monorail	FTO836	Cab Upload
+07:10.9	Cab call scan	OQA530	A Line
+07:30.6	Cab in white conveyer	MHU637	CIW upload
+08:10.4	Paint Inspection	YTP390	PAINT
+08:37.1	Hood Conveyor	XPR275	Hood Upload
+08:56.6	OMT Offline Tracking	FNG604	Enter Offline
+10:53.0	STVMS Tracking Chassis Start	IBA235	Chassis Start
+10:56.0	STVMS Tracking Chassis Start	MBP046	Chassis Start
+10:57.8	Hood Conveyor	EUL768	Hood Upload
+11:35.0	U-BOLT	JYI091	Front U-Bolt
+11:44.4	Cab Conveyer	YPV702	Cab Upload 2
+11:44.4	Cab Conveyor / Monorail	YPV702	Cab Upload
+12:00.4	Cab in white conveyer	USH564	CIW upload
+14:40.6	Paint Inspection	SOU593	PAINT
+15:01.0	U-BOLT	TQL981	Front U-Bolt
+16:02.4	Hood Conveyor	GYI954	Hood Upload
+17:39.9	Cab in white conveyer	LZA034	CIW upload
+20:23.2	Paint Inspection	EJO928	PAINT
+21:23.6	Cab in white conveyer	OXE951	CIW upload
+21:49.4	OMT Offline Tracking	NVM832	Enter Offline
+21:50.0	U-BOLT	KQN543	Front U-Bolt
+22:15.7	Hood Conveyor	YTP390	Hood Upload
+22:58.7	Cab call scan	EQK798	A Line
+23:35.8	Cab Conveyer	SLP187	Cab Upload 2
+23:35.8	Cab Conveyor / Monorail	SLP187	Cab Upload
+24:51.0	STVMS Tracking Chassis Start	FHL057	Chassis Start
+24:54.0	STVMS Tracking Chassis Start	BRL042	Chassis Start
+25:53.0	Assembly Line Tracker	BRL042	Pool 13 Start
+25:53.9	Assembly Line Tracker	FHL057	Pool 13 Start
+25:54.8	Assembly Line Tracker	MBP046	Pool 13 Start
+25:55.6	Assembly Line Tracker	IBA235	Pool 13 Start
+25:56.5	Assembly Line Tracker	ZYA587	Pool 13 Start
+25:57.3	Assembly Line Tracker	IQS845	Pool 13 Start
+26:27.0	Cab in white conveyer	DZO637	CIW upload
+28:42.0	U-BOLT	XGW598	Front U-Bolt
+29:04.5	Paint Inspection	IXM739	PAINT
+30:01.8	OMT Offline Tracking	YKZ247	Enter Offline
+30:50.9	Assembly Line Tracker	LMN504	Pool 13 Start
+31:21.1	Cab Call Scan	DFZ024	B Line
+31:41.2	Cab Conveyer	SGN329	Cab Upload 2
+31:41.2	Cab Conveyor / Monorail	SGN329	Cab Upload
+32:32.0	STVMS Tracking Chassis Start	LMN504	Chassis Start
+33:55.2	Cab in white conveyer	CJQ075	CIW upload
+33:59.3	Hood Conveyor	WXK853	Hood Upload
+34:45.4	Paint Inspection	HMJ710	PAINT
+35:47.0	U-BOLT	YDL247	Front U-Bolt
+37:51.9	Cab Conveyer	OQA530	Cab Upload 2
+37:51.9	Cab Conveyor / Monorail	OQA530	Cab Upload
+38:15.9	Cab call scan	GDU671	A Line
+38:35.4	OMT Offline Tracking	MBF976	Enter Offline
+39:27.1	Cab Call Scan	TGS974	B Line
+41:32.1	Cab in white conveyer	LOF143	CIW upload
+41:42.8	Paint Inspection	MVW427	PAINT
+44:06.0	STVMS Tracking Chassis Start	TPG078	Chassis Start
+45:00.5	Hood Conveyor	SOU593	Hood Upload
+45:42.0	U-BOLT	CNZ205	Front U-Bolt
+45:51.1	Assembly Line Tracker	EUL768	Pool 13 Start
+45:51.9	Assembly Line Tracker	XPR275	Pool 13 Start
+45:52.7	OMT Offline Tracking	EGK921	Enter Offline
+45:53.2	Assembly Line Tracker	TPG078	Pool 13 Start
+46:13.5	Cab in white conveyer	CJQ075	CIW upload
+46:25.5	Cab in white conveyer	LOF143	CIW upload
+49:39.9	Cab call scan	PEK163	A Line
+52:49.0	U-BOLT	MQH836	Front U-Bolt
+53:31.3	OMT Offline Tracking	XYI250	Enter Offline
+55:50.9	Assembly Line Tracker	YTP390	Pool 13 Start
+55:51.6	Assembly Line Tracker	GYI954	Pool 13 Start
+57:13.0	STVMS Tracking Chassis Start	XPR275	Chassis Start
+58:06.1	Cab Call Scan	ELI075	B Line
+01:21.0	U-BOLT	MRI015	Front U-Bolt
+16:16.2	Cab Conveyer	EQK798	Cab Upload 2
+16:16.2	Cab Conveyor / Monorail	EQK798	Cab Upload
+16:44.2	Cab in white conveyer	RQJ940	CIW upload
+21:39.4	Paint Inspection	AMZ845	PAINT
+22:56.6	Hood Conveyor	IXM739	Hood Upload
+23:12.4	Cab in white conveyer	JCM567	CIW upload
+27:05.7	Cab Conveyer	DFZ024	Cab Upload 2
+27:05.7	Cab Conveyor / Monorail	DFZ024	Cab Upload
+28:20.8	Cab Conveyer	GDU671	Cab Upload 2
+28:20.8	Cab Conveyor / Monorail	GDU671	Cab Upload
+29:28.0	Cab in white conveyer	GFM783	CIW upload
+30:09.0	Hood Conveyor	EJO928	Hood Upload
+30:50.0	Paint Inspection	HQD748	PAINT
+34:14.6	Cab Conveyer	TGS974	Cab Upload 2
+34:14.6	Cab Conveyor / Monorail	TGS974	Cab Upload
+34:42.2	Cab in white conveyer	EUZ386	CIW upload
+35:42.2	OMT Offline Tracking	JDY852	Enter Offline
+36:06.0	Hood Conveyor	HMJ710	Hood Upload
+37:41.9	Cab call scan	CXD285	A Line
+38:41.2	Paint Inspection	VQD376	PAINT
+40:14.9	Cab in white conveyer	TMZ629	CIW upload
+40:19.0	U-BOLT	HRY673	Front U-Bolt
+42:23.2	OMT Offline Tracking	UYZ958	Enter Offline
+43:48.3	Paint Inspection	ZHB578	PAINT
+44:32.0	STVMS Tracking Chassis Start	EUL768	Chassis Start
+44:36.0	STVMS Tracking Chassis Start	GYI954	Chassis Start
+44:40.0	STVMS Tracking Chassis Start	YTP390	Chassis Start
+46:00.0	U-BOLT	AKC912	Front U-Bolt
+46:28.8	Cab Call Scan	SYB619	B Line
+46:50.3	Hood Conveyor	MVW427	Hood Upload
+47:53.0	OMT Offline Tracking	BHK490	Enter Offline
+50:00.0	STVMS Tracking Chassis Start	WXK853	Chassis Start
+50:25.9	Cab call scan	CVE258	A Line
+53:45.7	Paint Inspection	QJP284	PAINT
+53:55.0	U-BOLT	DTP539	Front U-Bolt
+54:06.5	Cab in white conveyer	SNI285	CIW upload
+54:53.9	Cab Conveyer	PEK163	Cab Upload 2
+54:53.9	Cab Conveyor / Monorail	PEK163	Cab Upload
+57:39.6	OMT Offline Tracking	PYH561	Enter Offline
+58:42.2	Hood Conveyor	AMZ845	Hood Upload
+59:21.2	Cab Conveyer	ELI075	Cab Upload 2
+59:21.2	Cab Conveyor / Monorail	ELI075	Cab Upload
+59:39.7	Cab in white conveyer	PMN417	CIW upload
+00:47.0	U-BOLT	IQS845	Front U-Bolt
+00:47.1	OMT Offline Tracking	TNY179	Enter Offline
+04:32.8	Cab Call Scan	BEM390	B Line
+04:59.1	Cab in white conveyer	ZDI213	CIW upload
+07:28.0	Hood Conveyor	HQD748	Hood Upload
+07:52.5	Cab call scan	ETO603	A Line
+08:21.0	U-BOLT	ZYA587	Front U-Bolt
+08:52.1	Cab Conveyer	CXD285	Cab Upload 2
+08:52.1	Cab Conveyor / Monorail	CXD285	Cab Upload
+09:43.6	Hood Conveyor	QJP284	Hood Upload
+12:10.0	STVMS Tracking Chassis Start	SOU593	Chassis Start
+12:13.0	STVMS Tracking Chassis Start	IXM739	Chassis Start
+12:15.0	STVMS Tracking Chassis Start	EJO928	Chassis Start
+12:54.8	Cab in white conveyer	ALE837	CIW upload
+13:56.8	Cab Call Scan	RCF947	B Line
+15:22.8	OMT Offline Tracking	LWK693	Enter Offline
+15:37.7	Paint Inspection	PGY640	PAINT
+15:38.0	U-BOLT	IBA235	Front U-Bolt
+15:50.9	Hood Conveyor	ZHB578	Hood Upload
+15:51.5	Assembly Line Tracker	SOU593	Pool 13 Start
+15:52.3	Assembly Line Tracker	WXK853	Pool 13 Start
+18:00.4	Cab Conveyer	CVE258	Cab Upload 2
+18:00.4	Cab Conveyor / Monorail	CVE258	Cab Upload
+20:55.1	Cab in white conveyer	WQB451	CIW upload
+22:51.6	Cab call scan	ALP937	A Line
+24:09.2	Cab Conveyer	SYB619	Cab Upload 2
+24:09.2	Cab Conveyor / Monorail	SYB619	Cab Upload
+24:27.0	U-BOLT	MBP046	Front U-Bolt
+26:33.0	STVMS Tracking Chassis Start	HMJ710	Chassis Start
+26:36.0	STVMS Tracking Chassis Start	MVW427	Chassis Start
+27:45.2	Hood Conveyor	VQD376	Hood Upload
+28:36.3	Cab Conveyer	BEM390	Cab Upload 2
+28:36.3	Cab Conveyor / Monorail	BEM390	Cab Upload
+29:37.2	OMT Offline Tracking	QVS392	Enter Offline
+29:37.2	OMT Offline Tracking	QVS392	Sold
+29:56.3	Cab in white conveyer	KMA503	CIW upload
+30:50.7	Assembly Line Tracker	HMJ710	Pool 13 Start
+30:51.4	Assembly Line Tracker	EJO928	Pool 13 Start
+30:52.1	Assembly Line Tracker	IXM739	Pool 13 Start
+31:23.1	Paint Inspection	FIX581	PAINT
+31:52.0	U-BOLT	FHL057	Front U-Bolt
+32:19.0	Cab Call Scan	CSD174	B Line
+34:31.2	Cab Conveyer	ETO603	Cab Upload 2
+34:31.2	Cab Conveyor / Monorail	ETO603	Cab Upload
+36:01.7	Cab in white conveyer	KSX968	CIW upload
+36:31.0	STVMS Tracking Chassis Start	AMZ845	Chassis Start
+37:07.8	Cab call scan	TPD286	A Line
+39:40.3	Cab Conveyer	RCF947	Cab Upload 2
+39:40.3	Cab Conveyor / Monorail	RCF947	Cab Upload
+39:51.0	U-BOLT	BRL042	Front U-Bolt
+40:25.6	OMT Offline Tracking	HZD382	Enter Offline
+40:51.5	Assembly Line Tracker	MVW427	Pool 13 Start
+43:53.0	STVMS Tracking Chassis Start	HQD748	Chassis Start
+44:01.6	Cab in white conveyer	TFX540	CIW upload
+44:35.2	OMT Offline Tracking	WDM529	Enter Offline
+45:06.6	Cab Call Scan	JYI091	B Line
+45:51.6	Assembly Line Tracker	AMZ845	Pool 13 Start
+46:40.2	Paint Inspection	CSM507	PAINT
+46:57.0	U-BOLT	LMN504	Front U-Bolt
+48:04.0	STVMS Tracking Top Station	TCS146	Top Station
+48:07.0	STVMS Tracking Top Station	OQA530	Top Station
+48:12.0	STVMS Tracking Top Station	DFZ024	Top Station
+48:15.0	STVMS Tracking Top Station	EQK798	Top Station
+48:18.0	STVMS Tracking Top Station	TGS974	Top Station
+48:22.0	STVMS Tracking Top Station	GDU671	Top Station
+48:26.0	STVMS Tracking Top Station	ELI075	Top Station
+48:29.0	STVMS Tracking Top Station	PEK163	Top Station
+48:32.0	STVMS Tracking Top Station	SYB619	Top Station
+48:36.0	STVMS Tracking Top Station	CXD285	Top Station
+48:36.4	OMT Offline Tracking	EPB160	Enter Offline
+48:38.6	OMT Offline Tracking	XSF309	Enter Offline
+48:39.0	STVMS Tracking Top Station	BEM390	Top Station
+48:43.0	STVMS Tracking Top Station	CVE258	Top Station
+48:46.0	STVMS Tracking Top Station	ETO603	Top Station
+48:50.0	STVMS Tracking Top Station	RCF947	Top Station
+48:53.0	STVMS Tracking Top Station	ALP937	Top Station
+50:31.0	Cab Conveyer	ALP937	Cab Upload 2
+50:31.0	Cab Conveyor / Monorail	ALP937	Cab Upload
+50:50.8	Assembly Line Tracker	ALP937	Pool 60 Start
+50:51.7	Assembly Line Tracker	RCF947	Pool 60 Start
+50:52.6	Assembly Line Tracker	ETO603	Pool 60 Start
+50:53.5	Assembly Line Tracker	CVE258	Pool 60 Start
+50:54.4	Assembly Line Tracker	BEM390	Pool 60 Start
+50:55.2	Assembly Line Tracker	CXD285	Pool 60 Start
+50:56.1	Assembly Line Tracker	SYB619	Pool 60 Start
+50:56.9	Assembly Line Tracker	PEK163	Pool 60 Start
+50:57.7	Assembly Line Tracker	ELI075	Pool 60 Start
+50:58.7	Assembly Line Tracker	GDU671	Pool 60 Start
+50:59.5	Assembly Line Tracker	TGS974	Pool 60 Start
+51:00.3	Assembly Line Tracker	EQK798	Pool 60 Start
+51:01.1	Assembly Line Tracker	DFZ024	Pool 60 Start
+51:02.0	Assembly Line Tracker	OQA530	Pool 60 Start
+51:02.8	Assembly Line Tracker	TCS146	Pool 60 Start
+51:34.5	Cab call scan	TQL981	A Line
+52:07.6	Cab in white conveyer	XFN395	CIW upload
+52:42.0	U-BOLT	TPG078	Front U-Bolt
+52:59.9	Paint Inspection	UHP854	PAINT
+55:40.9	Cab Call Scan	KQN543	B Line
+55:51.1	OMT Offline Tracking	ITO673	Enter Offline
+55:51.1	OMT Offline Tracking	ITO673	Sold
+56:09.0	STVMS Tracking Chassis Start	VQD376	Chassis Start
+56:12.0	STVMS Tracking Chassis Start	QJP284	Chassis Start
+57:57.3	Paint Inspection	PRA475	PAINT
+58:43.1	Cab Conveyer	CSD174	Cab Upload 2
+58:43.1	Cab Conveyor / Monorail	CSD174	Cab Upload
+58:45.8	Hood Conveyor	PGY640	Hood Upload
+58:59.1	Cab in white conveyer	TRL028	CIW upload
+00:50.8	Assembly Line Tracker	VQD376	Pool 13 Start
+00:51.6	Assembly Line Tracker	HQD748	Pool 13 Start
+01:15.0	U-BOLT	XPR275	Front U-Bolt
+02:04.0	STVMS Tracking Top Station	CSD174	Top Station
+02:08.0	STVMS Tracking Top Station	TPD286	Top Station
+02:13.0	STVMS Tracking Top Station	JYI091	Top Station
+02:17.0	STVMS Tracking Top Station	TQL981	Top Station
+02:20.0	STVMS Tracking Top Station	KQN543	Top Station
+02:25.0	STVMS Tracking Top Station	XGW598	Top Station
+02:29.0	STVMS Tracking Top Station	YDL247	Top Station
+02:30.1	Paint Inspection	MGF879	PAINT
+02:34.0	STVMS Tracking Top Station	CNZ205	Top Station
+02:39.0	STVMS Tracking Top Station	MQH836	Top Station
+02:42.0	STVMS Tracking Top Station	MRI015	Top Station
+02:45.0	STVMS Tracking Top Station	HRY673	Top Station
+02:49.0	STVMS Tracking Top Station	AKC912	Top Station
+02:56.0	STVMS Tracking Top Station	DTP539	Top Station
+03:01.0	STVMS Tracking Top Station	IQS845	Top Station
+03:05.0	STVMS Tracking Top Station	ZYA587	Top Station
+03:09.0	STVMS Tracking Top Station	IBA235	Top Station
+03:15.0	STVMS Tracking Top Station	MBP046	Top Station
+03:19.0	STVMS Tracking Top Station	FHL057	Top Station
+03:23.0	STVMS Tracking Top Station	BRL042	Top Station
+03:26.0	STVMS Tracking Top Station	LMN504	Top Station
+03:30.0	STVMS Tracking Top Station	TPG078	Top Station
+03:33.0	STVMS Tracking Top Station	XPR275	Top Station
+03:36.0	STVMS Tracking Top Station	EUL768	Top Station
+03:39.0	STVMS Tracking Top Station	GYI954	Top Station
+03:42.0	STVMS Tracking Top Station	YTP390	Top Station
+03:46.0	STVMS Tracking Top Station	WXK853	Top Station
+03:50.0	STVMS Tracking Top Station	SOU593	Top Station
+03:54.0	STVMS Tracking Top Station	IXM739	Top Station
+03:54.8	Cab Conveyer	TPD286	Cab Upload 2
+03:54.8	Cab Conveyor / Monorail	TPD286	Cab Upload
+03:59.0	STVMS Tracking Top Station	EJO928	Top Station
+04:03.0	STVMS Tracking Top Station	HMJ710	Top Station
+04:06.0	STVMS Tracking Top Station	MVW427	Top Station
+04:10.0	STVMS Tracking Top Station	AMZ845	Top Station
+04:13.0	STVMS Tracking Top Station	HQD748	Top Station
+04:16.0	STVMS Tracking Top Station	VQD376	Top Station
+04:19.0	STVMS Tracking Top Station	QJP284	Top Station
+04:23.0	STVMS Tracking Top Station	ZHB578	Top Station
+04:25.0	STVMS Tracking Top Station	PGY640	Top Station
+04:28.0	STVMS Tracking Top Station	FIX581	Top Station
+04:31.0	STVMS Tracking Top Station	UHP854	Top Station
+04:37.0	STVMS Tracking Top Station	CSM507	Top Station
+04:43.0	STVMS Tracking Top Station	MGF879	Top Station
+04:50.0	STVMS Tracking Top Station	PRA475	Top Station
+04:54.0	STVMS Tracking Top Station	QFW209	Top Station
+04:59.0	STVMS Tracking Top Station	SZP362	Top Station
+05:03.0	STVMS Tracking Top Station	BIP389	Top Station
+05:07.0	STVMS Tracking Top Station	TUQ327	Top Station
+05:13.9	Cab in white conveyer	TEP325	CIW upload
+05:15.0	STVMS Tracking Top Station	SVP127	Top Station
+05:23.0	STVMS Tracking Top Station	ELJ539	Top Station
+05:28.0	STVMS Tracking Top Station	IFP328	Top Station
+05:39.0	STVMS Tracking Top Station	DKW659	Top Station
+05:44.0	STVMS Tracking Top Station	JPU485	Top Station
+05:51.4	Assembly Line Tracker	JPU485	Pool 60 Start
+05:52.7	Assembly Line Tracker	DKW659	Pool 60 Start
+05:53.9	Assembly Line Tracker	IFP328	Pool 60 Start
+05:55.1	Assembly Line Tracker	ELJ539	Pool 60 Start
+05:56.2	Assembly Line Tracker	SVP127	Pool 60 Start
+05:57.4	Assembly Line Tracker	TUQ327	Pool 60 Start
+05:58.6	Assembly Line Tracker	BIP389	Pool 60 Start
+05:59.8	Assembly Line Tracker	SZP362	Pool 60 Start
+06:00.9	Assembly Line Tracker	QFW209	Pool 60 Start
+06:02.1	Assembly Line Tracker	PRA475	Pool 60 Start
+06:03.3	Assembly Line Tracker	MGF879	Pool 60 Start
+06:04.4	Assembly Line Tracker	CSM507	Pool 60 Start
+06:05.6	Assembly Line Tracker	UHP854	Pool 60 Start
+06:06.7	Assembly Line Tracker	FIX581	Pool 60 Start
+06:07.9	Assembly Line Tracker	PGY640	Pool 60 Start
+06:09.1	Assembly Line Tracker	ZHB578	Pool 60 Start
+06:10.2	Assembly Line Tracker	QJP284	Pool 60 Start
+06:11.3	Assembly Line Tracker	VQD376	Pool 60 Start
+06:12.6	Assembly Line Tracker	HQD748	Pool 60 Start
+06:13.8	Assembly Line Tracker	AMZ845	Pool 60 Start
+06:14.9	Assembly Line Tracker	MVW427	Pool 60 Start
+06:16.2	Assembly Line Tracker	HMJ710	Pool 60 Start
+06:17.7	Assembly Line Tracker	EJO928	Pool 60 Start
+06:18.8	Assembly Line Tracker	IXM739	Pool 60 Start
+06:20.0	Assembly Line Tracker	SOU593	Pool 60 Start
+06:21.1	Assembly Line Tracker	WXK853	Pool 60 Start
+06:22.3	Assembly Line Tracker	YTP390	Pool 60 Start
+06:23.6	Assembly Line Tracker	GYI954	Pool 60 Start
+06:24.8	Assembly Line Tracker	EUL768	Pool 60 Start
+06:26.0	Assembly Line Tracker	XPR275	Pool 60 Start
+06:27.1	Assembly Line Tracker	TPG078	Pool 60 Start
+06:28.3	Assembly Line Tracker	LMN504	Pool 60 Start
+06:29.4	Assembly Line Tracker	BRL042	Pool 60 Start
+06:30.6	Assembly Line Tracker	FHL057	Pool 60 Start
+06:31.8	Assembly Line Tracker	MBP046	Pool 60 Start
+06:32.9	Assembly Line Tracker	QJP284	Pool 13 Start
+06:34.1	Assembly Line Tracker	IBA235	Pool 60 Start
+06:35.3	Assembly Line Tracker	ZYA587	Pool 60 Start
+06:36.6	Assembly Line Tracker	IQS845	Pool 60 Start
+06:54.5	Hood Conveyor	FIX581	Hood Upload
+07:28.0	U-BOLT	EUL768	Front U-Bolt
+07:45.1	Cab call scan	HMX073	A Line
+08:05.6	OMT Offline Tracking	GMS924	Enter Offline
+10:10.7	Cab Conveyer	JYI091	Cab Upload 2
+10:10.7	Cab Conveyor / Monorail	JYI091	Cab Upload
+10:27.3	Paint Inspection	SZP362	PAINT
+10:51.1	Assembly Line Tracker	ZHB578	Pool 13 Start
+10:53.5	Assembly Line Tracker	DTP539	Pool 60 Start
+10:54.6	Assembly Line Tracker	AKC912	Pool 60 Start
+10:55.7	Assembly Line Tracker	HRY673	Pool 60 Start
+10:56.9	Assembly Line Tracker	MRI015	Pool 60 Start
+10:58.4	Assembly Line Tracker	MQH836	Pool 60 Start
+10:59.6	Assembly Line Tracker	CNZ205	Pool 60 Start
+11:00.7	Assembly Line Tracker	YDL247	Pool 60 Start
+11:01.8	Assembly Line Tracker	XGW598	Pool 60 Start
+11:02.9	Assembly Line Tracker	KQN543	Pool 60 Start
+11:04.1	Assembly Line Tracker	TQL981	Pool 60 Start
+11:05.2	Assembly Line Tracker	JYI091	Pool 60 Start
+11:06.3	Assembly Line Tracker	TPD286	Pool 60 Start
+11:07.6	Assembly Line Tracker	CSD174	Pool 60 Start
+11:58.0	STVMS Tracking Chassis Start	ZHB578	Chassis Start
+12:03.0	STVMS Tracking Chassis Start	PGY640	Chassis Start
+12:03.8	Cab in white conveyer	NKE126	CIW upload
+14:44.2	Cab in white conveyer	FMU279	CIW upload
+14:50.0	STVMS Tracking Top Station	LEA891	Top Station
+14:50.0	Paint Inspection	QFW209	PAINT
+14:57.0	STVMS Tracking Top Station	SIW958	Top Station
+15:01.0	STVMS Tracking Top Station	OSR174	Top Station
+15:05.0	STVMS Tracking Top Station	USD901	Top Station
+15:08.0	STVMS Tracking Top Station	CQU695	Top Station
+15:12.0	STVMS Tracking Top Station	WBH162	Top Station
+15:19.0	STVMS Tracking Top Station	TYA561	Top Station
+15:23.0	STVMS Tracking Top Station	DVM139	Top Station
+15:28.0	STVMS Tracking Top Station	GPJ498	Top Station
+15:32.0	STVMS Tracking Top Station	UBJ603	Top Station
+15:35.0	STVMS Tracking Top Station	JYL728	Top Station
+15:40.0	STVMS Tracking Top Station	OTS758	Top Station
+15:43.0	STVMS Tracking Top Station	NUR218	Top Station
+15:51.2	Assembly Line Tracker	NUR218	Pool 60 Start
+15:52.0	STVMS Tracking Top Station	XWK825	Top Station
+15:52.5	Assembly Line Tracker	OTS758	Pool 60 Start
+15:53.8	OMT Offline Tracking	YPV702	Enter Offline
+15:53.8	Assembly Line Tracker	XWK825	Pool 60 Start
+15:55.1	Assembly Line Tracker	JYL728	Pool 60 Start
+15:56.0	STVMS Tracking Top Station	KSP816	Top Station
+15:56.3	Assembly Line Tracker	UBJ603	Pool 60 Start
+15:57.6	Assembly Line Tracker	KSP816	Pool 60 Start
+15:58.9	Assembly Line Tracker	GPJ498	Pool 60 Start
+16:00.1	Assembly Line Tracker	DVM139	Pool 60 Start
+16:01.4	Assembly Line Tracker	TYA561	Pool 60 Start
+16:04.0	Assembly Line Tracker	WBH162	Pool 60 Start
+16:05.5	Assembly Line Tracker	CQU695	Pool 60 Start
+16:06.7	Assembly Line Tracker	USD901	Pool 60 Start
+16:08.0	Assembly Line Tracker	OSR174	Pool 60 Start
+16:09.4	Assembly Line Tracker	SIW958	Pool 60 Start
+16:10.6	Assembly Line Tracker	LEA891	Pool 60 Start
+17:29.2	Cab Conveyer	TQL981	Cab Upload 2
+17:29.2	Cab Conveyor / Monorail	TQL981	Cab Upload
+17:31.7	Cab Call Scan	XGW598	B Line
+20:28.9	Hood Conveyor	UHP854	Hood Upload
+20:51.3	Assembly Line Tracker	PGY640	Pool 13 Start
+20:52.3	Cab in white conveyer	QMA357	CIW upload
+21:31.7	Cab call scan	CNZ205	A Line
+21:46.0	U-BOLT	YTP390	Front U-Bolt
+21:59.2	Cab Conveyer	KQN543	Cab Upload 2
+21:59.2	Cab Conveyor / Monorail	KQN543	Cab Upload
+23:37.4	OMT Offline Tracking	QME682	Enter Offline
+23:37.4	OMT Offline Tracking	QME682	Sold
+24:24.2	Paint Inspection	TUQ327	PAINT
+25:54.2	Cab in white conveyer	ERC382	CIW upload
+28:39.6	OMT Offline Tracking	SGN329	Enter Offline
+30:47.8	Cab in white conveyer	GQV369	CIW upload
+30:51.3	Assembly Line Tracker	FIX581	Pool 13 Start
+30:53.8	Hood Conveyor	CSM507	Hood Upload
+33:53.0	STVMS Tracking Chassis Start	FIX581	Chassis Start
+33:58.0	STVMS Tracking Chassis Start	UHP854	Chassis Start
+34:01.2	Cab Call Scan	MQH836	B Line
+34:04.0	STVMS Tracking Chassis Start	CSM507	Chassis Start
+36:04.1	Assembly Line Tracker	UHP854	Pool 13 Start
+36:27.0	Hood Conveyor	MGF879	Hood Upload
+36:52.0	Cab call scan	HRY673	A Line
+37:24.1	Cab in white conveyer	QZB271	CIW upload
+37:43.1	Cab Conveyer	HMX073	Cab Upload 2
+37:43.1	Cab Conveyor / Monorail	HMX073	Cab Upload
+38:10.2	Paint Inspection	BIP389	PAINT
+38:42.6	OMT Offline Tracking	FTO836	Enter Offline
+39:15.0	U-BOLT	SOU593	Front U-Bolt
+39:24.3	Hood Conveyor	PRA475	Hood Upload
+42:17.0	STVMS Tracking Chassis Start	MGF879	Chassis Start
+43:23.8	Cab in white conveyer	RHX208	CIW upload
+44:32.3	OMT Offline Tracking	HMX073	Enter Offline
+44:53.0	U-BOLT	IXM739	Front U-Bolt
+45:51.3	Assembly Line Tracker	MGF879	Pool 13 Start
+45:51.9	Cab Conveyer	XGW598	Cab Upload 2
+45:51.9	Cab Conveyor / Monorail	XGW598	Cab Upload
+45:52.7	Assembly Line Tracker	CSM507	Pool 13 Start
+49:12.8	Cab Call Scan	MRI015	B Line
+49:38.1	Cab in white conveyer	WRT608	CIW upload
+51:26.0	Cab call scan	AKC912	A Line
+52:19.5	OMT Offline Tracking	SLP187	Enter Offline
+53:19.7	Hood Conveyor	QFW209	Hood Upload
+53:21.0	U-BOLT	EJO928	Front U-Bolt
+54:11.7	Cab Conveyer	CNZ205	Cab Upload 2
+54:11.7	Cab Conveyor / Monorail	CNZ205	Cab Upload
+55:51.3	Assembly Line Tracker	QFW209	Pool 13 Start
+55:52.6	Assembly Line Tracker	PRA475	Pool 13 Start
+57:22.0	STVMS Tracking Chassis Start	PRA475	Chassis Start
+57:48.4	Hood Conveyor	SZP362	Hood Upload
+58:51.0	Cab in white conveyer	NUX358	CIW upload
+00:13.0	U-BOLT	HMJ710	Front U-Bolt
+00:19.1	Paint Inspection	OWH831	PAINT
+01:04.3	Paint Inspection	SVP127	PAINT
+01:18.8	Cab Conveyer	MQH836	Cab Upload 2
+01:18.8	Cab Conveyor / Monorail	MQH836	Cab Upload
+04:35.0	STVMS Tracking Chassis Start	QFW209	Chassis Start
+04:39.0	STVMS Tracking Chassis Start	SZP362	Chassis Start
+05:54.2	Assembly Line Tracker	BIP389	Pool 13 Start
+05:55.5	Assembly Line Tracker	SZP362	Pool 13 Start
+06:20.0	U-BOLT	MVW427	Front U-Bolt
+06:45.7	Hood Conveyor	BIP389	Hood Upload
+08:10.8	Cab in white conveyer	GDR742	CIW upload
+08:32.0	OMT Offline Tracking	EQK798	Enter Offline
+10:23.7	Cab Conveyer	HRY673	Cab Upload 2
+10:23.7	Cab Conveyor / Monorail	HRY673	Cab Upload
+11:02.2	Cab call scan	IQS845	A Line
+11:54.0	STVMS Tracking Chassis Start	BIP389	Chassis Start
+13:35.0	U-BOLT	AMZ845	Front U-Bolt
+13:44.0	Cab Call Scan	DTP539	B Line
+13:59.6	Cab in white conveyer	SPA495	CIW upload
+14:22.0	OMT Offline Tracking	TCS146	Enter Offline
+15:25.2	Cab Conveyer	MRI015	Cab Upload 2
+15:25.2	Cab Conveyor / Monorail	MRI015	Cab Upload
+15:53.8	Assembly Line Tracker	TUQ327	Pool 13 Start
+19:32.5	Cab in white conveyer	RAI572	CIW upload
+21:03.6	Cab Call Scan	ZYA587	B Line
+22:20.6	Cab Conveyer	AKC912	Cab Upload 2
+22:20.6	Cab Conveyor / Monorail	AKC912	Cab Upload
+22:21.0	U-BOLT	HQD748	Front U-Bolt
+23:19.9	OMT Offline Tracking	DFZ024	Enter Offline
+23:19.9	OMT Offline Tracking	DFZ024	Sold
+24:41.0	STVMS Tracking Chassis Start	TUQ327	Chassis Start
+25:38.0	Cab call scan	IBA235	A Line
+28:34.0	U-BOLT	VQD376	Front U-Bolt
+35:49.7	OMT Offline Tracking	JLD084	Enter Offline
+52:54.3	Hood Conveyor	TUQ327	Hood Upload
+00:26.3	Hood Conveyor	SVP127	Hood Upload
+37:07.6	OMT Offline Tracking	OQA530	Enter Offline
+44:42.4	Paint Inspection	IFP328	PAINT
+49:23.6	Paint Inspection	LEA891	PAINT
+51:02.3	Paint Inspection	SIW958	PAINT
+06:34.0	Paint Inspection	OSR174	PAINT
+17:41.1	Paint Inspection	LER634	PAINT
+21:07.0	STVMS Tracking Top Station	OTX594	Top Station
+21:12.0	STVMS Tracking Top Station	LVP764	Top Station
+21:17.0	STVMS Tracking Top Station	JBQ468	Top Station
+21:21.0	STVMS Tracking Top Station	TPJ583	Top Station
+21:25.0	STVMS Tracking Top Station	QVP853	Top Station
+21:30.0	STVMS Tracking Top Station	YHB831	Top Station
+21:33.0	STVMS Tracking Top Station	XLW275	Top Station
+21:37.0	STVMS Tracking Top Station	WTB963	Top Station
+21:41.0	STVMS Tracking Top Station	INW067	Top Station
+21:45.0	STVMS Tracking Top Station	NKM173	Top Station
+25:50.6	Assembly Line Tracker	NKM173	Pool 60 Start
+25:50.9	Assembly Line Tracker	INW067	Pool 60 Start
+25:51.2	Assembly Line Tracker	WTB963	Pool 60 Start
+25:51.6	Assembly Line Tracker	XLW275	Pool 60 Start
+25:51.9	Assembly Line Tracker	YHB831	Pool 60 Start
+25:52.2	Assembly Line Tracker	QVP853	Pool 60 Start
+25:52.5	Assembly Line Tracker	TPJ583	Pool 60 Start
+25:52.9	Assembly Line Tracker	JBQ468	Pool 60 Start
+25:53.2	Assembly Line Tracker	LVP764	Pool 60 Start
+25:53.5	Assembly Line Tracker	OTX594	Pool 60 Start
+32:38.3	Paint Inspection	CQU695	PAINT
+33:14.7	Paint Inspection	USD901	PAINT
+43:47.9	Paint Inspection	WBH162	PAINT
+38:15.2	Cab Conveyer	DTP539	Cab Upload 2
+38:15.2	Cab Conveyor / Monorail	DTP539	Cab Upload
+42:59.3	Cab Call Scan	MBP046	B Line
+43:14.7	OMT Offline Tracking	GDU671	Enter Offline
+43:14.7	OMT Offline Tracking	GDU671	Sold
+44:23.9	OMT Offline Tracking	TGS974	Sold
+44:23.9	OMT Offline Tracking	TGS974	Enter Offline
+45:50.3	Assembly Line Tracker	SVP127	Pool 13 Start
+45:57.7	Cab Conveyer	IQS845	Cab Upload 2
+45:57.7	Cab Conveyor / Monorail	IQS845	Cab Upload
+46:19.0	STVMS Tracking Chassis Start	SVP127	Chassis Start
+46:45.9	Hood Conveyor	ELJ539	Hood Upload
+46:51.7	Paint Inspection	TYA561	PAINT
+47:54.5	Cab call scan	FHL057	A Line
+49:56.6	OMT Offline Tracking	PEK163	Enter Offline
+50:50.4	Assembly Line Tracker	ELJ539	Pool 13 Start
+52:09.3	Paint Inspection	DVM139	PAINT
+52:12.0	U-BOLT	QJP284	Front U-Bolt
+53:16.0	STVMS Tracking Chassis Start	ELJ539	Chassis Start
+54:26.0	U-BOLT	QJP284	Rear U-Bolt
+55:34.2	Cab Conveyer	ZYA587	Cab Upload 2
+55:34.2	Cab Conveyor / Monorail	ZYA587	Cab Upload
+55:40.3	Hood Conveyor	IFP328	Hood Upload
+55:50.4	Assembly Line Tracker	IFP328	Pool 13 Start
+58:16.9	Cab in white conveyer	YAP829	CIW upload
+59:46.8	OMT Offline Tracking	CXD285	Enter Offline
+59:54.2	Hood Conveyor	DKW659	Hood Upload
+00:04.9	Paint Inspection	GPJ498	PAINT
+00:24.0	U-BOLT	ZHB578	Front U-Bolt
+00:50.4	Assembly Line Tracker	DKW659	Pool 13 Start
+01:18.2	OMT Offline Tracking	ELI075	Enter Offline
+01:19.0	STVMS Tracking Chassis Start	IFP328	Chassis Start
+01:51.5	Cab Call Scan	BRL042	B Line
+02:51.0	Cab call scan	ACM236	A Line
+04:59.3	Hood Conveyor	JPU485	Hood Upload
+05:42.9	Cab in white conveyer	ZIQ738	CIW upload
+05:57.0	U-BOLT	PGY640	Rear U-Bolt
+06:38.0	U-BOLT	PGY640	Front U-Bolt
+06:46.0	Paint Inspection	UBJ603	PAINT
+07:04.3	Cab Conveyer	IBA235	Cab Upload 2
+07:04.3	Cab Conveyor / Monorail	IBA235	Cab Upload
+07:05.0	STVMS Tracking Chassis Start	DKW659	Chassis Start
+10:49.6	Cab Call Scan	TPG078	B Line
+10:50.4	Assembly Line Tracker	JPU485	Pool 13 Start
+12:07.3	Hood Conveyor	LEA891	Hood Upload
+13:07.9	Cab in white conveyer	THO850	CIW upload
+14:50.0	U-BOLT	FIX581	Front U-Bolt
+14:56.0	U-BOLT	FIX581	Rear U-Bolt
+14:56.4	Cab Conveyer	FHL057	Cab Upload 2
+14:56.4	Cab Conveyor / Monorail	FHL057	Cab Upload
+15:32.0	STVMS Tracking Chassis Start	JPU485	Chassis Start
+15:50.8	Assembly Line Tracker	LEA891	Pool 13 Start
+16:01.0	Hood Conveyor	SIW958	Hood Upload
+18:39.3	OMT Offline Tracking	CVE258	Enter Offline
+19:19.5	Cab in white conveyer	EZQ530	CIW upload
+19:37.0	U-BOLT	UHP854	Rear U-Bolt
+19:54.9	Hood Conveyor	OSR174	Hood Upload
+20:35.5	OMT Offline Tracking	BEM390	Enter Offline
+20:35.5	OMT Offline Tracking	BEM390	Sold
+20:50.5	Assembly Line Tracker	SIW958	Pool 13 Start
+22:44.8	Paint Inspection	JYL728	PAINT
+22:58.1	Cab Conveyer	MBP046	Cab Upload 2
+22:58.1	Cab Conveyor / Monorail	MBP046	Cab Upload
+23:10.0	STVMS Tracking Chassis Start	LEA891	Chassis Start
+23:16.0	U-BOLT	UHP854	Front U-Bolt
+23:26.7	Cab Call Scan	EUL768	B Line
+23:44.0	U-BOLT	UHP854	Rear U-Bolt
+24:21.8	Hood Conveyor	USD901	Hood Upload
+24:30.7	Cab in white conveyer	ARS065	CIW upload
+25:26.8	Cab call scan	XPR275	A Line
+25:50.9	Assembly Line Tracker	OSR174	Pool 13 Start
+28:51.0	STVMS Tracking Chassis Start	SIW958	Chassis Start
+28:52.2	Hood Conveyor	CQU695	Hood Upload
+29:21.4	OMT Offline Tracking	SYB619	Enter Offline
+29:34.7	OMT Offline Tracking	ETO603	Enter Offline
+30:30.0	U-BOLT	CSM507	Front U-Bolt
+30:55.0	Cab Conveyer	BRL042	Cab Upload 2
+30:55.0	Cab Conveyor / Monorail	BRL042	Cab Upload
+33:56.0	U-BOLT	MGF879	Front U-Bolt
+35:16.0	STVMS Tracking Chassis Start	OSR174	Chassis Start
+35:37.4	Cab Call Scan	YTP390	B Line
+35:47.0	U-BOLT	MGF879	Rear U-Bolt
+36:02.6	Hood Conveyor	WBH162	Hood Upload
+36:59.0	STVMS Tracking Chassis Start	USD901	Chassis Start
+37:35.0	Cab call scan	GYI954	A Line
+39:00.1	Cab Conveyer	ACM236	Cab Upload 2
+39:00.1	Cab Conveyor / Monorail	ACM236	Cab Upload
+40:51.0	Assembly Line Tracker	USD901	Pool 13 Start
+41:28.0	U-BOLT	PRA475	Front U-Bolt
+42:12.6	OMT Offline Tracking	ALP937	Enter Offline
+42:32.2	Hood Conveyor	TYA561	Hood Upload
+43:39.2	Cab Conveyer	TPG078	Cab Upload 2
+43:39.2	Cab Conveyor / Monorail	TPG078	Cab Upload
+43:59.3	Cab in white conveyer	LED479	CIW upload
+47:51.4	OMT Offline Tracking	RCF947	Enter Offline
+49:42.0	U-BOLT	QFW209	Front U-Bolt
+50:30.7	Cab Conveyer	XPR275	Cab Upload 2
+50:30.7	Cab Conveyor / Monorail	XPR275	Cab Upload
+50:50.5	Assembly Line Tracker	CQU695	Pool 13 Start
+51:14.1	Cab call scan	WXK853	A Line
+51:47.3	Hood Conveyor	DVM139	Hood Upload
+51:52.0	U-BOLT	QFW209	Rear U-Bolt
+51:55.0	STVMS Tracking Chassis Start	CQU695	Chassis Start
+54:30.1	Cab in white conveyer	YBJ023	CIW upload
+55:27.1	Hood Conveyor	GPJ498	Hood Upload
+57:15.0	U-BOLT	SZP362	Front U-Bolt
+58:11.4	Cab Call Scan	IXM739	B Line
+58:18.9	Paint Inspection	DUT829	PAINT
+58:49.5	Cab Conveyer	EUL768	Cab Upload 2
+58:49.5	Cab Conveyor / Monorail	EUL768	Cab Upload
+59:03.0	STVMS Tracking Chassis Start	WBH162	Chassis Start
+59:35.2	OMT Offline Tracking	CSD174	Enter Offline
+00:19.1	Hood Conveyor	UBJ603	Hood Upload
+00:50.5	Assembly Line Tracker	WBH162	Pool 13 Start
+00:56.7	Cab in white conveyer	UWT728	CIW upload
+03:08.1	OMT Offline Tracking	TPD286	Enter Offline
+04:16.3	Cab call scan	SOU593	A Line
+05:13.0	U-BOLT	BIP389	Rear U-Bolt
+05:14.3	Hood Conveyor	JYL728	Hood Upload
+05:20.8	Cab Conveyer	GYI954	Cab Upload 2
+05:20.8	Cab Conveyor / Monorail	GYI954	Cab Upload
+10:29.0	U-BOLT	TUQ327	Rear U-Bolt
+10:50.5	Assembly Line Tracker	TYA561	Pool 13 Start
+11:01.0	U-BOLT	TUQ327	Front U-Bolt
+11:59.1	Cab Call Scan	HMJ710	B Line
+12:11.6	Paint Inspection	OTS758	PAINT
+12:48.6	Cab Conveyer	WXK853	Cab Upload 2
+12:48.6	Cab Conveyor / Monorail	WXK853	Cab Upload
+14:29.0	STVMS Tracking Chassis Start	TYA561	Chassis Start
+14:34.0	OMT Offline Tracking	TQL981	Enter Offline
+15:10.9	Hood Conveyor	OTS758	Hood Upload
+15:15.1	OMT Offline Tracking	JYI091	Enter Offline
+15:15.1	OMT Offline Tracking	JYI091	Sold
+16:39.6	Paint Inspection	NUR218	PAINT
+17:52.1	Cab call scan	EJO928	A Line
+18:59.2	Cab in white conveyer	ICB356	CIW upload
+20:50.6	Assembly Line Tracker	GPJ498	Pool 13 Start
+20:51.2	Assembly Line Tracker	DVM139	Pool 13 Start
+21:45.3	Cab Conveyer	YTP390	Cab Upload 2
+21:45.3	Cab Conveyor / Monorail	YTP390	Cab Upload
+22:42.0	U-BOLT	SVP127	Rear U-Bolt
+25:00.3	Paint Inspection	XWK825	PAINT
+25:15.0	Cab in white conveyer	MPE786	CIW upload
+26:46.0	STVMS Tracking Chassis Start	DVM139	Chassis Start
+27:37.8	Hood Conveyor	NUR218	Hood Upload
+29:08.0	Hood Conveyor	XWK825	Hood Upload
+29:28.6	Cab Conveyer	SOU593	Cab Upload 2
+29:28.6	Cab Conveyor / Monorail	SOU593	Cab Upload
+31:08.9	Paint Inspection	KSP816	PAINT
+32:59.0	U-BOLT	ELJ539	Front U-Bolt
+33:09.3	OMT Offline Tracking	KQN543	Enter Offline
+34:01.0	Cab call scan	AMZ845	A Line
+34:39.6	Hood Conveyor	KSP816	Hood Upload
+35:02.0	STVMS Tracking Chassis Start	GPJ498	Chassis Start
+35:51.9	Assembly Line Tracker	UBJ603	Pool 13 Start
+36:16.3	Paint Inspection	OTX594	PAINT
+36:25.2	Cab Call Scan	MVW427	B Line
+36:46.7	Cab Conveyer	IXM739	Cab Upload 2
+36:46.7	Cab Conveyor / Monorail	IXM739	Cab Upload
+38:30.8	Cab in white conveyer	GSF615	CIW upload
+38:35.3	Hood Conveyor	OTX594	Hood Upload
+39:16.0	U-BOLT	IFP328	Front U-Bolt
+40:50.7	Assembly Line Tracker	OTS758	Pool 13 Start
+40:51.3	Assembly Line Tracker	JYL728	Pool 13 Start
+43:00.8	Cab Conveyer	EJO928	Cab Upload 2
+43:00.8	Cab Conveyor / Monorail	EJO928	Cab Upload
+43:44.0	STVMS Tracking Chassis Start	UBJ603	Chassis Start
+44:40.7	OMT Offline Tracking	XGW598	Enter Offline
+44:40.7	OMT Offline Tracking	XGW598	Sold
+44:51.0	U-BOLT	DKW659	Rear U-Bolt
+44:59.6	OMT Offline Tracking	CNZ205	Enter Offline
+45:41.2	Cab in white conveyer	QPC953	CIW upload
+45:50.6	Assembly Line Tracker	NUR218	Pool 13 Start
+46:08.0	U-BOLT	DKW659	Front U-Bolt
+48:23.0	Cab Call Scan	HQD748	B Line
+50:04.2	Cab Conveyer	HMJ710	Cab Upload 2
+50:04.2	Cab Conveyor / Monorail	HMJ710	Cab Upload
+50:24.0	STVMS Tracking Chassis Start	JYL728	Chassis Start
+50:52.1	Assembly Line Tracker	XWK825	Pool 13 Start
+52:36.9	Cab call scan	VQD376	A Line
+52:55.5	Cab in white conveyer	SYA283	CIW upload
+53:07.0	U-BOLT	JPU485	Front U-Bolt
+54:20.0	U-BOLT	JPU485	Rear U-Bolt
+56:10.3	Paint Inspection	LVP764	PAINT
+58:00.0	STVMS Tracking Chassis Start	OTS758	Chassis Start
+00:24.0	Cab in white conveyer	PVZ436	CIW upload
+00:59.1	Cab Conveyer	MVW427	Cab Upload 2
+00:59.1	Cab Conveyor / Monorail	MVW427	Cab Upload
+01:58.0	U-BOLT	LEA891	Front U-Bolt
+03:31.1	Cab call scan	QJP284	A Line
+03:42.1	OMT Offline Tracking	MQH836	Enter Offline
+04:20.2	Cab Conveyer	AMZ845	Cab Upload 2
+04:20.2	Cab Conveyor / Monorail	AMZ845	Cab Upload
+04:20.8	Hood Conveyor	LVP764	Hood Upload
+04:54.0	STVMS Tracking Chassis Start	NUR218	Chassis Start
+05:33.9	Paint Inspection	TPJ583	PAINT
+05:37.9	Cab in white conveyer	JKZ317	CIW upload
+05:42.9	Cab Call Scan	ZHB578	B Line
+05:43.9	Paint Inspection	HBM615	PAINT
+06:39.6	OMT Offline Tracking	HRY673	Enter Offline
+07:40.0	U-BOLT	SIW958	Front U-Bolt
+10:50.7	Assembly Line Tracker	OTX594	Pool 13 Start
+10:51.4	Assembly Line Tracker	KSP816	Pool 13 Start
+11:19.2	Cab Conveyer	VQD376	Cab Upload 2
+11:19.2	Cab Conveyor / Monorail	VQD376	Cab Upload
+11:59.0	STVMS Tracking Chassis Start	XWK825	Chassis Start
+14:21.5	Cab in white conveyer	VFR160	CIW upload
+14:28.0	U-BOLT	OSR174	Front U-Bolt
+14:38.0	Paint Inspection	JBQ468	PAINT
+15:40.7	Cab Call Scan	FIX581	B Line
+15:52.0	U-BOLT	OSR174	Rear U-Bolt
+16:32.3	Cab call scan	PGY640	A Line
+18:01.0	Cab Conveyer	HQD748	Cab Upload 2
+18:01.0	Cab Conveyor / Monorail	HQD748	Cab Upload
+18:06.3	OMT Offline Tracking	MRI015	Enter Offline
+18:54.1	Paint Inspection	YHB831	PAINT
+19:47.8	Cab in white conveyer	ZKY831	CIW upload
+20:27.0	STVMS Tracking Chassis Start	KSP816	Chassis Start
+20:41.9	Hood Conveyor	JBQ468	Hood Upload
+20:51.7	Assembly Line Tracker	JBQ468	Pool 13 Start
+20:52.4	Assembly Line Tracker	LVP764	Pool 13 Start
+21:37.0	STVMS Tracking Top Station	JOM027	Top Station
+21:39.0	STVMS Tracking Top Station	AJF195	Top Station
+21:42.0	STVMS Tracking Top Station	DZV145	Top Station
+21:45.0	STVMS Tracking Top Station	UBZ174	Top Station
+21:47.0	STVMS Tracking Top Station	PMG926	Top Station
+21:49.0	STVMS Tracking Top Station	GOB710	Top Station
+21:51.0	STVMS Tracking Top Station	QDR380	Top Station
+21:54.0	U-BOLT	USD901	Front U-Bolt
+22:16.1	OMT Offline Tracking	AKC912	Enter Offline
+24:39.0	U-BOLT	USD901	Rear U-Bolt
+25:50.8	Hood Conveyor	TPJ583	Hood Upload
+25:50.8	Assembly Line Tracker	QDR380	Pool 60 Start
+25:51.6	Assembly Line Tracker	GOB710	Pool 60 Start
+25:52.3	Assembly Line Tracker	PMG926	Pool 60 Start
+25:53.1	Assembly Line Tracker	UBZ174	Pool 60 Start
+25:53.8	Assembly Line Tracker	DZV145	Pool 60 Start
+25:54.6	Assembly Line Tracker	AJF195	Pool 60 Start
+25:55.3	Assembly Line Tracker	JOM027	Pool 60 Start
+27:06.2	Cab in white conveyer	AYO527	CIW upload
+28:19.9	Paint Inspection	QVP853	PAINT
+30:23.8	Cab Conveyer	QJP284	Cab Upload 2
+30:23.8	Cab Conveyor / Monorail	QJP284	Cab Upload
+31:23.2	Cab call scan	UHP854	A Line
+31:40.4	OMT Offline Tracking	DTP539	Enter Offline
+32:44.8	Hood Conveyor	QVP853	Hood Upload
+33:20.7	Cab in white conveyer	KNR831	CIW upload
+33:24.0	U-BOLT	CQU695	Front U-Bolt
+33:43.3	OMT Offline Tracking	IQS845	Enter Offline
+35:47.7	Cab Conveyer	ZHB578	Cab Upload 2
+35:47.7	Cab Conveyor / Monorail	ZHB578	Cab Upload
+35:51.1	Assembly Line Tracker	TPJ583	Pool 13 Start
+36:28.7	Hood Conveyor	YHB831	Hood Upload
+37:28.5	Paint Inspection	XLW275	PAINT
+37:50.7	Cab Call Scan	MGF879	B Line
+38:07.0	U-BOLT	WBH162	Rear U-Bolt
+38:21.0	U-BOLT	WBH162	Front U-Bolt
+39:37.0	STVMS Tracking Chassis Start	OTX594	Chassis Start
+39:41.0	STVMS Tracking Chassis Start	LVP764	Chassis Start
+39:47.0	STVMS Tracking Chassis Start	JBQ468	Chassis Start
+40:54.0	Assembly Line Tracker	QVP853	Pool 13 Start
+41:44.3	Paint Inspection	INW067	PAINT
+42:29.6	Hood Conveyor	XLW275	Hood Upload
+43:16.6	Cab Conveyer	PGY640	Cab Upload 2
+43:16.6	Cab Conveyor / Monorail	PGY640	Cab Upload
+45:15.1	OMT Offline Tracking	IBA235	Enter Offline
+45:15.1	OMT Offline Tracking	IBA235	Sold
+45:48.0	OMT Offline Tracking	ZYA587	Enter Offline
+45:50.8	Assembly Line Tracker	YHB831	Pool 13 Start
+46:25.0	Cab call scan	CSM507	A Line
+46:31.4	Cab in white conveyer	SYV137	CIW upload
+46:57.5	Hood Conveyor	WTB963	Hood Upload
+47:34.0	Paint Inspection	NKM173	PAINT
+49:29.0	STVMS Tracking Chassis Start	TPJ583	Chassis Start
+51:11.7	Cab in white conveyer	ZVI392	CIW upload
+51:41.3	Hood Conveyor	INW067	Hood Upload
+51:46.4	Paint Inspection	AJF195	PAINT
+52:01.0	U-BOLT	TYA561	Front U-Bolt
+52:14.4	Cab Call Scan	PRA475	B Line
+55:04.1	Cab Conveyer	UHP854	Cab Upload 2
+55:04.1	Cab Conveyor / Monorail	UHP854	Cab Upload
+55:35.9	OMT Offline Tracking	FHL057	Enter Offline
+56:14.0	STVMS Tracking Chassis Start	QVP853	Chassis Start
+56:34.2	Hood Conveyor	NKM173	Hood Upload
+59:14.0	U-BOLT	DVM139	Front U-Bolt
+59:43.1	Cab in white conveyer	LGO801	CIW upload
+00:20.2	Cab Conveyer	FIX581	Cab Upload 2
+00:20.2	Cab Conveyor / Monorail	FIX581	Cab Upload
+00:50.8	Assembly Line Tracker	WTB963	Pool 13 Start
+00:51.6	Assembly Line Tracker	XLW275	Pool 13 Start
+01:45.0	U-BOLT	DVM139	Rear U-Bolt
+02:49.8	Cab call scan	QFW209	A Line
+03:46.6	Cab in white conveyer	FTI824	CIW upload
+04:35.1	Paint Inspection	JOM027	PAINT
+04:58.8	OMT Offline Tracking	MBP046	Enter Offline
+05:50.8	Assembly Line Tracker	INW067	Pool 13 Start
+07:12.0	STVMS Tracking Chassis Start	YHB831	Chassis Start
+08:12.7	Cab Conveyer	MGF879	Cab Upload 2
+08:12.7	Cab Conveyor / Monorail	MGF879	Cab Upload
+08:46.9	Paint Inspection	DZV145	PAINT
+10:31.6	Hood Conveyor	JOM027	Hood Upload
+10:47.0	U-BOLT	GPJ498	Front U-Bolt
+13:20.3	Cab in white conveyer	VCM016	CIW upload
+13:48.0	STVMS Tracking Chassis Start	XLW275	Chassis Start
+13:48.2	Hood Conveyor	AJF195	Hood Upload
+15:33.3	Cab Conveyer	CSM507	Cab Upload 2
+15:33.3	Cab Conveyor / Monorail	CSM507	Cab Upload
+15:50.9	Assembly Line Tracker	NKM173	Pool 13 Start
+17:12.0	STVMS Tracking Top Station	CSW718	Top Station
+18:03.0	U-BOLT	UBJ603	Rear U-Bolt
+18:11.0	U-BOLT	UBJ603	Front U-Bolt
+18:38.0	Cab in white conveyer	PJL425	CIW upload
+19:34.7	Cab Call Scan	TUQ327	B Line
+19:48.4	Hood Conveyor	DZV145	Hood Upload
+20:04.6	Paint Inspection	OLI345	PAINT
+20:51.7	Assembly Line Tracker	CSW718	Pool 60 Start
+21:54.7	Cab Conveyer	PRA475	Cab Upload 2
+21:54.7	Cab Conveyor / Monorail	PRA475	Cab Upload
+22:59.0	STVMS Tracking Chassis Start	WTB963	Chassis Start
+24:03.4	OMT Offline Tracking	ACM236	Enter Offline
+24:22.4	Cab call scan	SZP362	A Line
+24:24.9	OMT Offline Tracking	BRL042	Enter Offline
+25:26.0	U-BOLT	JYL728	Rear U-Bolt
+25:49.7	Paint Inspection	PMG926	PAINT
+26:09.2	Cab in white conveyer	CMI143	CIW upload
+30:42.3	OMT Offline Tracking	TPG078	Enter Offline
+30:50.9	Assembly Line Tracker	AJF195	Pool 13 Start
+30:51.7	Assembly Line Tracker	JOM027	Pool 13 Start
+31:01.6	Paint Inspection	UBZ174	PAINT
+32:02.0	U-BOLT	OTS758	Front U-Bolt
+32:13.6	Cab Call Scan	ELJ539	B Line
+33:19.0	U-BOLT	OTS758	Rear U-Bolt
+33:19.3	Cab in white conveyer	IOU412	CIW upload
+34:41.3	Cab Conveyer	QFW209	Cab Upload 2
+34:41.3	Cab Conveyor / Monorail	QFW209	Cab Upload
+37:38.0	STVMS Tracking Chassis Start	INW067	Chassis Start
+37:42.0	STVMS Tracking Chassis Start	NKM173	Chassis Start
+38:00.4	Cab in white conveyer	FHU982	CIW upload
+38:58.0	U-BOLT	NUR218	Front U-Bolt
+39:17.2	Paint Inspection	GOB710	PAINT
+39:32.0	Cab call scan	SVP127	A Line
+39:42.6	Cab Conveyer	SZP362	Cab Upload 2
+39:42.6	Cab Conveyor / Monorail	SZP362	Cab Upload
+41:05.6	OMT Offline Tracking	XPR275	Enter Offline
+41:45.0	OMT Offline Tracking	EUL768	Enter Offline
+42:34.0	STVMS Tracking Chassis Start	JOM027	Chassis Start
+46:10.6	Cab Conveyer	TUQ327	Cab Upload 2
+46:10.6	Cab Conveyor / Monorail	TUQ327	Cab Upload
+47:16.0	U-BOLT	XWK825	Front U-Bolt
+47:34.0	U-BOLT	XWK825	Rear U-Bolt
+49:10.0	Cab Call Scan	IFP328	B Line
+50:35.0	U-BOLT	XWK825	Rear U-Bolt
+52:44.0	STVMS Tracking Chassis Start	AJF195	Chassis Start
+53:37.9	OMT Offline Tracking	GYI954	Enter Offline
+53:50.4	Cab call scan	DKW659	A Line
+54:34.0	U-BOLT	KSP816	Front U-Bolt
+55:44.0	U-BOLT	KSP816	Rear U-Bolt
+55:52.6	Assembly Line Tracker	DZV145	Pool 13 Start
+56:53.2	OMT Offline Tracking	YTP390	Enter Offline
+56:53.2	OMT Offline Tracking	YTP390	Sold
+00:08.0	U-BOLT	OTX594	Rear U-Bolt
+05:50.8	Assembly Line Tracker	PMG926	Pool 13 Start
+05:51.7	Assembly Line Tracker	UBZ174	Pool 13 Start
+10:50.8	Assembly Line Tracker	GOB710	Pool 13 Start
+15:56.4	Cab in white conveyer	YCR723	CIW upload
+16:32.0	Hood Conveyor	PMG926	Hood Upload
+19:25.3	Hood Conveyor	UBZ174	Hood Upload
+21:14.6	Cab Conveyer	SVP127	Cab Upload 2
+21:14.6	Cab Conveyor / Monorail	SVP127	Cab Upload
+22:54.2	Cab in white conveyer	EBL860	CIW upload
+29:16.9	Cab Conveyer	ELJ539	Cab Upload 2
+29:16.9	Cab Conveyor / Monorail	ELJ539	Cab Upload
+29:44.6	Cab in white conveyer	AHN391	CIW upload
+31:42.6	Paint Inspection	QDR380	PAINT
+37:02.0	U-BOLT	OTX594	Front U-Bolt
+38:15.3	Cab in white conveyer	KFN372	CIW upload
+38:33.0	STVMS Tracking Chassis Start	DZV145	Chassis Start
+38:38.0	STVMS Tracking Chassis Start	UBZ174	Chassis Start
+39:18.0	Cab call scan	LEA891	A Line
+39:50.1	Cab Conveyer	DKW659	Cab Upload 2
+39:50.1	Cab Conveyor / Monorail	DKW659	Cab Upload
+40:01.3	Paint Inspection	ZPW452	PAINT
+41:02.4	OMT Offline Tracking	WXK853	Enter Offline
+41:29.0	U-BOLT	LVP764	Front U-Bolt
+43:25.5	Cab Call Scan	JPU485	B Line
+44:30.6	Cab in white conveyer	DPH631	CIW upload
+44:45.3	Paint Inspection	CSW718	PAINT
+45:29.1	Paint Inspection	USH564	PAINT
+45:45.0	STVMS Tracking Chassis Start	PMG926	Chassis Start
+50:59.0	U-BOLT	JBQ468	Front U-Bolt
+52:02.0	U-BOLT	JBQ468	Rear U-Bolt
+52:10.0	STVMS Tracking Chassis Start	GOB710	Chassis Start
+52:52.4	OMT Offline Tracking	IXM739	Enter Offline
+54:08.3	Hood Conveyor	QDR380	Hood Upload
+54:38.7	Paint Inspection	MHU637	PAINT
+57:25.0	U-BOLT	TPJ583	Front U-Bolt
+57:33.7	Cab call scan	OSR174	A Line
+59:05.0	Cab in white conveyer	MPO083	CIW upload
+59:31.0	U-BOLT	TPJ583	Rear U-Bolt
+59:39.0	Hood Conveyor	GOB710	Hood Upload
+00:05.0	STVMS Tracking Chassis Start	QDR380	Chassis Start
+00:10.5	Cab Conveyer	IFP328	Cab Upload 2
+00:10.5	Cab Conveyor / Monorail	IFP328	Cab Upload
+00:30.6	OMT Offline Tracking	SOU593	Enter Offline
+00:52.3	Assembly Line Tracker	QDR380	Pool 13 Start
+00:55.3	OMT Offline Tracking	HMJ710	Enter Offline
+00:55.3	OMT Offline Tracking	HMJ710	Sold
+03:18.4	Cab Call Scan	SIW958	B Line
+03:33.0	STVMS Tracking Top Station	ZPW452	Top Station
+03:36.0	STVMS Tracking Top Station	MHU637	Top Station
+03:39.0	STVMS Tracking Top Station	USH564	Top Station
+03:42.0	STVMS Tracking Top Station	DZO637	Top Station
+03:46.0	STVMS Tracking Top Station	CJQ075	Top Station
+03:50.0	STVMS Tracking Top Station	LOF143	Top Station
+03:53.0	STVMS Tracking Top Station	RQJ940	Top Station
+03:56.0	STVMS Tracking Top Station	JCM567	Top Station
+03:59.0	STVMS Tracking Top Station	GFM783	Top Station
+04:21.0	U-BOLT	QVP853	Rear U-Bolt
+04:47.9	Cab Call Scan	USD901	B Line
+05:20.0	U-BOLT	QVP853	Front U-Bolt
+05:52.0	Assembly Line Tracker	GFM783	Pool 60 Start
+05:53.0	Assembly Line Tracker	JCM567	Pool 60 Start
+05:53.9	Assembly Line Tracker	RQJ940	Pool 60 Start
+05:54.8	Assembly Line Tracker	LOF143	Pool 60 Start
+05:55.7	Assembly Line Tracker	CJQ075	Pool 60 Start
+05:56.6	Assembly Line Tracker	DZO637	Pool 60 Start
+05:57.5	Assembly Line Tracker	CSW718	Pool 13 Start
+05:58.3	Assembly Line Tracker	USH564	Pool 60 Start
+05:59.1	Assembly Line Tracker	MHU637	Pool 60 Start
+06:00.0	Assembly Line Tracker	ZPW452	Pool 60 Start
+06:02.1	Cab in white conveyer	FPI264	CIW upload
+07:39.0	STVMS Tracking Chassis Start	CSW718	Chassis Start
+07:52.3	Hood Conveyor	CSW718	Hood Upload
+08:37.3	Cab Conveyer	LEA891	Cab Upload 2
+08:37.3	Cab Conveyor / Monorail	LEA891	Cab Upload
+11:21.8	Cab Conveyer	JPU485	Cab Upload 2
+11:21.8	Cab Conveyor / Monorail	JPU485	Cab Upload
+11:38.7	OMT Offline Tracking	EJO928	Enter Offline
+11:38.7	OMT Offline Tracking	EJO928	Sold
+12:10.0	Cab in white conveyer	SPI314	CIW upload
+12:25.4	Cab call scan	CQU695	A Line
+13:41.0	U-BOLT	YHB831	Front U-Bolt
+15:51.7	Assembly Line Tracker	ZPW452	Pool 13 Start
+17:13.1	Cab Conveyer	SIW958	Cab Upload 2
+17:13.1	Cab Conveyor / Monorail	SIW958	Cab Upload
+17:37.1	OMT Offline Tracking	MVW427	Enter Offline
+18:59.0	STVMS Tracking Chassis Start	ZPW452	Chassis Start
+19:29.8	Cab in white conveyer	AGU058	CIW upload
+20:50.9	Assembly Line Tracker	MHU637	Pool 13 Start
+21:39.0	U-BOLT	XLW275	Rear U-Bolt
+21:50.0	U-BOLT	XLW275	Front U-Bolt
+22:35.2	Paint Inspection	DZO637	PAINT
+24:45.0	STVMS Tracking Chassis Start	MHU637	Chassis Start
+27:16.4	Paint Inspection	CJQ075	PAINT
+27:45.2	Cab in white conveyer	QZH295	CIW upload
+27:51.6	Cab Call Scan	WBH162	B Line
+28:29.4	OMT Offline Tracking	AMZ845	Enter Offline
+29:07.0	U-BOLT	WTB963	Front U-Bolt
+30:51.8	Assembly Line Tracker	USH564	Pool 13 Start
+32:59.0	STVMS Tracking Chassis Start	USH564	Chassis Start
+33:01.1	Cab Conveyer	OSR174	Cab Upload 2
+33:01.1	Cab Conveyor / Monorail	OSR174	Cab Upload
+33:37.2	Paint Inspection	RQJ940	PAINT
+35:44.8	Cab in white conveyer	SEK173	CIW upload
+35:51.8	Assembly Line Tracker	DZO637	Pool 13 Start
+36:10.0	OMT Offline Tracking	HQD748	Enter Offline
+37:08.0	STVMS Tracking Top Station	EUZ386	Top Station
+37:12.0	STVMS Tracking Top Station	TMZ629	Top Station
+37:15.0	STVMS Tracking Top Station	SNI285	Top Station
+37:18.0	STVMS Tracking Top Station	PMN417	Top Station
+37:20.0	STVMS Tracking Top Station	ZDI213	Top Station
+37:22.0	STVMS Tracking Top Station	ALE837	Top Station
+37:25.0	STVMS Tracking Top Station	WQB451	Top Station
+37:27.0	STVMS Tracking Top Station	KMA503	Top Station
+37:29.0	STVMS Tracking Top Station	KSX968	Top Station
+37:29.9	Cab Conveyer	USD901	Cab Upload 2
+37:29.9	Cab Conveyor / Monorail	USD901	Cab Upload
+37:31.0	STVMS Tracking Top Station	TFX540	Top Station
+37:36.1	Paint Inspection	LOF143	PAINT
+38:35.0	U-BOLT	WTB963	Rear U-Bolt
+40:51.0	Assembly Line Tracker	TFX540	Pool 60 Start
+40:51.9	Assembly Line Tracker	KSX968	Pool 60 Start
+40:52.9	Assembly Line Tracker	KMA503	Pool 60 Start
+40:53.8	Assembly Line Tracker	WQB451	Pool 60 Start
+40:54.7	Assembly Line Tracker	ALE837	Pool 60 Start
+40:55.6	Assembly Line Tracker	ZDI213	Pool 60 Start
+40:56.4	Assembly Line Tracker	PMN417	Pool 60 Start
+40:57.3	Assembly Line Tracker	SNI285	Pool 60 Start
+40:58.2	Assembly Line Tracker	TMZ629	Pool 60 Start
+40:59.1	Assembly Line Tracker	EUZ386	Pool 60 Start
+41:00.0	Assembly Line Tracker	CJQ075	Pool 13 Start
+41:14.0	U-BOLT	INW067	Front U-Bolt
+41:18.0	OMT Offline Tracking	VQD376	Enter Offline
+41:49.4	Cab Conveyer	CQU695	Cab Upload 2
+41:49.4	Cab Conveyor / Monorail	CQU695	Cab Upload
+41:55.8	Cab Call Scan	TYA561	B Line
+42:05.9	Cab Call Scan	GPJ498	B Line
+42:14.0	U-BOLT	INW067	Rear U-Bolt
+42:28.4	Cab in white conveyer	TRJ645	CIW upload
+43:13.0	STVMS Tracking Chassis Start	DZO637	Chassis Start
+44:20.1	Cab call scan	DVM139	A Line
+46:55.7	Paint Inspection	JCM567	PAINT
+47:24.0	U-BOLT	NKM173	Front U-Bolt
+48:04.9	Cab in white conveyer	CSV482	CIW upload
+50:29.0	STVMS Tracking Chassis Start	CJQ075	Chassis Start
+51:56.9	OMT Offline Tracking	QJP284	Enter Offline
+54:54.0	U-BOLT	JOM027	Front U-Bolt
+55:11.6	OMT Offline Tracking	ZHB578	Enter Offline
+55:51.1	Assembly Line Tracker	LOF143	Pool 13 Start
+55:58.0	U-BOLT	JOM027	Rear U-Bolt
+57:10.2	Paint Inspection	GFM783	PAINT
+57:28.7	Cab in white conveyer	NHZ581	CIW upload
+58:02.0	STVMS Tracking Chassis Start	LOF143	Chassis Start
+00:08.8	Cab Conveyer	WBH162	Cab Upload 2
+00:08.8	Cab Conveyor / Monorail	WBH162	Cab Upload
+00:30.3	Cab call scan	UBJ603	A Line
+00:51.1	Assembly Line Tracker	RQJ940	Pool 13 Start
+02:58.0	U-BOLT	AJF195	Rear U-Bolt
+04:04.1	OMT Offline Tracking	PGY640	Enter Offline
+04:17.7	Cab in white conveyer	YZU059	CIW upload
+05:48.0	STVMS Tracking Chassis Start	RQJ940	Chassis Start
+07:23.9	Cab Conveyer	TYA561	Cab Upload 2
+07:23.9	Cab Conveyor / Monorail	TYA561	Cab Upload
+09:17.0	U-BOLT	DZV145	Front U-Bolt
+10:31.0	U-BOLT	DZV145	Rear U-Bolt
+10:32.2	Cab in white conveyer	FZA809	CIW upload
+10:56.8	Hood Conveyor	ZPW452	Hood Upload
+11:28.7	Paint Inspection	EUZ386	PAINT
+11:32.2	Cab Conveyer	DVM139	Cab Upload 2
+11:32.2	Cab Conveyor / Monorail	DVM139	Cab Upload
+13:27.0	STVMS Tracking Chassis Start	JCM567	Chassis Start
+15:28.3	Hood Conveyor	MHU637	Hood Upload
+18:00.4	Paint Inspection	TMZ629	PAINT
+18:06.9	Cab call scan	OTS758	A Line
+18:12.4	Cab Call Scan	JYL728	B Line
+18:13.5	Cab in white conveyer	APZ612	CIW upload
+18:51.0	U-BOLT	UBZ174	Front U-Bolt
+20:02.5	Hood Conveyor	USH564	Hood Upload
+20:25.0	STVMS Tracking Chassis Start	GFM783	Chassis Start
+20:51.8	Assembly Line Tracker	EUZ386	Pool 13 Start
+20:54.5	Assembly Line Tracker	GFM783	Pool 13 Start
+20:55.3	Assembly Line Tracker	JCM567	Pool 13 Start
+21:57.0	Cab Conveyer	GPJ498	Cab Upload 2
+21:57.0	Cab Conveyor / Monorail	GPJ498	Cab Upload
+22:08.7	OMT Offline Tracking	UHP854	Enter Offline
+23:22.5	Cab in white conveyer	YWI795	CIW upload
+24:25.1	OMT Offline Tracking	FIX581	Enter Offline
+24:56.0	U-BOLT	PMG926	Front U-Bolt
+25:09.5	Hood Conveyor	DZO637	Hood Upload
+25:56.5	Cab Conveyer	UBJ603	Cab Upload 2
+25:56.5	Cab Conveyor / Monorail	UBJ603	Cab Upload
+26:04.8	Paint Inspection	SNI285	PAINT
+26:09.0	U-BOLT	PMG926	Rear U-Bolt
+28:22.6	Hood Conveyor	LOF143	Hood Upload
+28:57.0	STVMS Tracking Chassis Start	EUZ386	Chassis Start
+29:10.1	Cab in white conveyer	EVB234	CIW upload
+30:20.2	Cab Call Scan	NUR218	B Line
+30:48.9	Cab call scan	XWK825	A Line
+32:08.0	U-BOLT	GOB710	Front U-Bolt
+32:08.9	OMT Offline Tracking	MGF879	Enter Offline
+33:09.0	Cab Conveyer	JYL728	Cab Upload 2
+33:09.0	Cab Conveyor / Monorail	JYL728	Cab Upload
+35:57.5	Assembly Line Tracker	TMZ629	Pool 13 Start
+35:58.0	STVMS Tracking Chassis Start	TMZ629	Chassis Start
+36:43.7	Cab in white conveyer	QRM025	CIW upload
+40:15.0	U-BOLT	QDR380	Front U-Bolt
+40:29.1	Cab in white conveyer	DCV243	CIW upload
+40:51.0	Assembly Line Tracker	SNI285	Pool 13 Start
+41:28.8	Paint Inspection	PMN417	PAINT
+43:14.0	STVMS Tracking Chassis Start	SNI285	Chassis Start
+44:14.8	OMT Offline Tracking	CSM507	Enter Offline
+44:14.8	OMT Offline Tracking	CSM507	Sold
+45:16.2	Paint Inspection	ZDI213	PAINT
+46:49.0	U-BOLT	CSW718	Front U-Bolt
+47:22.1	Cab Call Scan	KSP816	B Line
+47:49.0	U-BOLT	CSW718	Rear U-Bolt
+47:49.2	Cab Conveyer	OTS758	Cab Upload 2
+47:49.2	Cab Conveyor / Monorail	OTS758	Cab Upload
+47:51.7	Cab Call Scan	LVP764	B Line
+48:10.2	Cab in white conveyer	YCU023	CIW upload
+48:53.3	Cab call scan	OTX594	A Line
+49:05.2	Paint Inspection	WQB451	PAINT
+49:47.0	STVMS Tracking Chassis Start	PMN417	Chassis Start
+50:46.3	Paint Inspection	ALE837	PAINT
+51:00.6	Cab in white conveyer	QLV652	CIW upload
+52:04.1	Cab Conveyer	NUR218	Cab Upload 2
+52:04.1	Cab Conveyor / Monorail	NUR218	Cab Upload
+55:00.0	U-BOLT	ZPW452	Front U-Bolt
+55:36.7	OMT Offline Tracking	PRA475	Enter Offline
+55:45.2	OMT Offline Tracking	QFW209	Enter Offline
+55:51.1	Assembly Line Tracker	ZDI213	Pool 13 Start
+55:52.0	Assembly Line Tracker	PMN417	Pool 13 Start
+56:48.6	Cab in white conveyer	ADQ781	CIW upload
+57:14.0	STVMS Tracking Chassis Start	ZDI213	Chassis Start
+00:51.0	Assembly Line Tracker	ALE837	Pool 13 Start
+03:24.5	Hood Conveyor	CJQ075	Hood Upload
+03:31.0	U-BOLT	MHU637	Rear U-Bolt
+04:23.1	Cab Conveyer	XWK825	Cab Upload 2
+04:23.1	Cab Conveyor / Monorail	XWK825	Cab Upload
+05:07.0	U-BOLT	MHU637	Front U-Bolt
+05:16.2	Cab call scan	JBQ468	A Line
+05:18.9	Paint Inspection	KMA503	PAINT
+05:24.0	STVMS Tracking Chassis Start	ALE837	Chassis Start
+05:51.0	Assembly Line Tracker	KMA503	Pool 13 Start
+05:53.6	Assembly Line Tracker	WQB451	Pool 13 Start
+06:12.8	Cab in white conveyer	EQD264	CIW upload
+06:41.0	Hood Conveyor	RQJ940	Hood Upload
+08:33.0	U-BOLT	USH564	Front U-Bolt
+08:41.7	OMT Offline Tracking	SZP362	Enter Offline
+09:42.0	U-BOLT	USH564	Rear U-Bolt
+09:50.6	OMT Offline Tracking	TUQ327	Enter Offline
+12:14.0	Cab Conveyer	KSP816	Cab Upload 2
+12:14.0	Cab Conveyor / Monorail	KSP816	Cab Upload
+14:10.2	Hood Conveyor	JCM567	Hood Upload
+15:08.0	STVMS Tracking Chassis Start	WQB451	Chassis Start
+15:51.8	Assembly Line Tracker	TFX540	Pool 13 Start
+15:52.7	Assembly Line Tracker	KSX968	Pool 13 Start
+15:56.4	Cab Conveyer	OTX594	Cab Upload 2
+15:56.4	Cab Conveyor / Monorail	OTX594	Cab Upload
+19:11.8	Cab call scan	QVP853	A Line
+19:12.0	U-BOLT	DZO637	Front U-Bolt
+19:16.9	Hood Conveyor	GFM783	Hood Upload
+23:30.0	STVMS Tracking Chassis Start	KMA503	Chassis Start
+24:13.0	Hood Conveyor	EUZ386	Hood Upload
+26:19.0	U-BOLT	CJQ075	Front U-Bolt
+27:27.7	Cab Call Scan	TPJ583	B Line
+27:28.0	U-BOLT	CJQ075	Rear U-Bolt
+33:07.0	U-BOLT	LOF143	Front U-Bolt
+34:52.0	U-BOLT	LOF143	Rear U-Bolt
+57:26.1	Hood Conveyor	TMZ629	Hood Upload
+05:34.3	Hood Conveyor	SNI285	Hood Upload
+12:53.2	Hood Conveyor	PMN417	Hood Upload
+50:20.0	Cab in white conveyer	GJK683	CIW upload
+55:08.8	Cab in white conveyer	HMS840	CIW upload
+01:13.4	Cab in white conveyer	RBT219	CIW upload
+06:45.2	Cab in white conveyer	YKN950	CIW upload
+08:46.6	Paint Inspection	GQV369	PAINT
+13:27.2	Cab in white conveyer	IXT460	CIW upload
+15:54.9	Paint Inspection	QZB271	PAINT
+22:13.2	Cab in white conveyer	DJZ516	CIW upload
+36:07.1	Cab in white conveyer	YXF326	CIW upload
+41:49.8	Cab in white conveyer	SPF970	CIW upload
+45:14.5	Paint Inspection	NUX358	PAINT
+48:03.2	Cab in white conveyer	JYZ708	CIW upload
+54:18.8	Cab in white conveyer	YEK097	CIW upload
+40:49.2	Cab Call Scan	YHB831	B Line
+40:50.4	Assembly Line Tracker	XFN395	Pool 13 Start
+41:09.7	OMT Offline Tracking	SVP127	Enter Offline
+41:09.7	OMT Offline Tracking	SVP127	Sold
+43:12.4	Cab Conveyer	JBQ468	Cab Upload 2
+43:12.4	Cab Conveyor / Monorail	JBQ468	Cab Upload
+43:12.9	OMT Offline Tracking	ELJ539	Enter Offline
+43:55.0	Cab in white conveyer	RYJ284	CIW upload
+43:57.2	Paint Inspection	DPL397	PAINT
+46:16.2	Cab call scan	XLW275	A Line
+48:28.8	Hood Conveyor	ZDI213	Hood Upload
+49:04.2	Paint Inspection	ERC382	PAINT
+50:42.7	Cab Conveyer	LVP764	Cab Upload 2
+50:42.7	Cab Conveyor / Monorail	LVP764	Cab Upload
+50:50.6	Assembly Line Tracker	TRL028	Pool 13 Start
+50:54.3	Cab in white conveyer	EPR018	CIW upload
+51:25.8	Paint Inspection	GDR742	PAINT
+52:03.0	U-BOLT	RQJ940	Front U-Bolt
+53:19.7	OMT Offline Tracking	IFP328	Enter Offline
+53:21.4	Hood Conveyor	ALE837	Hood Upload
+54:18.4	OMT Offline Tracking	DKW659	Enter Offline
+54:54.5	Cab Conveyer	TPJ583	Cab Upload 2
+54:54.5	Cab Conveyor / Monorail	TPJ583	Cab Upload
+56:55.3	Cab in white conveyer	DPA037	CIW upload
+57:50.7	Cab Call Scan	WTB963	B Line
+58:11.8	Hood Conveyor	WQB451	Hood Upload
+58:37.0	U-BOLT	JCM567	Front U-Bolt
+59:38.9	Cab call scan	INW067	A Line
+00:50.4	Assembly Line Tracker	TEP325	Pool 13 Start
+01:33.5	Cab Conveyer	QVP853	Cab Upload 2
+01:33.5	Cab Conveyor / Monorail	QVP853	Cab Upload
+03:34.0	OMT Offline Tracking	JPU485	Enter Offline
+05:50.4	Assembly Line Tracker	NKE126	Pool 13 Start
+06:02.0	U-BOLT	GFM783	Front U-Bolt
+06:41.9	Paint Inspection	SPA495	PAINT
+07:24.4	Cab Conveyer	YHB831	Cab Upload 2
+07:24.4	Cab Conveyor / Monorail	YHB831	Cab Upload
+07:45.0	Cab in white conveyer	OQS570	CIW upload
+10:30.4	OMT Offline Tracking	LEA891	Enter Offline
+11:02.2	Cab Call Scan	NKM173	B Line
+11:32.0	STVMS Tracking Chassis Start	KSX968	Chassis Start
+11:35.0	STVMS Tracking Chassis Start	TFX540	Chassis Start
+11:38.0	STVMS Tracking Chassis Start	XFN395	Chassis Start
+11:41.0	STVMS Tracking Chassis Start	TRL028	Chassis Start
+12:26.3	Paint Inspection	RAI572	PAINT
+13:10.0	U-BOLT	EUZ386	Front U-Bolt
+14:19.1	Cab call scan	JOM027	A Line
+15:36.2	Cab Conveyer	XLW275	Cab Upload 2
+15:36.2	Cab Conveyor / Monorail	XLW275	Cab Upload
+16:43.7	Paint Inspection	LTV094	PAINT
+18:05.0	U-BOLT	EUZ386	Rear U-Bolt
+18:28.4	Paint Inspection	WRT608	PAINT
+19:00.8	Hood Conveyor	KMA503	Hood Upload
+19:53.3	OMT Offline Tracking	SIW958	Enter Offline
+19:53.3	OMT Offline Tracking	SIW958	Sold
+21:44.8	Hood Conveyor	KSX968	Hood Upload
+22:21.0	Paint Inspection	YAP829	PAINT
+22:22.0	U-BOLT	TMZ629	Front U-Bolt
+22:47.0	STVMS Tracking Top Station	XFN395	Top Station
+22:48.8	OMT Offline Tracking	OSR174	Enter Offline
+23:57.4	Cab Conveyer	INW067	Cab Upload 2
+23:57.4	Cab Conveyor / Monorail	INW067	Cab Upload
+24:08.4	Cab Call Scan	DZV145	B Line
+25:50.8	Assembly Line Tracker	QMA357	Pool 13 Start
+25:51.2	Assembly Line Tracker	XFN395	Pool 60 Start
+25:51.6	Assembly Line Tracker	FMU279	Pool 13 Start
+26:36.5	Cab in white conveyer	KUR214	CIW upload
+26:45.0	Hood Conveyor	XFN395	Hood Upload
+26:50.0	U-BOLT	TMZ629	Rear U-Bolt
+29:33.0	STVMS Tracking Top Station	TRL028	Top Station
+29:51.5	Cab call scan	AJF195	A Line
+29:53.0	STVMS Tracking Chassis Start	TEP325	Chassis Start
+29:56.0	STVMS Tracking Chassis Start	NKE126	Chassis Start
+29:59.0	STVMS Tracking Chassis Start	FMU279	Chassis Start
+30:52.0	Assembly Line Tracker	TRL028	Pool 60 Start
+31:00.0	U-BOLT	SNI285	Front U-Bolt
+31:35.1	Hood Conveyor	TFX540	Hood Upload
+31:39.2	OMT Offline Tracking	USD901	Enter Offline
+31:55.1	Cab Conveyer	WTB963	Cab Upload 2
+31:55.1	Cab Conveyor / Monorail	WTB963	Cab Upload
+33:15.0	U-BOLT	SNI285	Rear U-Bolt
+33:32.7	Cab in white conveyer	ILA012	CIW upload
+34:11.9	Paint Inspection	ZIQ738	PAINT
+35:33.9	Hood Conveyor	TRL028	Hood Upload
+35:35.0	STVMS Tracking Top Station	TEP325	Top Station
+35:50.8	Assembly Line Tracker	TEP325	Pool 60 Start
+38:37.0	U-BOLT	PMN417	Front U-Bolt
+40:50.5	Assembly Line Tracker	ERC382	Pool 13 Start
+41:23.4	Cab Conveyer	NKM173	Cab Upload 2
+41:23.4	Cab Conveyor / Monorail	NKM173	Cab Upload
+43:20.1	Cab in white conveyer	FQP941	CIW upload
+43:40.0	STVMS Tracking Top Station	NKE126	Top Station
+43:57.2	Hood Conveyor	TEP325	Hood Upload
+44:05.0	STVMS Tracking Chassis Start	QMA357	Chassis Start
+44:06.6	Cab call scan	UBZ174	A Line
+44:09.0	STVMS Tracking Chassis Start	ERC382	Chassis Start
+44:12.0	STVMS Tracking Chassis Start	GQV369	Chassis Start
+45:52.3	Assembly Line Tracker	NKE126	Pool 60 Start
+46:35.7	Cab Call Scan	PMG926	B Line
+47:33.3	Cab Conveyer	JOM027	Cab Upload 2
+47:33.3	Cab Conveyor / Monorail	JOM027	Cab Upload
+50:04.0	U-BOLT	ZDI213	Rear U-Bolt
+50:47.6	Hood Conveyor	NKE126	Hood Upload
+50:48.6	Cab Conveyer	AJF195	Cab Upload 2
+50:48.6	Cab Conveyor / Monorail	AJF195	Cab Upload
+51:02.0	Cab Call Scan	QDR380	B Line
+51:52.7	Paint Inspection	THO850	PAINT
+52:51.2	Hood Conveyor	FMU279	Hood Upload
+53:06.2	OMT Offline Tracking	CQU695	Enter Offline
+54:17.7	Cab in white conveyer	HQI892	CIW upload
+55:10.0	STVMS Tracking Top Station	FMU279	Top Station
+55:50.6	Assembly Line Tracker	FMU279	Pool 60 Start
+55:58.0	U-BOLT	ALE837	Front U-Bolt
+56:05.0	OMT Offline Tracking	WBH162	Enter Offline
+57:02.5	Hood Conveyor	QMA357	Hood Upload
+57:56.0	STVMS Tracking Top Station	QMA357	Top Station
+58:24.0	Cab call scan	GOB710	A Line
+58:50.2	Paint Inspection	ARS065	PAINT
+58:52.0	STVMS Tracking Chassis Start	QZB271	Chassis Start
+58:54.0	U-BOLT	ALE837	Rear U-Bolt
+58:55.0	STVMS Tracking Chassis Start	YGL283	Chassis Start
+00:52.1	Assembly Line Tracker	QMA357	Pool 60 Start
+02:03.7	Cab in white conveyer	MAU864	CIW upload
+02:31.0	U-BOLT	WQB451	Front U-Bolt
+02:39.7	Cab Conveyer	DZV145	Cab Upload 2
+02:39.7	Cab Conveyor / Monorail	DZV145	Cab Upload
+04:56.1	Paint Inspection	EZQ530	PAINT
+05:12.0	U-BOLT	WQB451	Rear U-Bolt
+06:42.3	Paint Inspection	OXE951	PAINT
+06:46.0	STVMS Tracking Top Station	ERC382	Top Station
+07:12.0	Cab in white conveyer	WBR310	CIW upload
+07:59.6	Hood Conveyor	ERC382	Hood Upload
+09:55.2	Hood Conveyor	GQV369	Hood Upload
+10:50.6	Assembly Line Tracker	YGL283	Pool 13 Start
+10:51.2	Assembly Line Tracker	QZB271	Pool 13 Start
+10:51.7	Assembly Line Tracker	GQV369	Pool 13 Start
+10:52.3	Assembly Line Tracker	ERC382	Pool 60 Start
+10:52.8	Assembly Line Tracker	RHX208	Pool 13 Start
+10:58.9	Cab Conveyer	UBZ174	Cab Upload 2
+10:58.9	Cab Conveyor / Monorail	UBZ174	Cab Upload
+11:21.2	Paint Inspection	TZO690	PAINT
+11:23.0	U-BOLT	KMA503	Front U-Bolt
+12:58.5	Cab in white conveyer	LPU731	CIW upload
+13:45.5	Cab call scan	CSW718	A Line
+13:56.0	Hood Conveyor	QZB271	Hood Upload
+14:25.4	OMT Offline Tracking	DVM139	Enter Offline
+14:34.0	STVMS Tracking Top Station	GQV369	Top Station
+15:50.6	Assembly Line Tracker	GQV369	Pool 60 Start
+16:08.9	Paint Inspection	LED479	PAINT
+17:45.0	U-BOLT	KSX968	Front U-Bolt
+17:52.1	OMT Offline Tracking	TYA561	Enter Offline
+18:01.2	Hood Conveyor	YGL283	Hood Upload
+18:14.2	Cab Conveyer	GOB710	Cab Upload 2
+18:14.2	Cab Conveyor / Monorail	GOB710	Cab Upload
+18:33.7	Cab Call Scan	MHU637	B Line
+19:28.0	STVMS Tracking Top Station	QZB271	Top Station
+20:50.7	Assembly Line Tracker	WRT608	Pool 13 Start
+20:51.2	Assembly Line Tracker	QZB271	Pool 60 Start
+22:13.1	Paint Inspection	QBR938	PAINT
+22:19.6	Hood Conveyor	RHX208	Hood Upload
+22:31.1	Cab in white conveyer	KTN409	CIW upload
+24:34.6	OMT Offline Tracking	UBJ603	Enter Offline
+24:34.6	OMT Offline Tracking	UBJ603	Sold
+25:12.0	U-BOLT	TFX540	Front U-Bolt
+25:31.0	STVMS Tracking Top Station	YGL283	Top Station
+25:51.0	Assembly Line Tracker	YGL283	Pool 60 Start
+27:07.6	Cab in white conveyer	AYD251	CIW upload
+27:23.2	Cab Conveyer	PMG926	Cab Upload 2
+27:23.2	Cab Conveyor / Monorail	PMG926	Cab Upload
+27:41.1	OMT Offline Tracking	GPJ498	Enter Offline
+27:48.0	U-BOLT	TFX540	Rear U-Bolt
+28:22.5	Paint Inspection	YBJ023	PAINT
+29:10.0	STVMS Tracking Chassis Start	RHX208	Chassis Start
+29:13.0	STVMS Tracking Chassis Start	WRT608	Chassis Start
+29:17.0	STVMS Tracking Chassis Start	NUX358	Chassis Start
+29:32.8	Cab call scan	USH564	A Line
+31:34.0	U-BOLT	XFN395	Front U-Bolt
+31:42.6	Hood Conveyor	WRT608	Hood Upload
+31:51.0	STVMS Tracking Top Station	RHX208	Top Station
+33:21.6	Cab Call Scan	DZO637	B Line
+33:26.2	Paint Inspection	UWT728	PAINT
+34:05.7	Cab in white conveyer	SFZ186	CIW upload
+34:43.0	U-BOLT	XFN395	Rear U-Bolt
+35:37.3	Cab Conveyer	QDR380	Cab Upload 2
+35:37.3	Cab Conveyor / Monorail	QDR380	Cab Upload
+35:44.3	Hood Conveyor	NUX358	Hood Upload
+35:51.4	Assembly Line Tracker	RHX208	Pool 60 Start
+38:52.0	U-BOLT	TRL028	Front U-Bolt
+39:05.2	Paint Inspection	ICB356	PAINT
+39:38.0	STVMS Tracking Top Station	WRT608	Top Station
+40:50.7	Assembly Line Tracker	WRT608	Pool 60 Start
+41:13.3	Cab Conveyer	CSW718	Cab Upload 2
+41:13.3	Cab Conveyor / Monorail	CSW718	Cab Upload
+43:05.4	OMT Offline Tracking	OTS758	Enter Offline
+43:05.4	OMT Offline Tracking	OTS758	Sold
+43:14.5	Cab call scan	CJQ075	A Line
+45:22.3	Cab in white conveyer	XSZ543	CIW upload
+45:50.7	Assembly Line Tracker	GDR742	Pool 13 Start
+45:52.0	Assembly Line Tracker	NUX358	Pool 13 Start
+45:52.7	Assembly Line Tracker	SPA495	Pool 13 Start
+48:22.0	U-BOLT	TEP325	Front U-Bolt
+48:45.7	OMT Offline Tracking	JYL728	Enter Offline
+49:23.0	STVMS Tracking Top Station	NUX358	Top Station
+49:39.2	Hood Conveyor	GDR742	Hood Upload
+50:18.0	STVMS Tracking Chassis Start	GDR742	Chassis Start
+50:21.0	STVMS Tracking Chassis Start	SPA495	Chassis Start
+50:24.0	STVMS Tracking Chassis Start	RAI572	Chassis Start
+50:52.9	Assembly Line Tracker	NUX358	Pool 60 Start
+53:42.2	Hood Conveyor	SPA495	Hood Upload
+54:11.0	U-BOLT	NKE126	Front U-Bolt
+55:32.0	U-BOLT	NKE126	Rear U-Bolt
+55:50.8	Assembly Line Tracker	RAI572	Pool 13 Start
+56:05.9	Cab Conveyer	MHU637	Cab Upload 2
+56:05.9	Cab Conveyor / Monorail	MHU637	Cab Upload
+57:38.7	Paint Inspection	MPE786	PAINT
+57:46.0	Cab Call Scan	RQJ940	B Line
+57:53.9	OMT Offline Tracking	XWK825	Enter Offline
+58:23.0	Cab Conveyer	USH564	Cab Upload 2
+58:23.0	Cab Conveyor / Monorail	USH564	Cab Upload
+58:38.5	Cab call scan	YDL247	A Line
+58:57.5	Hood Conveyor	RAI572	Hood Upload
+59:17.1	Cab in white conveyer	PWR481	CIW upload
+02:13.0	U-BOLT	FMU279	Front U-Bolt
+02:37.0	STVMS Tracking Top Station	GDR742	Top Station
+03:11.9	Paint Inspection	GSF615	PAINT
+03:31.7	Hood Conveyor	LTV094	Hood Upload
+04:49.0	U-BOLT	FMU279	Rear U-Bolt
+05:50.8	Assembly Line Tracker	GDR742	Pool 60 Start
+06:00.2	OMT Offline Tracking	OTX594	Enter Offline
+06:12.2	OMT Offline Tracking	NUR218	Enter Offline
+06:42.9	Cab in white conveyer	XGC043	CIW upload
+08:10.3	Cab Conveyer	DZO637	Cab Upload 2
+08:10.3	Cab Conveyor / Monorail	DZO637	Cab Upload
+09:10.0	U-BOLT	QMA357	Front U-Bolt
+10:01.0	STVMS Tracking Top Station	SPA495	Top Station
+10:34.0	U-BOLT	QMA357	Rear U-Bolt
+10:43.0	Hood Conveyor	YAP829	Hood Upload
+10:47.7	Paint Inspection	JBC439	PAINT
+10:50.9	Assembly Line Tracker	YAP829	Pool 13 Start
+10:51.6	Assembly Line Tracker	LTV094	Pool 13 Start
+10:52.4	Assembly Line Tracker	SPA495	Pool 60 Start
+11:00.5	Cab call scan	GFM783	A Line
+12:34.9	Cab in white conveyer	JIN079	CIW upload
+14:21.8	Cab Call Scan	JCM567	B Line
+15:48.8	Hood Conveyor	ZIQ738	Hood Upload
+15:53.0	STVMS Tracking Top Station	RAI572	Top Station
+16:07.8	Cab Conveyer	CJQ075	Cab Upload 2
+16:07.8	Cab Conveyor / Monorail	CJQ075	Cab Upload
+16:43.0	U-BOLT	ERC382	Front U-Bolt
+17:55.0	U-BOLT	ERC382	Rear U-Bolt
+18:18.6	Cab in white conveyer	HCS198	CIW upload
+18:39.2	OMT Offline Tracking	KSP816	Enter Offline
+19:12.0	STVMS Tracking Chassis Start	LTV094	Chassis Start
+19:14.0	STVMS Tracking Chassis Start	YAP829	Chassis Start
+19:17.0	STVMS Tracking Chassis Start	ZIQ738	Chassis Start
+19:19.0	Paint Inspection	QPC953	PAINT
+19:20.0	STVMS Tracking Chassis Start	THO850	Chassis Start
+20:02.3	Cab Conveyer	RQJ940	Cab Upload 2
+20:02.3	Cab Conveyor / Monorail	RQJ940	Cab Upload
+20:54.4	Assembly Line Tracker	RAI572	Pool 60 Start
+21:33.1	OMT Offline Tracking	JBQ468	Enter Offline
+24:05.8	Hood Conveyor	THO850	Hood Upload
+24:13.2	Cab Call Scan	EUZ386	B Line
+24:45.0	U-BOLT	GQV369	Front U-Bolt
+26:32.2	Cab call scan	TMZ629	A Line
+26:56.0	STVMS Tracking Top Station	LTV094	Top Station
+28:36.8	Hood Conveyor	EZQ530	Hood Upload
+29:10.3	Cab in white conveyer	TMU402	CIW upload
+30:18.3	Cab Conveyer	YDL247	Cab Upload 2
+30:18.3	Cab Conveyor / Monorail	YDL247	Cab Upload
+30:50.9	Assembly Line Tracker	THO850	Pool 13 Start
+30:51.8	Assembly Line Tracker	ZIQ738	Pool 13 Start
+30:52.7	Assembly Line Tracker	LTV094	Pool 60 Start
+31:29.0	STVMS Tracking Top Station	YAP829	Top Station
+31:36.0	U-BOLT	QZB271	Front U-Bolt
+33:25.7	Cab Call Scan	PMN417	B Line
+34:04.0	U-BOLT	QZB271	Rear U-Bolt
+35:51.7	Assembly Line Tracker	YAP829	Pool 60 Start
+36:12.0	STVMS Tracking Chassis Start	EZQ530	Chassis Start
+36:15.0	STVMS Tracking Chassis Start	ARS065	Chassis Start
+37:44.9	Cab in white conveyer	EBM074	CIW upload
+38:17.0	STVMS Tracking Top Station	ZIQ738	Top Station
+39:36.7	OMT Offline Tracking	LVP764	Enter Offline
+40:30.0	U-BOLT	YGL283	Rear U-Bolt
+40:51.1	Assembly Line Tracker	ZIQ738	Pool 60 Start
+40:52.0	Assembly Line Tracker	EZQ530	Pool 13 Start
+40:54.9	Cab Conveyer	JCM567	Cab Upload 2
+40:54.9	Cab Conveyor / Monorail	JCM567	Cab Upload
+40:57.8	Cab call scan	SNI285	A Line
+41:16.4	Hood Conveyor	ARS065	Hood Upload
+42:47.0	STVMS Tracking Top Station	THO850	Top Station
+42:54.0	OMT Offline Tracking	QVP853	Enter Offline
+43:14.4	Paint Inspection	SYA283	PAINT
+45:19.8	Hood Conveyor	TZO690	Hood Upload
+45:27.4	Cab Conveyor / Monorail	GFM783	Cab Upload
+45:27.4	Cab Conveyer	GFM783	Cab Upload 2
+45:50.9	Assembly Line Tracker	THO850	Pool 60 Start
+46:54.3	Cab in white conveyer	TBP914	CIW upload
+47:09.4	Cab Call Scan	ZDI213	B Line
+47:35.0	U-BOLT	RHX208	Rear U-Bolt
+48:58.1	Paint Inspection	VFR160	PAINT
+49:19.0	STVMS Tracking Chassis Start	TZO690	Chassis Start
+49:24.0	STVMS Tracking Chassis Start	QBR938	Chassis Start
+50:17.9	Hood Conveyor	LED479	Hood Upload
+50:50.9	Assembly Line Tracker	TZO690	Pool 13 Start
+50:51.9	Assembly Line Tracker	ARS065	Pool 13 Start
+51:42.9	Cab in white conveyer	XJI184	CIW upload
+52:43.0	U-BOLT	WRT608	Front U-Bolt
+53:02.6	Paint Inspection	PVZ436	PAINT
+54:31.7	Hood Conveyor	YBJ023	Hood Upload
+54:50.0	STVMS Tracking Top Station	EZQ530	Top Station
+55:49.9	Cab Conveyer	EUZ386	Cab Upload 2
+55:49.9	Cab Conveyor / Monorail	EUZ386	Cab Upload
+55:51.1	Assembly Line Tracker	EZQ530	Pool 60 Start
+56:38.5	Cab call scan	WQB451	A Line
+57:40.1	Paint Inspection	ZKY831	PAINT
+58:37.5	Hood Conveyor	DPL397	Hood Upload
+59:15.4	Cab in white conveyer	BJM584	CIW upload
+59:43.4	Cab Conveyer	TMZ629	Cab Upload 2
+59:43.4	Cab Conveyor / Monorail	TMZ629	Cab Upload
+00:33.0	U-BOLT	NUX358	Front U-Bolt
+00:35.3	OMT Offline Tracking	XLW275	Enter Offline
+00:36.0	STVMS Tracking Top Station	ARS065	Top Station
+00:49.5	OMT Offline Tracking	TPJ583	Enter Offline
+00:49.5	OMT Offline Tracking	TPJ583	Sold
+00:51.0	Assembly Line Tracker	ARS065	Pool 60 Start
+00:52.0	Assembly Line Tracker	LED479	Pool 13 Start
+00:52.9	Assembly Line Tracker	QBR938	Pool 13 Start
+02:24.9	Cab Call Scan	KMA503	B Line
+02:36.8	Paint Inspection	JKZ317	PAINT
+03:32.0	STVMS Tracking Top Station	TZO690	Top Station
+05:17.5	Cab in white conveyer	JIM476	CIW upload
+05:51.0	Assembly Line Tracker	TZO690	Pool 60 Start
+06:22.6	Hood Conveyor	UWT728	Hood Upload
+07:18.2	Paint Inspection	KNR831	PAINT
+07:31.0	Cab Conveyer	PMN417	Cab Upload 2
+07:31.0	Cab Conveyor / Monorail	PMN417	Cab Upload
+10:47.0	STVMS Tracking Top Station	QBR938	Top Station
+10:51.1	Assembly Line Tracker	QBR938	Pool 60 Start
+11:35.8	Paint Inspection	AYO527	PAINT
+11:40.1	OMT Offline Tracking	YHB831	Enter Offline
+11:40.1	Cab call scan	KSX968	A Line
+13:28.6	Cab in white conveyer	AIW532	CIW upload
+13:29.6	Cab Conveyer	SNI285	Cab Upload 2
+13:29.6	Cab Conveyor / Monorail	SNI285	Cab Upload
+14:01.7	OMT Offline Tracking	INW067	Enter Offline
+14:22.0	STVMS Tracking Chassis Start	LED479	Chassis Start
+14:25.0	STVMS Tracking Chassis Start	YBJ023	Chassis Start
+14:28.0	STVMS Tracking Chassis Start	DPL397	Chassis Start
+15:33.2	Cab Call Scan	TFX540	B Line
+17:37.8	Hood Conveyor	ICB356	Hood Upload
+18:17.8	Cab in white conveyer	YRW680	CIW upload
+18:33.0	U-BOLT	GDR742	Front U-Bolt
+19:00.7	Cab Conveyer	ZDI213	Cab Upload 2
+19:00.7	Cab Conveyor / Monorail	ZDI213	Cab Upload
+20:00.0	STVMS Tracking Top Station	LED479	Top Station
+20:38.0	U-BOLT	GDR742	Rear U-Bolt
+20:51.0	Assembly Line Tracker	LED479	Pool 60 Start
+22:10.6	Paint Inspection	SYV137	PAINT
+23:49.8	Hood Conveyor	MPE786	Hood Upload
+23:50.7	OMT Offline Tracking	WTB963	Enter Offline
+27:09.4	Cab in white conveyer	TEK452	CIW upload
+27:13.0	U-BOLT	SPA495	Front U-Bolt
+27:39.3	Hood Conveyor	JBC439	Hood Upload
+27:49.8	Cab call scan	XFN395	A Line
+27:57.0	STVMS Tracking Top Station	YBJ023	Top Station
+28:01.9	Paint Inspection	LGO801	PAINT
+28:22.3	Cab Conveyer	WQB451	Cab Upload 2
+28:22.3	Cab Conveyor / Monorail	WQB451	Cab Upload
+28:39.0	U-BOLT	SPA495	Rear U-Bolt
+29:25.0	STVMS Tracking Chassis Start	UWT728	Chassis Start
+30:53.1	Assembly Line Tracker	YBJ023	Pool 60 Start
+30:55.3	Assembly Line Tracker	UWT728	Pool 13 Start
+30:56.3	Assembly Line Tracker	DPL397	Pool 13 Start
+30:57.3	Assembly Line Tracker	YBJ023	Pool 13 Start
+31:01.6	OMT Offline Tracking	JOM027	Enter Offline
+33:41.0	U-BOLT	RAI572	Front U-Bolt
+33:48.2	Paint Inspection	ZVI392	PAINT
+34:10.0	STVMS Tracking Top Station	DPL397	Top Station
+35:51.1	Assembly Line Tracker	DPL397	Pool 60 Start
+35:56.1	OMT Offline Tracking	NKM173	Enter Offline
+38:53.1	Cab Conveyer	KMA503	Cab Upload 2
+38:53.1	Cab Conveyor / Monorail	KMA503	Cab Upload
+39:59.6	Paint Inspection	FTI824	PAINT
+41:02.2	Cab call scan	TEP325	A Line
+41:37.0	U-BOLT	LTV094	Front U-Bolt
+41:52.2	Cab Call Scan	TRL028	B Line
+43:45.0	U-BOLT	LTV094	Rear U-Bolt
+44:14.0	STVMS Tracking Chassis Start	ICB356	Chassis Start
+44:15.2	Cab Conveyer	KSX968	Cab Upload 2
+44:15.2	Cab Conveyor / Monorail	KSX968	Cab Upload
+44:17.0	STVMS Tracking Chassis Start	MPE786	Chassis Start
+45:51.6	OMT Offline Tracking	AJF195	Enter Offline
+45:53.3	Assembly Line Tracker	ICB356	Pool 13 Start
+50:25.0	U-BOLT	YAP829	Rear U-Bolt
+50:30.0	U-BOLT	YAP829	Front U-Bolt
+51:16.0	STVMS Tracking Chassis Start	JBC439	Chassis Start
+51:20.0	STVMS Tracking Chassis Start	GSF615	Chassis Start
+51:28.0	STVMS Tracking Chassis Start	OWH831	Chassis Start
+51:56.7	Cab Call Scan	NKE126	B Line
+52:29.4	OMT Offline Tracking	DZV145	Enter Offline
+55:52.4	OMT Offline Tracking	UBZ174	Enter Offline
+55:53.2	Assembly Line Tracker	MPE786	Pool 13 Start
+57:09.0	U-BOLT	ZIQ738	Front U-Bolt
+58:02.0	U-BOLT	ZIQ738	Rear U-Bolt
+00:51.1	Assembly Line Tracker	JBC439	Pool 13 Start
+05:51.1	Assembly Line Tracker	GSF615	Pool 13 Start
+18:56.3	Hood Conveyor	GSF615	Hood Upload
+22:37.0	STVMS Tracking Top Station	UWT728	Top Station
+22:48.5	Hood Conveyor	OWH831	Hood Upload
+23:27.2	Cab call scan	FMU279	A Line
+25:52.9	Assembly Line Tracker	UWT728	Pool 60 Start
+26:43.9	Cab Conveyer	TFX540	Cab Upload 2
+26:43.9	Cab Conveyor / Monorail	TFX540	Cab Upload
+27:42.9	Hood Conveyor	QPC953	Hood Upload
+27:58.6	Paint Inspection	VCM016	PAINT
+28:16.0	STVMS Tracking Top Station	ICB356	Top Station
+28:20.0	STVMS Tracking Top Station	MPE786	Top Station
+28:43.8	Cab in white conveyer	YBP783	CIW upload
+30:51.0	Assembly Line Tracker	MPE786	Pool 60 Start
+30:52.0	Assembly Line Tracker	ICB356	Pool 60 Start
+31:33.5	Hood Conveyor	SYA283	Hood Upload
+32:57.3	Cab Conveyer	XFN395	Cab Upload 2
+32:57.3	Cab Conveyor / Monorail	XFN395	Cab Upload
+37:01.5	Paint Inspection	PJL425	PAINT
+37:24.9	Cab Conveyer	TRL028	Cab Upload 2
+37:24.9	Cab Conveyor / Monorail	TRL028	Cab Upload
+37:41.0	Cab Call Scan	QMA357	B Line
+39:08.0	U-BOLT	THO850	Rear U-Bolt
+40:45.5	OMT Offline Tracking	GOB710	Enter Offline
+41:00.0	STVMS Tracking Top Station	JBC439	Top Station
+42:27.5	Cab call scan	ERC382	A Line
+42:43.5	Hood Conveyor	PVZ436	Hood Upload
+43:40.0	U-BOLT	EZQ530	Front U-Bolt
+43:54.8	Paint Inspection	CMI143	PAINT
+44:10.4	OMT Offline Tracking	PMG926	Enter Offline
+45:52.0	Assembly Line Tracker	JBC439	Pool 60 Start
+46:10.0	STVMS Tracking Chassis Start	QPC953	Chassis Start
+46:21.1	Cab in white conveyer	ATG468	CIW upload
+46:28.0	Cab Conveyer	TEP325	Cab Upload 2
+46:28.0	Cab Conveyor / Monorail	TEP325	Cab Upload
+46:49.1	Hood Conveyor	JKZ317	Hood Upload
+48:48.2	Paint Inspection	IOU412	PAINT
+49:18.0	STVMS Tracking Top Station	GSF615	Top Station
+50:33.0	U-BOLT	ARS065	Front U-Bolt
+50:36.8	OMT Offline Tracking	CSW718	Enter Offline
+50:50.9	Assembly Line Tracker	GSF615	Pool 60 Start
+50:51.9	Assembly Line Tracker	QPC953	Pool 13 Start
+50:52.8	Assembly Line Tracker	OWH831	Pool 13 Start
+51:40.1	Cab in white conveyer	GZC132	CIW upload
+52:48.6	Hood Conveyor	VFR160	Hood Upload
+53:46.2	Paint Inspection	FHU982	PAINT
+54:40.6	Cab Call Scan	GQV369	B Line
+55:14.0	U-BOLT	ARS065	Rear U-Bolt
+55:34.0	STVMS Tracking Top Station	OWH831	Top Station
+55:50.9	Assembly Line Tracker	OWH831	Pool 60 Start
+56:15.7	Cab Conveyer	NKE126	Cab Upload 2
+56:15.7	Cab Conveyor / Monorail	NKE126	Cab Upload
+57:19.4	Cab in white conveyer	ETS067	CIW upload
+57:48.3	OMT Offline Tracking	QDR380	Enter Offline
+58:34.0	U-BOLT	TZO690	Rear U-Bolt
+59:26.9	Hood Conveyor	ZKY831	Hood Upload
+01:01.6	Cab Conveyer	FMU279	Cab Upload 2
+01:01.6	Cab Conveyor / Monorail	FMU279	Cab Upload
+01:28.5	Cab call scan	QZB271	A Line
+01:31.0	STVMS Tracking Top Station	QPC953	Top Station
+02:23.0	STVMS Tracking Chassis Start	SYA283	Chassis Start
+02:27.0	STVMS Tracking Chassis Start	PVZ436	Chassis Start
+04:17.7	Cab Conveyer	QMA357	Cab Upload 2
+04:17.7	Cab Conveyor / Monorail	QMA357	Cab Upload
+04:38.7	Hood Conveyor	AYO527	Hood Upload
+04:52.0	U-BOLT	QBR938	Front U-Bolt
+05:50.8	Cab Call Scan	YGL283	B Line
+05:50.9	Assembly Line Tracker	PVZ436	Pool 13 Start
+05:51.8	Assembly Line Tracker	SYA283	Pool 13 Start
+05:55.8	Assembly Line Tracker	QPC953	Pool 60 Start
+08:27.5	Hood Conveyor	KNR831	Hood Upload
+08:57.0	STVMS Tracking Top Station	SYA283	Top Station
+09:53.9	Paint Inspection	YCR723	PAINT
+10:51.0	Assembly Line Tracker	SYA283	Pool 60 Start
+11:29.9	OMT Offline Tracking	MHU637	Enter Offline
+11:29.9	OMT Offline Tracking	MHU637	Sold
+12:33.9	Cab call scan	RHX208	A Line
+13:27.0	Hood Conveyor	SYV137	Hood Upload
+15:05.7	Paint Inspection	AHN391	PAINT
+15:47.5	Cab Conveyer	ERC382	Cab Upload 2
+15:47.5	Cab Conveyor / Monorail	ERC382	Cab Upload
+15:48.0	STVMS Tracking Chassis Start	JKZ317	Chassis Start
+17:06.6	Cab in white conveyer	FWS327	CIW upload
+17:51.0	STVMS Tracking Top Station	PVZ436	Top Station
+18:09.1	Hood Conveyor	ZVI392	Hood Upload
+18:52.1	Cab Call Scan	WRT608	B Line
+20:32.0	U-BOLT	LED479	Front U-Bolt
+20:51.9	Assembly Line Tracker	PVZ436	Pool 60 Start
+20:52.9	Assembly Line Tracker	JKZ317	Pool 13 Start
+21:53.0	Hood Conveyor	LGO801	Hood Upload
+22:23.9	OMT Offline Tracking	DZO637	Enter Offline
+24:53.0	U-BOLT	YBJ023	Front U-Bolt
+25:09.1	OMT Offline Tracking	CJQ075	Enter Offline
+25:15.0	STVMS Tracking Top Station	JKZ317	Top Station
+25:30.3	OMT Offline Tracking	USH564	Enter Offline
+25:45.1	Cab Conveyer	GQV369	Cab Upload 2
+25:45.1	Cab Conveyor / Monorail	GQV369	Cab Upload
+25:51.0	Assembly Line Tracker	JKZ317	Pool 60 Start
+26:02.3	Paint Inspection	KFN372	PAINT
+26:06.6	Cab in white conveyer	UXJ427	CIW upload
+26:57.6	Cab call scan	NUX358	A Line
+27:37.7	Hood Conveyor	FTI824	Hood Upload
+30:46.0	STVMS Tracking Top Station	VFR160	Top Station
+30:50.9	Assembly Line Tracker	VFR160	Pool 60 Start
+31:17.6	Cab Call Scan	BIP389	B Line
+31:20.2	Hood Conveyor	VCM016	Hood Upload
+33:18.6	Cab Conveyer	QZB271	Cab Upload 2
+33:18.6	Cab Conveyor / Monorail	QZB271	Cab Upload
+35:23.2	Paint Inspection	EBL860	PAINT
+35:32.6	Hood Conveyor	PJL425	Hood Upload
+35:50.9	Assembly Line Tracker	ZKY831	Pool 13 Start
+35:51.8	Assembly Line Tracker	VFR160	Pool 13 Start
+40:07.8	Hood Conveyor	CMI143	Hood Upload
+40:37.0	U-BOLT	UWT728	Front U-Bolt
+41:18.6	Paint Inspection	DPH631	PAINT
+42:03.0	U-BOLT	UWT728	Rear U-Bolt
+42:08.9	Cab Conveyer	YGL283	Cab Upload 2
+42:08.9	Cab Conveyor / Monorail	YGL283	Cab Upload
+43:45.6	OMT Offline Tracking	YDL247	Enter Offline
+45:23.5	OMT Offline Tracking	RQJ940	Enter Offline
+45:33.6	Cab in white conveyer	CNE620	CIW upload
+45:39.7	Cab in white conveyer	CRN086	CIW upload
+45:51.9	Assembly Line Tracker	AYO527	Pool 13 Start
+46:13.2	Cab Conveyer	RHX208	Cab Upload 2
+46:13.2	Cab Conveyor / Monorail	RHX208	Cab Upload
+46:44.2	Hood Conveyor	IOU412	Hood Upload
+47:24.0	STVMS Tracking Chassis Start	VFR160	Chassis Start
+47:27.0	STVMS Tracking Chassis Start	ZKY831	Chassis Start
+47:30.0	STVMS Tracking Chassis Start	AYO527	Chassis Start
+47:33.0	STVMS Tracking Chassis Start	KNR831	Chassis Start
+47:36.0	STVMS Tracking Chassis Start	SYV137	Chassis Start
+48:35.7	Cab Call Scan	GDR742	B Line
+48:44.4	Paint Inspection	SPI314	PAINT
+49:11.2	Cab in white conveyer	CNE620	CIW upload
+50:24.0	STVMS Tracking Top Station	ZKY831	Top Station
+50:30.0	STVMS Tracking Top Station	AYO527	Top Station
+50:49.0	U-BOLT	ICB356	Rear U-Bolt
+50:51.0	Assembly Line Tracker	AYO527	Pool 60 Start
+50:52.1	Assembly Line Tracker	ZKY831	Pool 60 Start
+50:53.1	Assembly Line Tracker	SYV137	Pool 13 Start
+50:54.1	Assembly Line Tracker	KNR831	Pool 13 Start
+50:56.0	STVMS Tracking Top Station	KNR831	Top Station
+50:57.9	Assembly Line Tracker	KNR831	Pool 60 Start
+51:11.8	Hood Conveyor	FHU982	Hood Upload
+52:38.0	STVMS Tracking Chassis Start	ZVI392	Chassis Start
+53:06.2	Cab Conveyer	WRT608	Cab Upload 2
+53:06.2	Cab Conveyor / Monorail	WRT608	Cab Upload
+54:25.2	Cab in white conveyer	DAJ581	CIW upload
+55:07.2	Cab Call Scan	RAI572	B Line
+55:33.0	OMT Offline Tracking	JCM567	Enter Offline
+55:33.0	OMT Offline Tracking	JCM567	Sold
+55:33.7	Paint Inspection	MPO083	PAINT
+56:48.7	Cab call scan	SPA495	A Line
+56:59.0	U-BOLT	MPE786	Front U-Bolt
+57:18.7	OMT Offline Tracking	GFM783	Enter Offline
+00:47.2	Hood Conveyor	YCR723	Hood Upload
+01:11.2	Cab in white conveyer	MTV391	CIW upload
+01:13.0	STVMS Tracking Top Station	SYV137	Top Station
+02:03.8	Cab Conveyer	NUX358	Cab Upload 2
+02:03.8	Cab Conveyor / Monorail	NUX358	Cab Upload
+03:16.9	Paint Inspection	AGU058	PAINT
+04:23.0	U-BOLT	JBC439	Front U-Bolt
+05:51.0	Assembly Line Tracker	SYV137	Pool 60 Start
+06:04.0	U-BOLT	JBC439	Rear U-Bolt
+07:31.4	OMT Offline Tracking	TMZ629	Enter Offline
+08:34.0	STVMS Tracking Chassis Start	LGO801	Chassis Start
+08:42.0	STVMS Tracking Chassis Start	FTI824	Chassis Start
+09:02.0	Paint Inspection	QZH295	PAINT
+10:08.1	Hood Conveyor	EBL860	Hood Upload
+11:22.0	OMT Offline Tracking	EUZ386	Enter Offline
+11:44.0	U-BOLT	GSF615	Rear U-Bolt
+13:28.0	Cab Call Scan	YAP829	B Line
+13:58.1	Cab in white conveyer	PVO367	CIW upload
+14:10.6	Hood Conveyor	AHN391	Hood Upload
+14:11.0	Cab call scan	LTV094	A Line
+17:01.0	STVMS Tracking Chassis Start	VCM016	Chassis Start
+18:22.5	Hood Conveyor	KFN372	Hood Upload
+18:30.0	STVMS Tracking Top Station	LGO801	Top Station
+18:34.0	U-BOLT	OWH831	Front U-Bolt
+19:12.5	Cab Conveyer	BIP389	Cab Upload 2
+19:12.5	Cab Conveyor / Monorail	BIP389	Cab Upload
+19:22.0	Cab in white conveyer	JCV863	CIW upload
+20:51.0	Assembly Line Tracker	LGO801	Pool 60 Start
+20:53.2	Assembly Line Tracker	LGO801	Pool 13 Start
+20:54.3	Assembly Line Tracker	ZVI392	Pool 13 Start
+21:49.0	STVMS Tracking Chassis Start	PJL425	Chassis Start
+22:17.5	Hood Conveyor	DPH631	Hood Upload
+22:56.2	OMT Offline Tracking	SNI285	Enter Offline
+23:50.3	Paint Inspection	SEK173	PAINT
+24:11.8	OMT Offline Tracking	PMN417	Enter Offline
+25:31.6	Cab in white conveyer	DRY562	CIW upload
+25:50.9	Assembly Line Tracker	FTI824	Pool 13 Start
+26:20.6	Cab call scan	ZIQ738	A Line
+26:23.0	U-BOLT	QPC953	Rear U-Bolt
+26:30.7	Hood Conveyor	MPO083	Hood Upload
+26:48.0	U-BOLT	QPC953	Front U-Bolt
+27:42.6	Cab Conveyer	SPA495	Cab Upload 2
+27:42.6	Cab Conveyor / Monorail	SPA495	Cab Upload
+29:24.6	Cab Conveyer	GDR742	Cab Upload 2
+29:24.6	Cab Conveyor / Monorail	GDR742	Cab Upload
+29:35.3	Paint Inspection	TRJ645	PAINT
+30:33.0	STVMS Tracking Chassis Start	CMI143	Chassis Start
+30:51.9	Assembly Line Tracker	VCM016	Pool 13 Start
+31:13.6	Hood Conveyor	LER634	Hood Upload
+32:55.1	Cab Call Scan	THO850	B Line
+33:52.7	Cab Call Scan	ARS065	B Line
+34:02.0	U-BOLT	SYA283	Front U-Bolt
+35:17.0	U-BOLT	SYA283	Rear U-Bolt
+35:54.3	Assembly Line Tracker	PJL425	Pool 13 Start
+36:08.7	Hood Conveyor	SPI314	Hood Upload
+36:47.8	Cab Conveyer	RAI572	Cab Upload 2
+36:47.8	Cab Conveyor / Monorail	RAI572	Cab Upload
+37:22.7	Paint Inspection	CSV482	PAINT
+37:52.0	STVMS Tracking Top Station	VCM016	Top Station
+38:16.0	STVMS Tracking Chassis Start	IOU412	Chassis Start
+38:24.3	OMT Offline Tracking	WQB451	Enter Offline
+39:59.7	Cab call scan	EZQ530	A Line
+40:53.6	Assembly Line Tracker	VCM016	Pool 60 Start
+41:02.0	U-BOLT	PVZ436	Rear U-Bolt
+43:49.4	Cab in white conveyer	IVC016	CIW upload
+44:57.0	Paint Inspection	YZU059	PAINT
+45:13.0	STVMS Tracking Chassis Start	FHU982	Chassis Start
+47:35.4	OMT Offline Tracking	ZDI213	Enter Offline
+48:23.0	U-BOLT	JKZ317	Rear U-Bolt
+48:27.3	OMT Offline Tracking	KSX968	Enter Offline
+48:41.0	U-BOLT	JKZ317	Front U-Bolt
+49:19.3	Cab in white conveyer	QTF497	CIW upload
+49:49.3	Cab Conveyer	LTV094	Cab Upload 2
+49:49.3	Cab Conveyor / Monorail	LTV094	Cab Upload
+51:07.7	Paint Inspection	FZA809	PAINT
+51:49.0	STVMS Tracking Chassis Start	YCR723	Chassis Start
+52:40.3	Cab Call Scan	QBR938	B Line
+53:27.4	Cab Conveyer	ZIQ738	Cab Upload 2
+53:27.4	Cab Conveyor / Monorail	ZIQ738	Cab Upload
+56:05.5	Cab call scan	TZO690	A Line
+56:36.5	Cab in white conveyer	AQG261	CIW upload
+56:53.0	U-BOLT	VFR160	Front U-Bolt
+58:15.3	OMT Offline Tracking	KMA503	Enter Offline
+00:17.9	Cab Conveyer	YAP829	Cab Upload 2
+00:17.9	Cab Conveyor / Monorail	YAP829	Cab Upload
+00:50.9	Assembly Line Tracker	YCR723	Pool 13 Start
+00:51.8	Assembly Line Tracker	FHU982	Pool 13 Start
+00:52.8	Assembly Line Tracker	IOU412	Pool 13 Start
+01:11.1	Paint Inspection	NHZ581	PAINT
+02:17.9	Cab in white conveyer	YKL719	CIW upload
+02:56.8	Cab Conveyer	THO850	Cab Upload 2
+02:56.8	Cab Conveyor / Monorail	THO850	Cab Upload
+03:03.0	U-BOLT	ZKY831	Rear U-Bolt
+03:04.0	U-BOLT	ZKY831	Front U-Bolt
+04:04.5	OMT Offline Tracking	XFN395	Enter Offline
+07:20.0	OMT Offline Tracking	TFX540	Enter Offline
+07:20.0	OMT Offline Tracking	TFX540	Sold
+08:02.0	STVMS Tracking Chassis Start	EBL860	Chassis Start
+08:06.0	STVMS Tracking Chassis Start	AHN391	Chassis Start
+09:12.9	Cab call scan	LED479	A Line
+10:34.0	U-BOLT	AYO527	Rear U-Bolt
+10:52.5	Cab Call Scan	YBJ023	B Line
+11:16.0	STVMS Tracking Top Station	FHU982	Top Station
+11:16.0	U-BOLT	AYO527	Front U-Bolt
+11:22.0	STVMS Tracking Top Station	IOU412	Top Station
+13:51.5	Cab Conveyer	ARS065	Cab Upload 2
+13:51.5	Cab Conveyor / Monorail	ARS065	Cab Upload
+14:29.0	STVMS Tracking Chassis Start	KFN372	Chassis Start
+15:52.5	Assembly Line Tracker	EBL860	Pool 13 Start
+15:53.5	Assembly Line Tracker	IOU412	Pool 60 Start
+15:54.5	Assembly Line Tracker	FHU982	Pool 60 Start
+17:32.0	U-BOLT	KNR831	Front U-Bolt
+17:58.0	Cab Conveyer	EZQ530	Cab Upload 2
+17:58.0	Cab Conveyor / Monorail	EZQ530	Cab Upload
+19:00.0	STVMS Tracking Top Station	EBL860	Top Station
+20:09.0	U-BOLT	KNR831	Rear U-Bolt
+20:50.9	Assembly Line Tracker	EBL860	Pool 60 Start
+24:04.9	Cab call scan	DPL397	A Line
+25:04.0	U-BOLT	SYV137	Front U-Bolt
+25:46.0	U-BOLT	SYV137	Rear U-Bolt
+26:30.0	STVMS Tracking Chassis Start	DPH631	Chassis Start
+27:09.9	Cab Conveyer	TZO690	Cab Upload 2
+27:09.9	Cab Conveyor / Monorail	TZO690	Cab Upload
+33:03.0	U-BOLT	ZVI392	Front U-Bolt
+33:47.0	U-BOLT	ZVI392	Rear U-Bolt
+55:58.5	Cab in white conveyer	GWC415	CIW upload
+47:08.9	Paint Inspection	YWI795	PAINT
+49:53.7	Cab in white conveyer	LCQ598	CIW upload
+56:19.7	Cab in white conveyer	HOJ276	CIW upload
+01:19.2	Cab in white conveyer	KIA624	CIW upload
+01:49.1	Paint Inspection	GJK683	PAINT
+03:51.2	Paint Inspection	EVB234	PAINT
+09:13.8	Cab in white conveyer	YHP863	CIW upload
+14:25.2	Cab in white conveyer	SEU602	CIW upload
+20:15.2	Paint Inspection	YCU023	PAINT
+20:16.2	Cab in white conveyer	EZV240	CIW upload
+25:48.3	Cab in white conveyer	HTV792	CIW upload
+25:59.7	Paint Inspection	ADQ781	PAINT
+31:43.2	Paint Inspection	QLV652	PAINT
+32:33.3	Cab in white conveyer	MGR987	CIW upload
+37:28.8	Cab in white conveyer	HXT823	CIW upload
+37:45.3	Paint Inspection	RBT219	PAINT
+39:03.2	Paint Inspection	EQD264	PAINT
+42:50.8	Cab in white conveyer	SNU912	CIW upload
+43:30.3	Paint Inspection	YXF326	PAINT
+48:31.3	Cab in white conveyer	CFO213	CIW upload
+55:58.2	Paint Inspection	HMS840	PAINT
+59:27.4	Cab in white conveyer	XET976	CIW upload
+36:35.6	Cab Call Scan	UWT728	B Line
+39:30.8	OMT Offline Tracking	TEP325	Enter Offline
+41:15.1	Cab in white conveyer	TXR569	CIW upload
+42:23.0	Paint Inspection	IXT460	PAINT
+44:27.2	OMT Offline Tracking	TRL028	Enter Offline
+45:50.2	Assembly Line Tracker	KFN372	Pool 13 Start
+45:50.4	Assembly Line Tracker	AHN391	Pool 13 Start
+46:54.3	Hood Conveyor	AGU058	Hood Upload
+47:47.3	Cab call scan	ICB356	A Line
+48:45.2	Cab Conveyer	LED479	Cab Upload 2
+48:45.2	Cab Conveyor / Monorail	LED479	Cab Upload
+50:13.0	STVMS Tracking Chassis Start	MPO083	Chassis Start
+50:13.3	Hood Conveyor	QZH295	Hood Upload
+50:51.1	Assembly Line Tracker	DPH631	Pool 13 Start
+51:23.0	U-BOLT	LGO801	Front U-Bolt
+52:53.9	Cab in white conveyer	ORS751	CIW upload
+52:55.2	OMT Offline Tracking	NKE126	Enter Offline
+52:55.2	OMT Offline Tracking	NKE126	Sold
+54:21.3	Hood Conveyor	SEK173	Hood Upload
+54:45.4	OMT Offline Tracking	FMU279	Enter Offline
+55:13.8	Cab Conveyer	QBR938	Cab Upload 2
+55:13.8	Cab Conveyor / Monorail	QBR938	Cab Upload
+56:37.0	STVMS Tracking Chassis Start	LER634	Chassis Start
+57:18.3	Cab Conveyer	YBJ023	Cab Upload 2
+57:18.3	Cab Conveyor / Monorail	YBJ023	Cab Upload
+58:49.0	U-BOLT	FTI824	Front U-Bolt
+59:20.8	Paint Inspection	DJZ516	PAINT
+00:24.8	Cab in white conveyer	BYF840	CIW upload
+00:49.4	Hood Conveyor	TRJ645	Hood Upload
+01:28.0	U-BOLT	FTI824	Rear U-Bolt
+02:45.3	Cab Call Scan	JBC439	B Line
+03:59.8	OMT Offline Tracking	QMA357	Enter Offline
+04:13.9	Hood Conveyor	CSV482	Hood Upload
+04:42.9	Cab in white conveyer	ZJC386	CIW upload
+05:22.4	OMT Offline Tracking	ERC382	Enter Offline
+05:50.6	Assembly Line Tracker	LER634	Pool 13 Start
+05:51.0	Assembly Line Tracker	MPO083	Pool 13 Start
+07:01.9	Cab call scan	MPE786	A Line
+07:13.0	U-BOLT	VCM016	Front U-Bolt
+08:35.4	Hood Conveyor	NHZ581	Hood Upload
+10:08.3	Cab Conveyer	UWT728	Cab Upload 2
+10:08.3	Cab Conveyor / Monorail	UWT728	Cab Upload
+10:50.2	Assembly Line Tracker	SPI314	Pool 13 Start
+11:37.8	Cab in white conveyer	EVZ013	CIW upload
+11:54.0	STVMS Tracking Chassis Start	SPI314	Chassis Start
+11:57.0	STVMS Tracking Chassis Start	AGU058	Chassis Start
+12:00.0	STVMS Tracking Chassis Start	QZH295	Chassis Start
+12:59.0	U-BOLT	VCM016	Rear U-Bolt
+13:56.9	Cab Conveyer	DPL397	Cab Upload 2
+13:56.9	Cab Conveyor / Monorail	DPL397	Cab Upload
+14:18.0	U-BOLT	PJL425	Front U-Bolt
+15:49.9	Paint Inspection	SPF970	PAINT
+16:22.0	Hood Conveyor	YZU059	Hood Upload
+17:02.5	Cab Conveyer	ICB356	Cab Upload 2
+17:02.5	Cab Conveyor / Monorail	ICB356	Cab Upload
+17:31.5	Cab in white conveyer	ZJK473	CIW upload
+19:34.0	Cab Call Scan	GSF615	B Line
+19:59.0	U-BOLT	PJL425	Rear U-Bolt
+20:15.5	Hood Conveyor	FZA809	Hood Upload
+20:50.5	Assembly Line Tracker	AGU058	Pool 13 Start
+21:14.6	OMT Offline Tracking	GQV369	Enter Offline
+22:50.0	U-BOLT	CMI143	Front U-Bolt
+23:21.1	Paint Inspection	JYZ708	PAINT
+23:24.1	Cab in white conveyer	QTI468	CIW upload
+25:37.0	Hood Conveyor	APZ612	Hood Upload
+27:27.0	OMT Offline Tracking	QZB271	Enter Offline
+27:43.0	U-BOLT	IOU412	Front U-Bolt
+28:20.1	Cab call scan	OWH831	A Line
+29:17.0	STVMS Tracking Chassis Start	SEK173	Chassis Start
+29:20.0	STVMS Tracking Chassis Start	TRJ645	Chassis Start
+29:20.6	Cab Call Scan	SYA283	B Line
+30:40.2	Hood Conveyor	YWI795	Hood Upload
+30:44.6	Cab in white conveyer	MBG962	CIW upload
+30:53.3	Assembly Line Tracker	QZH295	Pool 13 Start
+33:09.1	Cab Conveyer	MPE786	Cab Upload 2
+33:09.1	Cab Conveyor / Monorail	MPE786	Cab Upload
+33:26.0	U-BOLT	IOU412	Rear U-Bolt
+35:56.0	STVMS Tracking Chassis Start	CSV482	Chassis Start
+36:17.8	OMT Offline Tracking	RHX208	Enter Offline
+36:17.8	OMT Offline Tracking	RHX208	Sold
+36:21.6	Cab in white conveyer	DKE275	CIW upload
+36:31.0	OMT Offline Tracking	YGL283	Enter Offline
+36:41.0	U-BOLT	FHU982	Front U-Bolt
+37:08.1	Hood Conveyor	EVB234	Hood Upload
+39:34.1	Cab Conveyer	JBC439	Cab Upload 2
+39:34.1	Cab Conveyor / Monorail	JBC439	Cab Upload
+40:33.0	U-BOLT	FHU982	Rear U-Bolt
+41:25.7	Cab in white conveyer	WQS294	CIW upload
+41:43.1	Cab Call Scan	JKZ317	B Line
+44:28.0	STVMS Tracking Chassis Start	NHZ581	Chassis Start
+44:44.5	OMT Offline Tracking	NUX358	Enter Offline
+44:56.0	U-BOLT	YCR723	Front U-Bolt
+45:51.3	Assembly Line Tracker	SEK173	Pool 13 Start
+47:36.7	Cab Conveyer	GSF615	Cab Upload 2
+47:36.7	Cab Conveyor / Monorail	GSF615	Cab Upload
+48:04.3	OMT Offline Tracking	WRT608	Enter Offline
+48:39.8	Hood Conveyor	QRM025	Hood Upload
+49:21.2	Cab in white conveyer	MUJ483	CIW upload
+49:32.1	Paint Inspection	VFX591	PAINT
+49:52.0	U-BOLT	YCR723	Rear U-Bolt
+51:41.2	Hood Conveyor	YCU023	Hood Upload
+53:39.0	U-BOLT	EBL860	Front U-Bolt
+53:50.2	Cab call scan	QPC953	A Line
+53:59.3	Cab in white conveyer	LES327	CIW upload
+54:57.7	Cab Conveyer	OWH831	Cab Upload 2
+54:57.7	Cab Conveyor / Monorail	OWH831	Cab Upload
+56:42.3	Hood Conveyor	QLV652	Hood Upload
+57:10.8	Cab Call Scan	ZKY831	B Line
+57:28.0	STVMS Tracking Chassis Start	YZU059	Chassis Start
+57:32.0	STVMS Tracking Chassis Start	FZA809	Chassis Start
+59:38.0	U-BOLT	AHN391	Front U-Bolt
+00:44.3	Hood Conveyor	ADQ781	Hood Upload
+00:53.6	OMT Offline Tracking	BIP389	Enter Offline
+00:53.6	OMT Offline Tracking	BIP389	Sold
+01:40.8	Cab in white conveyer	RUK258	CIW upload
+03:17.3	Cab Conveyer	SYA283	Cab Upload 2
+03:17.3	Cab Conveyor / Monorail	SYA283	Cab Upload
+04:34.0	U-BOLT	AHN391	Rear U-Bolt
+05:50.5	Assembly Line Tracker	CSV482	Pool 13 Start
+05:51.0	Assembly Line Tracker	TRJ645	Pool 13 Start
+07:09.0	U-BOLT	KFN372	Front U-Bolt
+07:23.8	Hood Conveyor	EQD264	Hood Upload
+07:54.8	Cab call scan	PVZ436	A Line
+11:49.7	Paint Inspection	OQS570	PAINT
+11:54.8	Cab Call Scan	KNR831	B Line
+12:04.1	OMT Offline Tracking	GDR742	Enter Offline
+13:29.0	U-BOLT	KFN372	Rear U-Bolt
+13:57.0	U-BOLT	DPH631	Front U-Bolt
+15:33.8	Hood Conveyor	GJK683	Hood Upload
+15:50.5	Assembly Line Tracker	NHZ581	Pool 13 Start
+16:22.8	Cab in white conveyer	UZV267	CIW upload
+18:07.9	Cab Conveyer	QPC953	Cab Upload 2
+18:07.9	Cab Conveyor / Monorail	QPC953	Cab Upload
+19:19.5	Paint Inspection	DPA037	PAINT
+19:58.0	U-BOLT	DPH631	Rear U-Bolt
+19:59.0	STVMS Tracking Chassis Start	APZ612	Chassis Start
+20:01.0	STVMS Tracking Chassis Start	YWI795	Chassis Start
+20:04.0	STVMS Tracking Chassis Start	EVB234	Chassis Start
+20:52.0	Assembly Line Tracker	YZU059	Pool 13 Start
+22:49.3	Cab call scan	VFR160	A Line
+23:34.0	U-BOLT	MPO083	Front U-Bolt
+24:40.4	Hood Conveyor	HMS840	Hood Upload
+25:17.3	Cab Conveyer	PVZ436	Cab Upload 2
+25:17.3	Cab Conveyor / Monorail	PVZ436	Cab Upload
+26:20.2	Paint Inspection	EPR018	PAINT
+28:41.4	Hood Conveyor	RBT219	Hood Upload
+29:44.9	Cab in white conveyer	DIN812	CIW upload
+29:49.8	OMT Offline Tracking	SPA495	Enter Offline
+30:50.5	Assembly Line Tracker	FZA809	Pool 13 Start
+33:08.4	OMT Offline Tracking	RAI572	Enter Offline
+35:54.5	Cab Call Scan	SYV137	B Line
+36:12.9	Cab in white conveyer	LWM061	CIW upload
+36:47.4	Cab Conveyer	JKZ317	Cab Upload 2
+36:47.4	Cab Conveyor / Monorail	JKZ317	Cab Upload
+37:32.0	U-BOLT	SPI314	Front U-Bolt
+38:19.5	Hood Conveyor	YXF326	Hood Upload
+38:42.9	Cab call scan	AYO527	A Line
+40:06.0	STVMS Tracking Chassis Start	QRM025	Chassis Start
+40:10.0	STVMS Tracking Chassis Start	YCU023	Chassis Start
+40:13.0	STVMS Tracking Chassis Start	QLV652	Chassis Start
+40:38.9	Paint Inspection	GLW381	PAINT
+40:53.5	Assembly Line Tracker	APZ612	Pool 13 Start
+41:41.9	Cab Conveyer	ZKY831	Cab Upload 2
+41:41.9	Cab Conveyor / Monorail	ZKY831	Cab Upload
+42:54.4	Cab in white conveyer	XWS890	CIW upload
+45:47.6	OMT Offline Tracking	LTV094	Enter Offline
+45:48.0	U-BOLT	AGU058	Front U-Bolt
+45:50.5	Assembly Line Tracker	YWI795	Pool 13 Start
+46:39.0	U-BOLT	SPI314	Rear U-Bolt
+49:37.0	STVMS Tracking Top Station	AHN391	Top Station
+49:49.0	STVMS Tracking Top Station	YCR723	Top Station
+50:03.0	STVMS Tracking Top Station	KFN372	Top Station
+50:14.0	U-BOLT	AGU058	Rear U-Bolt
+50:17.0	STVMS Tracking Top Station	DPH631	Top Station
+50:20.6	Hood Conveyor	YKN950	Hood Upload
+50:23.0	STVMS Tracking Top Station	MPO083	Top Station
+50:24.6	Cab Call Scan	FTI824	B Line
+50:25.6	Cab Conveyer	VFR160	Cab Upload 2
+50:25.6	Cab Conveyor / Monorail	VFR160	Cab Upload
+50:29.0	STVMS Tracking Top Station	LER634	Top Station
+50:34.0	STVMS Tracking Top Station	SPI314	Top Station
+50:41.0	STVMS Tracking Top Station	AGU058	Top Station
+50:50.7	Assembly Line Tracker	AGU058	Pool 60 Start
+50:51.5	Assembly Line Tracker	SPI314	Pool 60 Start
+50:52.0	STVMS Tracking Top Station	QZH295	Top Station
+50:52.3	Assembly Line Tracker	LER634	Pool 60 Start
+50:53.1	Assembly Line Tracker	QZH295	Pool 60 Start
+50:54.4	Assembly Line Tracker	MPO083	Pool 60 Start
+50:55.1	Assembly Line Tracker	DPH631	Pool 60 Start
+50:55.7	Assembly Line Tracker	KFN372	Pool 60 Start
+50:56.0	STVMS Tracking Top Station	SEK173	Top Station
+50:56.4	Assembly Line Tracker	YCR723	Pool 60 Start
+50:57.2	Assembly Line Tracker	SEK173	Pool 60 Start
+50:57.9	Assembly Line Tracker	AHN391	Pool 60 Start
+50:58.6	Assembly Line Tracker	EVB234	Pool 13 Start
+51:00.0	STVMS Tracking Top Station	TRJ645	Top Station
+51:05.0	STVMS Tracking Top Station	CSV482	Top Station
+51:09.0	STVMS Tracking Top Station	NHZ581	Top Station
+51:13.0	STVMS Tracking Top Station	YZU059	Top Station
+51:17.0	STVMS Tracking Top Station	FZA809	Top Station
+51:20.0	STVMS Tracking Top Station	APZ612	Top Station
+51:24.0	STVMS Tracking Top Station	YWI795	Top Station
+51:30.0	STVMS Tracking Top Station	EVB234	Top Station
+51:34.0	STVMS Tracking Top Station	QRM025	Top Station
+52:47.5	Cab call scan	ZVI392	A Line
+52:55.6	Hood Conveyor	IXT460	Hood Upload
+55:29.0	STVMS Tracking Chassis Start	ADQ781	Chassis Start
+55:33.0	STVMS Tracking Chassis Start	EQD264	Chassis Start
+55:50.4	OMT Offline Tracking	ZIQ738	Enter Offline
+55:52.3	Assembly Line Tracker	QRM025	Pool 13 Start
+55:53.9	Assembly Line Tracker	QRM025	Pool 60 Start
+55:54.8	Assembly Line Tracker	EVB234	Pool 60 Start
+55:55.6	Assembly Line Tracker	YWI795	Pool 60 Start
+55:56.5	Assembly Line Tracker	APZ612	Pool 60 Start
+55:57.3	Assembly Line Tracker	FZA809	Pool 60 Start
+55:58.1	Assembly Line Tracker	YZU059	Pool 60 Start
+55:58.9	Assembly Line Tracker	NHZ581	Pool 60 Start
+55:59.6	Assembly Line Tracker	CSV482	Pool 60 Start
+56:00.7	Assembly Line Tracker	TRJ645	Pool 60 Start
+58:30.6	Cab in white conveyer	HXS072	CIW upload
+59:50.5	Cab Conveyer	AYO527	Cab Upload 2
+59:50.5	Cab Conveyor / Monorail	AYO527	Cab Upload
+01:27.3	OMT Offline Tracking	YAP829	Enter Offline
+01:41.1	Hood Conveyor	SPF970	Hood Upload
+03:37.0	Hood Conveyor	JYZ708	Hood Upload
+04:57.0	U-BOLT	SEK173	Front U-Bolt
+05:25.6	Cab Conveyer	KNR831	Cab Upload 2
+05:25.6	Cab Conveyor / Monorail	KNR831	Cab Upload
+06:41.2	OMT Offline Tracking	THO850	Enter Offline
+06:41.2	OMT Offline Tracking	THO850	Sold
+07:46.7	Hood Conveyor	KLN307	Hood Upload
+08:15.1	Cab Call Scan	PJL425	B Line
+08:21.0	STVMS Tracking Chassis Start	GJK683	Chassis Start
+08:39.6	Cab call scan	LGO801	A Line
+10:54.2	Assembly Line Tracker	CMI143	Pool 13 Start
+10:55.0	Assembly Line Tracker	YCU023	Pool 13 Start
+11:34.0	U-BOLT	SEK173	Rear U-Bolt
+12:03.7	Hood Conveyor	VFX591	Hood Upload
+13:32.1	Cab in white conveyer	ZJU865	CIW upload
+14:01.0	U-BOLT	TRJ645	Front U-Bolt
+14:27.1	Cab Call Scan	ALE837	B Line
+16:13.3	OMT Offline Tracking	EZQ530	Enter Offline
+16:13.8	Paint Inspection	FTI653	PAINT
+17:01.7	Cab Conveyer	SYV137	Cab Upload 2
+17:01.7	Cab Conveyor / Monorail	SYV137	Cab Upload
+17:05.2	Hood Conveyor	EPR018	Hood Upload
+17:12.5	Paint Inspection	ILA012	PAINT
+17:31.6	Cab call scan	VCM016	A Line
+18:31.2	Cab in white conveyer	JZP143	CIW upload
+20:23.0	U-BOLT	TRJ645	Rear U-Bolt
+20:42.9	OMT Offline Tracking	ARS065	Enter Offline
+20:52.0	U-BOLT	CSV482	Front U-Bolt
+20:58.3	Hood Conveyor	DPA037	Hood Upload
+21:20.2	Cab Conveyer	ZVI392	Cab Upload 2
+21:20.2	Cab Conveyor / Monorail	ZVI392	Cab Upload
+22:21.0	STVMS Tracking Chassis Start	HMS840	Chassis Start
+22:25.0	STVMS Tracking Chassis Start	RBT219	Chassis Start
+25:00.2	Cab in white conveyer	ZBT013	CIW upload
+25:36.7	Paint Inspection	WVB317	PAINT
+25:52.8	Cab Conveyer	LGO801	Cab Upload 2
+25:52.8	Cab Conveyor / Monorail	LGO801	Cab Upload
+25:57.0	U-BOLT	CSV482	Rear U-Bolt
+26:21.5	OMT Offline Tracking	TZO690	Enter Offline
+27:54.3	Hood Conveyor	OQS570	Hood Upload
+28:46.0	U-BOLT	NHZ581	Front U-Bolt
+29:57.2	Cab in white conveyer	FHL296	CIW upload
+30:42.3	Cab Call Scan	FHU982	B Line
+30:51.8	Assembly Line Tracker	ADQ781	Pool 13 Start
+30:52.7	Assembly Line Tracker	QLV652	Pool 13 Start
+32:03.3	Cab call scan	IOU412	A Line
+35:16.0	U-BOLT	YZU059	Front U-Bolt
+35:50.8	Assembly Line Tracker	GJK683	Pool 13 Start
+35:51.7	Assembly Line Tracker	EQD264	Pool 13 Start
+37:30.7	Cab Conveyer	FTI824	Cab Upload 2
+37:30.7	Cab Conveyor / Monorail	FTI824	Cab Upload
+38:02.3	Cab in white conveyer	FCR320	CIW upload
+38:30.8	Hood Conveyor	FTI653	Hood Upload
+39:09.0	U-BOLT	YZU059	Rear U-Bolt
+39:12.0	STVMS Tracking Chassis Start	YXF326	Chassis Start
+39:15.0	STVMS Tracking Chassis Start	YKN950	Chassis Start
+40:35.3	Hood Conveyor	KUR214	Hood Upload
+42:31.0	U-BOLT	FZA809	Front U-Bolt
+43:00.1	OMT Offline Tracking	LED479	Enter Offline
+43:00.1	OMT Offline Tracking	LED479	Sold
+43:29.8	Cab call scan	YCR723	A Line
+44:11.8	OMT Offline Tracking	QBR938	Enter Offline
+44:17.4	Cab in white conveyer	TJG894	CIW upload
+44:28.7	Paint Inspection	FQP941	PAINT
+45:02.5	Hood Conveyor	ILA012	Hood Upload
+45:24.9	Cab Conveyer	PJL425	Cab Upload 2
+45:24.9	Cab Conveyor / Monorail	PJL425	Cab Upload
+46:11.0	STVMS Tracking Chassis Start	IXT460	Chassis Start
+48:11.8	Cab Call Scan	AHN391	B Line
+48:53.9	Hood Conveyor	FQP941	Hood Upload
+49:43.0	U-BOLT	APZ612	Front U-Bolt
+53:10.4	Cab Conveyer	VCM016	Cab Upload 2
+53:10.4	Cab Conveyor / Monorail	VCM016	Cab Upload
+54:34.0	U-BOLT	APZ612	Rear U-Bolt
+54:48.0	OMT Offline Tracking	YBJ023	Enter Offline
+54:53.5	Paint Inspection	HQI892	PAINT
+55:20.4	Cab call scan	EBL860	A Line
+55:51.2	Assembly Line Tracker	IXT460	Pool 13 Start
+55:53.1	Assembly Line Tracker	YKN950	Pool 13 Start
+55:54.1	Assembly Line Tracker	YXF326	Pool 13 Start
+55:55.1	Assembly Line Tracker	RBT219	Pool 13 Start
+55:56.1	Assembly Line Tracker	HMS840	Pool 13 Start
+58:51.0	U-BOLT	YWI795	Front U-Bolt
+59:10.0	Cab Conveyer	IOU412	Cab Upload 2
+59:10.0	Cab Conveyor / Monorail	IOU412	Cab Upload
+00:51.2	Assembly Line Tracker	DJZ516	Pool 13 Start
+02:10.9	Paint Inspection	MAU864	PAINT
+03:15.0	U-BOLT	YWI795	Rear U-Bolt
+03:34.0	STVMS Tracking Chassis Start	DJZ516	Chassis Start
+03:40.0	STVMS Tracking Chassis Start	SPF970	Chassis Start
+04:23.5	Cab Conveyer	ALE837	Cab Upload 2
+04:23.5	Cab Conveyor / Monorail	ALE837	Cab Upload
+04:24.2	OMT Offline Tracking	DPL397	Enter Offline
+06:25.9	Hood Conveyor	HQI892	Hood Upload
+07:06.9	Cab Call Scan	DPH631	B Line
+08:29.0	STVMS Tracking Chassis Start	JYZ708	Chassis Start
+08:31.6	Paint Inspection	WBR310	PAINT
+10:42.0	OMT Offline Tracking	UWT728	Enter Offline
+11:29.9	Cab call scan	KFN372	A Line
+12:13.7	Hood Conveyor	MAU864	Hood Upload
+12:23.3	Cab in white conveyer	TEN567	CIW upload
+14:45.0	U-BOLT	QRM025	Front U-Bolt
+15:51.2	Assembly Line Tracker	KLN307	Pool 13 Start
+15:52.3	Assembly Line Tracker	JYZ708	Pool 13 Start
+15:53.4	Assembly Line Tracker	SPF970	Pool 13 Start
+16:54.0	U-BOLT	QRM025	Rear U-Bolt
+16:54.3	Hood Conveyor	WBR310	Hood Upload
+18:19.2	Cab in white conveyer	WBS653	CIW upload
+19:40.7	Cab Conveyer	FHU982	Cab Upload 2
+19:40.7	Cab Conveyor / Monorail	FHU982	Cab Upload
+20:26.0	U-BOLT	YCU023	Front U-Bolt
+21:29.3	Cab Call Scan	LER634	B Line
+21:48.0	OMT Offline Tracking	ICB356	Enter Offline
+23:12.0	STVMS Tracking Chassis Start	KLN307	Chassis Start
+23:17.0	STVMS Tracking Chassis Start	VFX591	Chassis Start
+23:40.0	U-BOLT	YCU023	Rear U-Bolt
+24:28.4	Cab in white conveyer	GIL947	CIW upload
+25:17.7	Cab Conveyer	YCR723	Cab Upload 2
+25:17.7	Cab Conveyor / Monorail	YCR723	Cab Upload
+26:16.3	Cab call scan	MPO083	A Line
+27:05.0	U-BOLT	QLV652	Front U-Bolt
+27:17.7	Paint Inspection	LPU731	PAINT
+29:40.9	Hood Conveyor	LPU731	Hood Upload
+30:02.9	Cab in white conveyer	JNM860	CIW upload
+30:17.4	Cab Conveyer	AHN391	Cab Upload 2
+30:17.4	Cab Conveyor / Monorail	AHN391	Cab Upload
+30:51.2	Assembly Line Tracker	VFX591	Pool 13 Start
+31:25.0	U-BOLT	QLV652	Rear U-Bolt
+31:34.1	OMT Offline Tracking	MPE786	Enter Offline
+31:36.6	Paint Inspection	SFZ186	PAINT
+32:27.0	STVMS Tracking Chassis Start	EPR018	Chassis Start
+32:31.0	STVMS Tracking Chassis Start	DPA037	Chassis Start
+32:34.0	STVMS Tracking Chassis Start	OQS570	Chassis Start
+34:21.0	U-BOLT	ADQ781	Front U-Bolt
+35:18.3	Cab Conveyer	EBL860	Cab Upload 2
+35:18.3	Cab Conveyor / Monorail	EBL860	Cab Upload
+35:26.8	Hood Conveyor	SFZ186	Hood Upload
+36:49.9	OMT Offline Tracking	OWH831	Enter Offline
+39:55.5	Cab Call Scan	AGU058	B Line
+40:24.4	Cab call scan	SPI314	A Line
+40:45.2	OMT Offline Tracking	JBC439	Enter Offline
+41:13.8	Paint Inspection	XSZ543	PAINT
+41:20.0	U-BOLT	EQD264	Front U-Bolt
+43:30.0	STVMS Tracking Top Station	YCU023	Top Station
+44:33.0	STVMS Tracking Top Station	FTI824	Top Station
+45:27.0	STVMS Tracking Top Station	QLV652	Top Station
+45:33.0	STVMS Tracking Top Station	ADQ781	Top Station
+45:39.0	STVMS Tracking Top Station	EQD264	Top Station
+45:48.0	STVMS Tracking Top Station	GJK683	Top Station
+45:51.2	Assembly Line Tracker	GJK683	Pool 60 Start
+45:52.3	Assembly Line Tracker	EQD264	Pool 60 Start
+45:53.4	Assembly Line Tracker	ADQ781	Pool 60 Start
+45:54.5	Assembly Line Tracker	QLV652	Pool 60 Start
+45:55.6	Assembly Line Tracker	FTI824	Pool 60 Start
+45:56.0	STVMS Tracking Top Station	HMS840	Top Station
+45:56.6	Assembly Line Tracker	YCU023	Pool 60 Start
+45:57.7	Assembly Line Tracker	HMS840	Pool 60 Start
+46:02.0	STVMS Tracking Top Station	RBT219	Top Station
+46:11.0	STVMS Tracking Top Station	YXF326	Top Station
+46:17.0	STVMS Tracking Top Station	YKN950	Top Station
+46:21.0	STVMS Tracking Top Station	IXT460	Top Station
+46:29.0	STVMS Tracking Top Station	DJZ516	Top Station
+46:33.0	STVMS Tracking Top Station	SPF970	Top Station
+46:38.0	STVMS Tracking Top Station	JYZ708	Top Station
+46:42.0	STVMS Tracking Top Station	KLN307	Top Station
+50:51.3	Assembly Line Tracker	OQS570	Pool 13 Start
+50:52.5	Assembly Line Tracker	KLN307	Pool 60 Start
+50:53.8	Assembly Line Tracker	DPA037	Pool 13 Start
+50:55.0	Assembly Line Tracker	EPR018	Pool 13 Start
+50:56.2	Assembly Line Tracker	JYZ708	Pool 60 Start
+50:57.3	Assembly Line Tracker	SPF970	Pool 60 Start
+50:58.5	Assembly Line Tracker	DJZ516	Pool 60 Start
+50:59.7	Assembly Line Tracker	IXT460	Pool 60 Start
+51:01.0	Assembly Line Tracker	YKN950	Pool 60 Start
+51:02.2	Assembly Line Tracker	YXF326	Pool 60 Start
+51:03.3	Assembly Line Tracker	RBT219	Pool 60 Start
+51:09.5	OMT Offline Tracking	QPC953	Enter Offline
+51:09.5	OMT Offline Tracking	QPC953	Sold
+51:57.0	U-BOLT	GJK683	Front U-Bolt
+52:07.8	OMT Offline Tracking	GSF615	Enter Offline
+52:28.0	U-BOLT	EQD264	Rear U-Bolt
+53:11.9	Cab Call Scan	QZH295	B Line
+55:51.3	Assembly Line Tracker	FTI653	Pool 13 Start
+57:39.0	U-BOLT	GJK683	Rear U-Bolt
+59:57.0	U-BOLT	HMS840	Front U-Bolt
+05:16.5	Cab Conveyer	DPH631	Cab Upload 2
+05:16.5	Cab Conveyor / Monorail	DPH631	Cab Upload
+18:34.6	Hood Conveyor	XSZ543	Hood Upload
+22:07.7	Cab Conveyer	KFN372	Cab Upload 2
+22:07.7	Cab Conveyor / Monorail	KFN372	Cab Upload
+22:48.1	Cab call scan	SEK173	A Line
+26:49.1	Cab Conveyer	MPO083	Cab Upload 2
+26:49.1	Cab Conveyor / Monorail	MPO083	Cab Upload
+27:08.2	Paint Inspection	PWR481	PAINT
+30:28.2	Hood Conveyor	PWR481	Hood Upload
+32:28.0	Paint Inspection	JIN079	PAINT
+32:36.7	Cab in white conveyer	VQP946	CIW upload
+36:09.0	U-BOLT	RBT219	Front U-Bolt
+36:19.6	Cab Conveyer	LER634	Cab Upload 2
+36:19.6	Cab Conveyor / Monorail	LER634	Cab Upload
+37:08.6	Paint Inspection	XGC043	PAINT
+37:37.6	Cab Call Scan	CSV482	B Line
+39:55.2	OMT Offline Tracking	PVZ436	Enter Offline
+40:15.0	Cab in white conveyer	LFW513	CIW upload
+41:07.3	Cab call scan	TRJ645	A Line
+41:27.6	OMT Offline Tracking	SYA283	Enter Offline
+42:08.0	U-BOLT	YXF326	Front U-Bolt
+43:57.4	Hood Conveyor	XGC043	Hood Upload
+46:27.4	Paint Inspection	TMU402	PAINT
+46:31.8	Cab Conveyer	SPI314	Cab Upload 2
+46:31.8	Cab Conveyor / Monorail	SPI314	Cab Upload
+47:35.8	Cab in white conveyer	CFG764	CIW upload
+48:09.0	STVMS Tracking Chassis Start	FTI653	Chassis Start
+48:11.0	STVMS Tracking Chassis Start	KUR214	Chassis Start
+48:14.0	STVMS Tracking Chassis Start	ILA012	Chassis Start
+48:20.0	STVMS Tracking Chassis Start	FQP941	Chassis Start
+48:38.0	U-BOLT	YXF326	Rear U-Bolt
+49:24.0	U-BOLT	YKN950	Front U-Bolt
+53:37.8	OMT Offline Tracking	JKZ317	Enter Offline
+54:05.0	Paint Inspection	HCS198	PAINT
+55:39.9	Cab in white conveyer	TXC574	CIW upload
+55:42.7	OMT Offline Tracking	VFR160	Enter Offline
+55:51.2	Assembly Line Tracker	FQP941	Pool 13 Start
+55:52.3	Assembly Line Tracker	ILA012	Pool 13 Start
+55:53.3	Assembly Line Tracker	KUR214	Pool 13 Start
+56:21.9	Hood Conveyor	JIN079	Hood Upload
+56:29.9	Cab Call Scan	YZU059	B Line
+56:38.4	Cab call scan	NHZ581	A Line
+57:30.4	Cab Conveyer	AGU058	Cab Upload 2
+57:30.4	Cab Conveyor / Monorail	AGU058	Cab Upload
+59:25.0	U-BOLT	IXT460	Front U-Bolt
+59:36.9	Hood Conveyor	HCS198	Hood Upload
+02:18.9	Cab in white conveyer	THO497	CIW upload
+03:49.4	Cab Conveyer	SEK173	Cab Upload 2
+03:49.4	Cab Conveyor / Monorail	SEK173	Cab Upload
+04:37.4	Hood Conveyor	TMU402	Hood Upload
+06:45.5	OMT Offline Tracking	ZKY831	Enter Offline
+07:40.0	Cab in white conveyer	VFH294	CIW upload
+07:47.0	U-BOLT	IXT460	Rear U-Bolt
+09:03.4	Cab Conveyer	QZH295	Cab Upload 2
+09:03.4	Cab Conveyor / Monorail	QZH295	Cab Upload
+09:08.2	OMT Offline Tracking	AYO527	Enter Offline
+10:00.0	U-BOLT	DJZ516	Front U-Bolt
+10:38.0	STVMS Tracking Chassis Start	HQI892	Chassis Start
+10:41.0	STVMS Tracking Chassis Start	MAU864	Chassis Start
+11:39.5	Cab Call Scan	APZ612	B Line
+14:13.0	U-BOLT	SPF970	Front U-Bolt
+14:38.5	Cab call scan	FZA809	A Line
+15:42.9	Cab Conveyer	TRJ645	Cab Upload 2
+15:42.9	Cab Conveyor / Monorail	TRJ645	Cab Upload
+17:18.0	U-BOLT	SPF970	Rear U-Bolt
+20:19.6	Cab in white conveyer	ZXA107	CIW upload
+20:24.0	U-BOLT	JYZ708	Front U-Bolt
+20:46.5	Cab Conveyer	CSV482	Cab Upload 2
+20:46.5	Cab Conveyor / Monorail	CSV482	Cab Upload
+20:51.2	Assembly Line Tracker	HQI892	Pool 13 Start
+20:58.0	OMT Offline Tracking	ZVI392	Enter Offline
+21:45.2	Paint Inspection	EBM074	PAINT
+22:54.0	U-BOLT	JYZ708	Rear U-Bolt
+25:32.5	Cab Call Scan	YWI795	B Line
+27:19.0	U-BOLT	KLN307	Front U-Bolt
+27:26.0	STVMS Tracking Top Station	ZVI392	Top Station
+27:57.0	STVMS Tracking Top Station	PJL425	Top Station
+28:23.0	STVMS Tracking Top Station	CMI143	Top Station
+28:42.0	STVMS Tracking Top Station	VFX591	Top Station
+28:52.0	STVMS Tracking Top Station	EPR018	Top Station
+28:58.0	STVMS Tracking Top Station	DPA037	Top Station
+29:00.8	Paint Inspection	TBP914	PAINT
+29:02.0	STVMS Tracking Top Station	OQS570	Top Station
+29:06.0	STVMS Tracking Top Station	FTI653	Top Station
+29:11.0	STVMS Tracking Top Station	KUR214	Top Station
+29:15.0	STVMS Tracking Top Station	ILA012	Top Station
+29:21.0	STVMS Tracking Top Station	FQP941	Top Station
+29:32.0	STVMS Tracking Top Station	HQI892	Top Station
+29:37.0	STVMS Tracking Top Station	MAU864	Top Station
+29:55.6	Cab call scan	ZPW452	A Line
+30:17.0	U-BOLT	KLN307	Rear U-Bolt
+30:52.2	Assembly Line Tracker	MAU864	Pool 60 Start
+30:53.2	Assembly Line Tracker	HQI892	Pool 60 Start
+30:55.3	Assembly Line Tracker	FQP941	Pool 60 Start
+30:56.3	Assembly Line Tracker	ILA012	Pool 60 Start
+30:57.2	Cab in white conveyer	EBT912	CIW upload
+30:57.3	Assembly Line Tracker	KUR214	Pool 60 Start
+30:58.3	Assembly Line Tracker	FTI653	Pool 60 Start
+30:59.3	Assembly Line Tracker	OQS570	Pool 60 Start
+30:59.6	OMT Offline Tracking	KNR831	Enter Offline
+31:00.4	Assembly Line Tracker	DPA037	Pool 60 Start
+31:01.4	Assembly Line Tracker	EPR018	Pool 60 Start
+31:02.4	Assembly Line Tracker	VFX591	Pool 60 Start
+31:03.5	Assembly Line Tracker	CMI143	Pool 60 Start
+31:04.5	Assembly Line Tracker	PJL425	Pool 60 Start
+31:05.5	Assembly Line Tracker	MAU864	Pool 13 Start
+31:06.5	Assembly Line Tracker	ZVI392	Pool 60 Start
+32:16.0	STVMS Tracking Chassis Start	WBR310	Chassis Start
+32:19.0	STVMS Tracking Chassis Start	LPU731	Chassis Start
+32:22.0	STVMS Tracking Chassis Start	SFZ186	Chassis Start
+33:34.3	Cab Conveyer	NHZ581	Cab Upload 2
+33:34.3	Cab Conveyor / Monorail	NHZ581	Cab Upload
+34:25.8	OMT Offline Tracking	LGO801	Enter Offline
+34:26.0	U-BOLT	VFX591	Front U-Bolt
+35:54.1	Assembly Line Tracker	WBR310	Pool 13 Start
+38:00.6	Cab Conveyer	YZU059	Cab Upload 2
+38:00.6	Cab Conveyor / Monorail	YZU059	Cab Upload
+38:10.6	Cab in white conveyer	IFX670	CIW upload
+38:29.4	OMT Offline Tracking	SYV137	Enter Offline
+38:29.4	OMT Offline Tracking	SYV137	Sold
+39:37.0	STVMS Tracking Chassis Start	XSZ543	Chassis Start
+39:40.0	STVMS Tracking Chassis Start	PWR481	Chassis Start
+39:43.0	STVMS Tracking Chassis Start	XGC043	Chassis Start
+39:49.0	STVMS Tracking Chassis Start	JIN079	Chassis Start
+39:59.0	STVMS Tracking Chassis Start	HCS198	Chassis Start
+40:35.1	Cab Call Scan	EVB234	B Line
+42:02.4	Paint Inspection	XJI184	PAINT
+44:04.0	U-BOLT	EPR018	Front U-Bolt
+45:15.6	Cab in white conveyer	FWU517	CIW upload
+45:51.1	Assembly Line Tracker	LPU731	Pool 13 Start
+47:01.0	Paint Inspection	BJM584	PAINT
+47:31.0	U-BOLT	EPR018	Rear U-Bolt
+49:34.2	Cab Conveyer	FZA809	Cab Upload 2
+49:34.2	Cab Conveyor / Monorail	FZA809	Cab Upload
+50:08.6	Cab call scan	QRM025	A Line
+50:50.7	Cab in white conveyer	KMW285	CIW upload
+51:10.2	OMT Offline Tracking	VCM016	Enter Offline
+51:45.8	Paint Inspection	YRW680	PAINT
+52:23.7	Hood Conveyor	EBM074	Hood Upload
+53:23.0	U-BOLT	DPA037	Front U-Bolt
+54:17.8	OMT Offline Tracking	FTI824	Enter Offline
+54:57.6	Hood Conveyor	TBP914	Hood Upload
+55:51.1	Assembly Line Tracker	SFZ186	Pool 13 Start
+00:14.6	Cab Conveyer	APZ612	Cab Upload 2
+00:14.6	Cab Conveyor / Monorail	APZ612	Cab Upload
+00:48.0	U-BOLT	OQS570	Front U-Bolt
+00:51.1	Assembly Line Tracker	XSZ543	Pool 13 Start
+02:19.3	Hood Conveyor	XJI184	Hood Upload
+03:15.7	Cab Conveyer	YWI795	Cab Upload 2
+03:15.7	Cab Conveyor / Monorail	YWI795	Cab Upload
+03:32.8	Cab call scan	YCU023	A Line
+03:46.2	OMT Offline Tracking	PJL425	Enter Offline
+05:16.8	Paint Inspection	TEK452	PAINT
+05:51.0	Assembly Line Tracker	PWR481	Pool 13 Start
+06:24.0	U-BOLT	FTI653	Front U-Bolt
+07:06.8	Hood Conveyor	BJM584	Hood Upload
+07:45.8	Cab in white conveyer	NSP483	CIW upload
+08:18.3	Cab Call Scan	QLV652	B Line
+09:17.0	U-BOLT	DPA037	Rear U-Bolt
+10:52.1	Assembly Line Tracker	XGC043	Pool 13 Start
+10:53.3	Cab Conveyer	ZPW452	Cab Upload 2
+10:53.3	Cab Conveyor / Monorail	ZPW452	Cab Upload
+12:01.2	OMT Offline Tracking	IOU412	Enter Offline
+12:22.9	Hood Conveyor	YRW680	Hood Upload
+12:26.0	U-BOLT	KUR214	Front U-Bolt
+13:41.0	U-BOLT	KUR214	Rear U-Bolt
+16:25.7	Hood Conveyor	TEK452	Hood Upload
+17:54.3	Cab Call Scan	EQD264	B Line
+18:52.3	Cab call scan	ADQ781	A Line
+20:51.1	Assembly Line Tracker	JIN079	Pool 13 Start
+21:33.0	U-BOLT	ILA012	Rear U-Bolt
+22:06.9	Cab in white conveyer	YIZ291	CIW upload
+22:35.5	Cab Conveyer	QRM025	Cab Upload 2
+22:35.5	Cab Conveyor / Monorail	QRM025	Cab Upload
+22:56.3	Paint Inspection	GTO457	PAINT
+22:57.9	OMT Offline Tracking	ALE837	Enter Offline
+23:22.5	Hood Conveyor	GTO457	Hood Upload
+23:44.0	OMT Offline Tracking	YCR723	Sold
+23:44.0	OMT Offline Tracking	YCR723	Enter Offline
+28:06.0	U-BOLT	FQP941	Front U-Bolt
+28:22.4	Cab Conveyer	EVB234	Cab Upload 2
+28:22.4	Cab Conveyor / Monorail	EVB234	Cab Upload
+28:48.3	Cab in white conveyer	UNM285	CIW upload
+30:02.0	U-BOLT	FQP941	Rear U-Bolt
+30:53.9	Cab call scan	GJK683	A Line
+32:36.4	Paint Inspection	YBP783	PAINT
+33:28.4	OMT Offline Tracking	EBL860	Enter Offline
+33:28.6	OMT Offline Tracking	FHU982	Enter Offline
+34:30.0	Cab in white conveyer	HOA438	CIW upload
+35:59.5	Hood Conveyor	YBP783	Hood Upload
+36:32.4	Cab Conveyer	YCU023	Cab Upload 2
+36:32.4	Cab Conveyor / Monorail	YCU023	Cab Upload
+36:35.0	STVMS Tracking Chassis Start	TMU402	Chassis Start
+36:40.0	STVMS Tracking Chassis Start	EBM074	Chassis Start
+36:41.5	Cab Call Scan	HMS840	B Line
+36:45.0	STVMS Tracking Chassis Start	TBP914	Chassis Start
+40:38.5	Cab in white conveyer	EUK098	CIW upload
+40:41.0	Cab Call Scan	RBT219	B Line
+41:12.9	Paint Inspection	ATG468	PAINT
+41:30.0	U-BOLT	HQI892	Front U-Bolt
+42:57.5	Cab Conveyer	QLV652	Cab Upload 2
+42:57.5	Cab Conveyor / Monorail	QLV652	Cab Upload
+44:17.6	Cab call scan	YXF326	A Line
+45:05.4	Paint Inspection	GZC132	PAINT
+45:37.0	U-BOLT	HQI892	Rear U-Bolt
+45:52.6	Assembly Line Tracker	HCS198	Pool 13 Start
+46:01.5	Hood Conveyor	ATG468	Hood Upload
+46:18.1	Cab in white conveyer	ZXC042	CIW upload
+47:41.0	Cab Conveyer	EQD264	Cab Upload 2
+47:41.0	Cab Conveyor / Monorail	EQD264	Cab Upload
+48:43.0	U-BOLT	MAU864	Front U-Bolt
+49:54.1	Hood Conveyor	GZC132	Hood Upload
+50:51.2	Assembly Line Tracker	TMU402	Pool 13 Start
+51:14.0	Cab Call Scan	YKN950	B Line
+54:21.0	Cab in white conveyer	IGW482	CIW upload
+56:28.0	OMT Offline Tracking	KFN372	Enter Offline
+56:47.0	U-BOLT	MAU864	Rear U-Bolt
+57:01.0	U-BOLT	WBR310	Front U-Bolt
+57:16.2	OMT Offline Tracking	AHN391	Enter Offline
+59:46.5	Cab call scan	IXT460	A Line
+00:23.6	Cab Conveyer	ADQ781	Cab Upload 2
+00:23.6	Cab Conveyor / Monorail	ADQ781	Cab Upload
+00:52.0	Assembly Line Tracker	TBP914	Pool 13 Start
+00:53.0	Assembly Line Tracker	EBM074	Pool 13 Start
+03:24.0	U-BOLT	WBR310	Rear U-Bolt
+04:11.1	Cab Conveyer	GJK683	Cab Upload 2
+04:11.1	Cab Conveyor / Monorail	GJK683	Cab Upload
+04:56.9	OMT Offline Tracking	MPO083	Enter Offline
+05:35.0	U-BOLT	LPU731	Front U-Bolt
+05:51.1	Assembly Line Tracker	YRW680	Pool 13 Start
+05:52.3	Assembly Line Tracker	XJI184	Pool 13 Start
+07:26.5	Cab in white conveyer	YAM792	CIW upload
+08:33.0	Cab Call Scan	SPF970	B Line
+08:56.1	Cab Conveyer	YXF326	Cab Upload 2
+08:56.1	Cab Conveyor / Monorail	YXF326	Cab Upload
+10:52.3	Paint Inspection	XPQ906	PAINT
+10:57.2	OMT Offline Tracking	DPH631	Enter Offline
+11:26.0	U-BOLT	SFZ186	Front U-Bolt
+13:15.5	Cab call scan	DJZ516	A Line
+14:27.0	U-BOLT	SFZ186	Rear U-Bolt
+15:33.2	Cab in white conveyer	XQJ175	CIW upload
+19:44.1	Cab Conveyer	HMS840	Cab Upload 2
+19:44.1	Cab Conveyor / Monorail	HMS840	Cab Upload
+27:32.0	STVMS Tracking Chassis Start	YRW680	Chassis Start
+27:36.0	STVMS Tracking Chassis Start	TEK452	Chassis Start
+27:40.0	STVMS Tracking Chassis Start	GTO457	Chassis Start
+27:43.0	STVMS Tracking Chassis Start	YBP783	Chassis Start
+29:24.0	U-BOLT	PWR481	Front U-Bolt
+49:15.2	Cab in white conveyer	AXB124	CIW upload
+04:26.3	Cab in white conveyer	NEH310	CIW upload
+27:30.7	Cab Conveyer	RBT219	Cab Upload 2
+27:30.7	Cab Conveyor / Monorail	RBT219	Cab Upload
+38:21.8	Cab call scan	JYZ708	A Line
+39:21.8	OMT Offline Tracking	SPI314	Enter Offline
+41:17.9	Paint Inspection	JCV863	PAINT
+41:24.3	Cab Call Scan	KLN307	B Line
+44:23.7	Cab Conveyer	IXT460	Cab Upload 2
+44:23.7	Cab Conveyor / Monorail	IXT460	Cab Upload
+45:35.3	Cab in white conveyer	WTZ176	CIW upload
+47:06.8	Hood Conveyor	XPQ906	Hood Upload
+48:15.8	Cab Conveyer	YKN950	Cab Upload 2
+48:15.8	Cab Conveyor / Monorail	YKN950	Cab Upload
+48:18.9	Paint Inspection	CNE620	PAINT
+49:50.3	Hood Conveyor	FWS327	Hood Upload
+50:29.2	Paint Inspection	DAJ581	PAINT
+52:40.0	OMT Offline Tracking	LER634	Enter Offline
+53:55.0	Paint Inspection	CRN086	PAINT
+54:01.4	OMT Offline Tracking	SEK173	Enter Offline
+54:01.4	OMT Offline Tracking	SEK173	Sold
+54:12.8	Paint Inspection	PVO367	PAINT
+54:19.0	STVMS Tracking Chassis Start	ATG468	Chassis Start
+54:21.0	STVMS Tracking Chassis Start	GZC132	Chassis Start
+54:32.3	Cab call scan	VFX591	A Line
+55:11.7	Hood Conveyor	UXJ427	Hood Upload
+58:30.8	Cab Conveyer	DJZ516	Cab Upload 2
+58:30.8	Cab Conveyor / Monorail	DJZ516	Cab Upload
+58:35.7	Paint Inspection	DRY562	PAINT
+59:39.2	OMT Offline Tracking	AGU058	Enter Offline
+00:09.0	U-BOLT	JIN079	Rear U-Bolt
+00:18.9	Cab in white conveyer	DMV430	CIW upload
+00:59.3	Paint Inspection	MTV391	PAINT
+01:56.0	U-BOLT	JIN079	Front U-Bolt
+04:53.4	Hood Conveyor	CNE620	Hood Upload
+07:18.8	Cab Conveyer	SPF970	Cab Upload 2
+07:18.8	Cab Conveyor / Monorail	SPF970	Cab Upload
+07:28.8	Cab Call Scan	DPA037	B Line
+08:41.1	OMT Offline Tracking	TRJ645	Enter Offline
+08:49.0	STVMS Tracking Chassis Start	XPQ906	Chassis Start
+08:52.0	STVMS Tracking Chassis Start	FWS327	Chassis Start
+09:12.0	U-BOLT	HCS198	Front U-Bolt
+10:02.4	Cab call scan	EPR018	A Line
+11:58.9	OMT Offline Tracking	QZH295	Enter Offline
+11:58.9	OMT Offline Tracking	QZH295	Sold
+12:13.9	Cab Conveyer	JYZ708	Cab Upload 2
+12:13.9	Cab Conveyor / Monorail	JYZ708	Cab Upload
+14:43.7	Paint Inspection	NTD012	PAINT
+17:15.9	Cab in white conveyer	VFA941	CIW upload
+17:44.0	U-BOLT	TMU402	Front U-Bolt
+20:09.0	STVMS Tracking Chassis Start	UXJ427	Chassis Start
+20:30.5	Cab Conveyer	KLN307	Cab Upload 2
+20:30.5	Cab Conveyor / Monorail	KLN307	Cab Upload
+20:38.8	OMT Offline Tracking	NHZ581	Enter Offline
+21:43.3	Paint Inspection	IVC016	PAINT
+22:46.5	Hood Conveyor	DAJ581	Hood Upload
+23:25.4	Cab Conveyer	VFX591	Cab Upload 2
+23:25.4	Cab Conveyor / Monorail	VFX591	Cab Upload
+23:29.5	Cab in white conveyer	RSB867	CIW upload
+25:33.5	Cab call scan	FTI653	A Line
+27:26.5	Cab Conveyer	EPR018	Cab Upload 2
+27:26.5	Cab Conveyor / Monorail	EPR018	Cab Upload
+28:13.6	OMT Offline Tracking	CSV482	Enter Offline
+29:12.5	Cab Call Scan	OQS570	B Line
+30:01.5	Hood Conveyor	MTV391	Hood Upload
+30:12.5	Cab in white conveyer	ZHI138	CIW upload
+30:23.1	OMT Offline Tracking	FZA809	Enter Offline
+31:38.5	Cab Call Scan	KUR214	B Line
+33:37.0	U-BOLT	TBP914	Rear U-Bolt
+33:52.0	U-BOLT	EBM074	Front U-Bolt
+34:14.5	Hood Conveyor	DUT829	Hood Upload
+34:48.0	STVMS Tracking Chassis Start	CNE620	Chassis Start
+37:38.2	Cab in white conveyer	KJA254	CIW upload
+38:06.0	U-BOLT	TBP914	Front U-Bolt
+39:02.7	Hood Conveyor	PVO367	Hood Upload
+39:12.6	Cab call scan	ILA012	A Line
+41:42.6	Cab Conveyer	DPA037	Cab Upload 2
+41:42.6	Cab Conveyor / Monorail	DPA037	Cab Upload
+42:32.7	Hood Conveyor	JCV863	Hood Upload
+44:37.0	U-BOLT	XJI184	Front U-Bolt
+47:18.6	Hood Conveyor	DRY562	Hood Upload
+47:32.9	Paint Inspection	ETS067	PAINT
+48:11.1	Cab Conveyer	OQS570	Cab Upload 2
+48:11.1	Cab Conveyor / Monorail	OQS570	Cab Upload
+49:04.0	STVMS Tracking Chassis Start	DAJ581	Chassis Start
+49:08.0	STVMS Tracking Chassis Start	MTV391	Chassis Start
+49:49.0	U-BOLT	BJM584	Front U-Bolt
+50:13.6	Cab Call Scan	FQP941	B Line
+50:52.2	OMT Offline Tracking	ZPW452	Enter Offline
+51:43.7	Hood Conveyor	NTD012	Hood Upload
+52:51.3	OMT Offline Tracking	YZU059	Enter Offline
+52:51.3	OMT Offline Tracking	YZU059	Sold
+53:36.2	Cab in white conveyer	ASE183	CIW upload
+54:07.5	Paint Inspection	QTF497	PAINT
+54:47.2	Cab Conveyer	FTI653	Cab Upload 2
+54:47.2	Cab Conveyor / Monorail	FTI653	Cab Upload
+55:51.1	Hood Conveyor	IVC016	Hood Upload
+59:14.3	OMT Offline Tracking	APZ612	Enter Offline
+59:14.3	OMT Offline Tracking	APZ612	Sold
+00:01.8	Cab in white conveyer	EYG192	CIW upload
+00:04.2	Hood Conveyor	HBM615	Hood Upload
+00:41.3	Paint Inspection	YKL719	PAINT
+02:50.0	STVMS Tracking Chassis Start	DUT829	Chassis Start
+02:53.0	STVMS Tracking Chassis Start	BJM584	Chassis Start
+02:56.0	STVMS Tracking Chassis Start	XJI184	Chassis Start
+03:01.0	STVMS Tracking Chassis Start	PVO367	Chassis Start
+04:34.0	Hood Conveyor	QTF497	Hood Upload
+05:19.3	OMT Offline Tracking	QRM025	Enter Offline
+06:45.0	U-BOLT	TEK452	Front U-Bolt
+07:05.7	Cab Conveyer	KUR214	Cab Upload 2
+07:05.7	Cab Conveyor / Monorail	KUR214	Cab Upload
+07:45.2	Cab in white conveyer	RKW079	CIW upload
+08:29.7	Paint Inspection	IMS267	PAINT
+10:48.7	Cab call scan	MAU864	A Line
+11:58.0	STVMS Tracking Chassis Start	JCV863	Chassis Start
+12:39.8	Cab Conveyer	ILA012	Cab Upload 2
+12:39.8	Cab Conveyor / Monorail	ILA012	Cab Upload
+12:54.3	Cab Call Scan	HQI892	B Line
+13:02.8	Paint Inspection	AQG261	PAINT
+13:12.8	Cab in white conveyer	VAF684	CIW upload
+19:20.4	Paint Inspection	KIA624	PAINT
+20:12.0	Cab in white conveyer	UVN439	CIW upload
+21:27.8	OMT Offline Tracking	YCU023	Enter Offline
+21:47.8	OMT Offline Tracking	YWI795	Enter Offline
+23:42.0	STVMS Tracking Chassis Start	DRY562	Chassis Start
+24:05.3	Cab Call Scan	WBR310	B Line
+27:26.3	Cab Conveyer	FQP941	Cab Upload 2
+27:26.3	Cab Conveyor / Monorail	FQP941	Cab Upload
+27:48.0	U-BOLT	YBP783	Front U-Bolt
+28:41.1	Paint Inspection	YHP863	PAINT
+29:12.9	Cab in white conveyer	HGE901	CIW upload
+29:21.3	Cab call scan	LPU731	A Line
+30:03.0	STVMS Tracking Chassis Start	NTD012	Chassis Start
+32:19.6	OMT Offline Tracking	ADQ781	Enter Offline
+32:45.9	Hood Conveyor	AQG261	Hood Upload
+33:31.8	OMT Offline Tracking	EVB234	Enter Offline
+35:52.4	Cab in white conveyer	HGJ907	CIW upload
+37:37.0	STVMS Tracking Chassis Start	IVC016	Chassis Start
+38:33.4	Cab call scan	SFZ186	A Line
+38:51.4	Hood Conveyor	YKL719	Hood Upload
+40:19.4	Hood Conveyor	IMS267	Hood Upload
+41:27.4	Cab Conveyer	HQI892	Cab Upload 2
+41:27.4	Cab Conveyor / Monorail	HQI892	Cab Upload
+41:44.4	Cab in white conveyer	XVY745	CIW upload
+43:39.0	Cab Call Scan	XSZ543	B Line
+44:58.0	STVMS Tracking Chassis Start	HBM615	Chassis Start
+45:55.6	Hood Conveyor	KIA624	Hood Upload
+46:50.1	Cab Conveyer	MAU864	Cab Upload 2
+46:50.1	Cab Conveyor / Monorail	MAU864	Cab Upload
+48:09.6	Cab in white conveyer	GZO248	CIW upload
+48:26.6	Paint Inspection	SEU602	PAINT
+51:02.0	U-BOLT	GZC132	Front U-Bolt
+51:11.0	OMT Offline Tracking	QLV652	Enter Offline
+52:07.0	STVMS Tracking Chassis Start	QTF497	Chassis Start
+53:18.6	Paint Inspection	EZV240	PAINT
+54:07.0	Cab Conveyer	LPU731	Cab Upload 2
+54:07.0	Cab Conveyor / Monorail	LPU731	Cab Upload
+55:21.0	U-BOLT	XPQ906	Front U-Bolt
+55:25.5	Cab call scan	PWR481	A Line
+55:53.6	Cab Call Scan	XGC043	B Line
+57:13.1	OMT Offline Tracking	GJK683	Enter Offline
+57:36.1	Hood Conveyor	YHP863	Hood Upload
+58:11.5	Cab Conveyer	WBR310	Cab Upload 2
+58:11.5	Cab Conveyor / Monorail	WBR310	Cab Upload
+58:12.0	STVMS Tracking Chassis Start	AQG261	Chassis Start
+58:29.3	Paint Inspection	MGR987	PAINT
+59:25.6	Hood Conveyor	SEU602	Hood Upload
+01:30.0	U-BOLT	FWS327	Front U-Bolt
+02:32.6	Cab in white conveyer	WRD572	CIW upload
+02:42.4	Paint Inspection	HTV792	PAINT
+02:47.8	OMT Offline Tracking	YXF326	Enter Offline
+02:47.8	OMT Offline Tracking	YXF326	Sold
+03:44.1	Hood Conveyor	EZV240	Hood Upload
+04:36.1	Cab Conveyer	SFZ186	Cab Upload 2
+04:36.1	Cab Conveyor / Monorail	SFZ186	Cab Upload
+06:16.0	STVMS Tracking Chassis Start	YKL719	Chassis Start
+07:04.1	Cab call scan	JIN079	A Line
+09:33.0	U-BOLT	UXJ427	Front U-Bolt
+10:15.8	OMT Offline Tracking	EQD264	Enter Offline
+10:20.6	Cab in white conveyer	AYI236	CIW upload
+11:52.9	Paint Inspection	FPI264	PAINT
+14:46.0	STVMS Tracking Chassis Start	IMS267	Chassis Start
+16:03.2	Cab Call Scan	HCS198	B Line
+16:21.6	Cab Conveyer	PWR481	Cab Upload 2
+16:21.6	Cab Conveyor / Monorail	PWR481	Cab Upload
+16:46.2	Cab in white conveyer	XGY538	CIW upload
+19:23.5	Paint Inspection	HXT823	PAINT
+19:39.6	Cab Call Scan	TBP914	B Line
+20:05.1	Cab Conveyer	XSZ543	Cab Upload 2
+20:05.1	Cab Conveyor / Monorail	XSZ543	Cab Upload
+20:13.6	Cab call scan	EBM074	A Line
+23:47.2	Cab in white conveyer	CUO034	CIW upload
+23:52.1	OMT Offline Tracking	IXT460	Enter Offline
+26:34.7	Cab Conveyer	XGC043	Cab Upload 2
+26:34.7	Cab Conveyor / Monorail	XGC043	Cab Upload
+27:49.4	Paint Inspection	CFO213	PAINT
+28:29.7	Hood Conveyor	MGR987	Hood Upload
+28:39.0	U-BOLT	DAJ581	Front U-Bolt
+29:33.0	STVMS Tracking Chassis Start	KIA624	Chassis Start
+29:37.0	STVMS Tracking Chassis Start	YHP863	Chassis Start
+30:46.2	Cab in white conveyer	KZX314	CIW upload
+33:44.0	STVMS Tracking Top Station	GTO457	Top Station
+33:50.8	Hood Conveyor	HTV792	Hood Upload
+34:02.4	Paint Inspection	TXR569	PAINT
+34:03.5	OMT Offline Tracking	RBT219	Enter Offline
+34:18.4	OMT Offline Tracking	DJZ516	Enter Offline
+34:26.2	OMT Offline Tracking	HMS840	Enter Offline
+34:52.2	Cab Conveyer	JIN079	Cab Upload 2
+34:52.2	Cab Conveyor / Monorail	JIN079	Cab Upload
+35:02.0	STVMS Tracking Top Station	YBP783	Top Station
+35:44.0	STVMS Tracking Top Station	WBR310	Top Station
+35:50.0	STVMS Tracking Top Station	LPU731	Top Station
+35:50.6	Assembly Line Tracker	WBR310	Pool 60 Start
+35:51.2	Assembly Line Tracker	LPU731	Pool 60 Start
+35:52.5	Assembly Line Tracker	YBP783	Pool 60 Start
+35:53.0	STVMS Tracking Top Station	SFZ186	Top Station
+35:53.1	Assembly Line Tracker	GTO457	Pool 60 Start
+36:03.0	STVMS Tracking Top Station	XSZ543	Top Station
+36:07.0	STVMS Tracking Top Station	PWR481	Top Station
+36:12.0	STVMS Tracking Top Station	XGC043	Top Station
+37:04.8	Cab call scan	LOF143	A Line
+37:28.3	Cab in white conveyer	TBD951	CIW upload
+37:37.0	STVMS Tracking Top Station	JIN079	Top Station
+37:42.0	STVMS Tracking Top Station	HCS198	Top Station
+37:46.0	STVMS Tracking Top Station	TMU402	Top Station
+38:00.0	STVMS Tracking Top Station	EBM074	Top Station
+38:03.0	STVMS Tracking Top Station	TBP914	Top Station
+38:14.0	STVMS Tracking Top Station	YRW680	Top Station
+38:18.0	STVMS Tracking Top Station	TEK452	Top Station
+38:31.0	STVMS Tracking Top Station	ATG468	Top Station
+40:06.2	Hood Conveyor	HXT823	Hood Upload
+40:50.7	Assembly Line Tracker	ATG468	Pool 60 Start
+40:51.5	Assembly Line Tracker	TEK452	Pool 60 Start
+40:52.2	Assembly Line Tracker	YRW680	Pool 60 Start
+40:52.9	Assembly Line Tracker	TBP914	Pool 60 Start
+40:53.6	Assembly Line Tracker	EBM074	Pool 60 Start
+40:54.3	Assembly Line Tracker	TMU402	Pool 60 Start
+40:55.1	Assembly Line Tracker	HCS198	Pool 60 Start
+40:55.8	Assembly Line Tracker	JIN079	Pool 60 Start
+40:57.2	Assembly Line Tracker	XGC043	Pool 60 Start
+40:57.9	Assembly Line Tracker	PWR481	Pool 60 Start
+40:58.7	Assembly Line Tracker	XSZ543	Pool 60 Start
+40:59.4	Assembly Line Tracker	SFZ186	Pool 60 Start
+41:44.9	Paint Inspection	XET976	PAINT
+42:33.3	Cab Conveyer	HCS198	Cab Upload 2
+42:33.3	Cab Conveyor / Monorail	HCS198	Cab Upload
+45:18.5	OMT Offline Tracking	YKN950	Enter Offline
+45:32.0	U-BOLT	DUT829	Front U-Bolt
+46:18.3	Cab in white conveyer	DAM851	CIW upload
+46:28.0	STVMS Tracking Chassis Start	SEU602	Chassis Start
+46:32.0	STVMS Tracking Chassis Start	EZV240	Chassis Start
+47:50.9	Paint Inspection	BYF840	PAINT
+49:41.0	STVMS Tracking Top Station	GZC132	Top Station
+49:44.0	STVMS Tracking Top Station	XPQ906	Top Station
+49:59.0	STVMS Tracking Top Station	FWS327	Top Station
+50:10.0	STVMS Tracking Top Station	UXJ427	Top Station
+50:16.0	STVMS Tracking Top Station	CNE620	Top Station
+50:20.0	STVMS Tracking Top Station	DAJ581	Top Station
+50:23.0	STVMS Tracking Top Station	MTV391	Top Station
+50:27.0	STVMS Tracking Top Station	DUT829	Top Station
+50:50.9	Assembly Line Tracker	DUT829	Pool 60 Start
+50:52.3	Assembly Line Tracker	MTV391	Pool 60 Start
+50:53.0	Assembly Line Tracker	DAJ581	Pool 60 Start
+50:53.9	Assembly Line Tracker	CNE620	Pool 60 Start
+50:55.8	Assembly Line Tracker	UXJ427	Pool 60 Start
+50:56.7	Assembly Line Tracker	FWS327	Pool 60 Start
+50:57.6	Assembly Line Tracker	XPQ906	Pool 60 Start
+50:58.6	Assembly Line Tracker	GZC132	Pool 60 Start
+51:03.0	STVMS Tracking Top Station	PVO367	Top Station
+51:06.0	STVMS Tracking Top Station	JCV863	Top Station
+51:10.0	STVMS Tracking Top Station	DRY562	Top Station
+51:15.0	STVMS Tracking Top Station	NTD012	Top Station
+51:23.0	STVMS Tracking Top Station	IVC016	Top Station
+51:27.0	STVMS Tracking Top Station	HBM615	Top Station
+51:32.0	STVMS Tracking Top Station	QTF497	Top Station
+51:36.0	STVMS Tracking Top Station	AQG261	Top Station
+51:42.0	STVMS Tracking Top Station	YKL719	Top Station
+51:45.0	STVMS Tracking Top Station	IMS267	Top Station
+51:59.0	STVMS Tracking Top Station	KIA624	Top Station
+52:02.0	STVMS Tracking Top Station	YHP863	Top Station
+52:10.0	STVMS Tracking Top Station	SEU602	Top Station
+52:55.0	STVMS Tracking Chassis Start	HTV792	Chassis Start
+53:08.8	Cab call scan	BJM584	A Line
+53:18.0	Cab Call Scan	XJI184	B Line
+53:24.0	U-BOLT	PVO367	Front U-Bolt
+53:44.3	Cab Conveyer	EBM074	Cab Upload 2
+53:44.3	Cab Conveyor / Monorail	EBM074	Cab Upload
+54:02.4	Cab in white conveyer	ECW317	CIW upload
+55:07.1	Paint Inspection	SNU912	PAINT
+55:53.7	Assembly Line Tracker	SEU602	Pool 60 Start
+55:54.6	Assembly Line Tracker	YHP863	Pool 60 Start
+55:55.5	Assembly Line Tracker	KIA624	Pool 60 Start
+55:56.4	Assembly Line Tracker	IMS267	Pool 60 Start
+55:57.4	Assembly Line Tracker	YKL719	Pool 60 Start
+55:58.3	Assembly Line Tracker	AQG261	Pool 60 Start
+55:59.3	Assembly Line Tracker	QTF497	Pool 60 Start
+56:00.2	Assembly Line Tracker	HBM615	Pool 60 Start
+56:01.1	Assembly Line Tracker	IVC016	Pool 60 Start
+56:02.0	Hood Conveyor	CFO213	Hood Upload
+56:02.0	Assembly Line Tracker	NTD012	Pool 60 Start
+56:03.0	Assembly Line Tracker	DRY562	Pool 60 Start
+56:04.0	Assembly Line Tracker	JCV863	Pool 60 Start
+56:04.9	Assembly Line Tracker	PVO367	Pool 60 Start
+58:36.4	OMT Offline Tracking	JYZ708	Enter Offline
+58:57.3	Cab Conveyer	TBP914	Cab Upload 2
+58:57.3	Cab Conveyor / Monorail	TBP914	Cab Upload
+00:19.9	OMT Offline Tracking	SPF970	Enter Offline
+00:53.0	Hood Conveyor	XET976	Hood Upload
+01:02.0	Paint Inspection	ZJC386	PAINT
+02:47.8	OMT Offline Tracking	YXF326	Sold
+04:06.4	Cab Call Scan	YRW680	B Line
+04:45.0	STVMS Tracking Top Station	EZV240	Top Station
+04:50.4	Cab in white conveyer	UZA509	CIW upload
+05:50.9	Assembly Line Tracker	EZV240	Pool 60 Start
+06:43.1	Hood Conveyor	TXR569	Hood Upload
+08:35.6	Paint Inspection	QTI468	PAINT
+09:39.4	Cab call scan	TEK452	A Line
+10:07.1	Hood Conveyor	BYF840	Hood Upload
+10:28.4	Cab Conveyer	LOF143	Cab Upload 2
+10:28.4	Cab Conveyor / Monorail	LOF143	Cab Upload
+12:17.5	Cab Call Scan	GTO457	B Line
+12:59.0	U-BOLT	DRY562	Front U-Bolt
+13:31.0	Cab in white conveyer	NWY194	CIW upload
+13:57.0	Hood Conveyor	SNU912	Hood Upload
+15:29.8	OMT Offline Tracking	KLN307	Enter Offline
+16:00.4	Paint Inspection	ZJK473	PAINT
+17:24.0	U-BOLT	NTD012	Front U-Bolt
+18:38.5	Cab Conveyer	XJI184	Cab Upload 2
+18:38.5	Cab Conveyor / Monorail	XJI184	Cab Upload
+19:06.9	OMT Offline Tracking	VFX591	Enter Offline
+22:14.0	STVMS Tracking Chassis Start	MGR987	Chassis Start
+22:17.0	STVMS Tracking Chassis Start	HXT823	Chassis Start
+22:21.0	STVMS Tracking Chassis Start	SNU912	Chassis Start
+22:24.0	STVMS Tracking Chassis Start	CFO213	Chassis Start
+23:01.6	Cab call scan	CMI143	A Line
+23:32.0	U-BOLT	IVC016	Front U-Bolt
+24:42.0	STVMS Tracking Top Station	HTV792	Top Station
+24:46.0	STVMS Tracking Top Station	MGR987	Top Station
+24:49.0	STVMS Tracking Top Station	HXT823	Top Station
+24:51.6	Cab Conveyer	BJM584	Cab Upload 2
+24:51.6	Cab Conveyor / Monorail	BJM584	Cab Upload
+24:56.8	OMT Offline Tracking	EPR018	Enter Offline
+25:30.5	Hood Conveyor	ZJC386	Hood Upload
+25:51.0	Assembly Line Tracker	HXT823	Pool 60 Start
+25:52.0	Assembly Line Tracker	MGR987	Pool 60 Start
+25:53.1	Assembly Line Tracker	HTV792	Pool 60 Start
+26:15.7	Paint Inspection	DKE275	PAINT
+28:32.1	Cab in white conveyer	DMS436	CIW upload
+29:42.5	Hood Conveyor	QTI468	Hood Upload
+30:12.1	Cab Call Scan	YBP783	B Line
+31:05.2	Cab Conveyer	YRW680	Cab Upload 2
+31:05.2	Cab Conveyor / Monorail	YRW680	Cab Upload
+31:22.2	Paint Inspection	MBG962	PAINT
+32:28.6	OMT Offline Tracking	DPA037	Enter Offline
+37:17.0	STVMS Tracking Top Station	SNU912	Top Station
+37:20.0	STVMS Tracking Top Station	CFO213	Top Station
+37:41.0	U-BOLT	QTF497	Front U-Bolt
+38:43.6	Cab in white conveyer	XIO539	CIW upload
+39:33.5	Paint Inspection	WQS294	PAINT
+40:51.0	Assembly Line Tracker	CFO213	Pool 60 Start
+40:52.0	Assembly Line Tracker	SNU912	Pool 60 Start
+41:27.6	Cab Conveyer	TEK452	Cab Upload 2
+41:27.6	Cab Conveyor / Monorail	TEK452	Cab Upload
+44:12.2	Cab call scan	ATG468	A Line
+44:35.3	OMT Offline Tracking	OQS570	Enter Offline
+44:43.0	STVMS Tracking Chassis Start	XET976	Chassis Start
+44:46.0	STVMS Tracking Chassis Start	TXR569	Chassis Start
+44:49.0	STVMS Tracking Chassis Start	BYF840	Chassis Start
+45:33.0	U-BOLT	AQG261	Front U-Bolt
+45:49.0	OMT Offline Tracking	FTI653	Enter Offline
+53:29.5	OMT Offline Tracking	KUR214	Enter Offline
+57:00.2	Cab Call Scan	XPQ906	B Line
+57:12.0	U-BOLT	IMS267	Front U-Bolt
+57:26.1	OMT Offline Tracking	ILA012	Enter Offline
+58:28.0	STVMS Tracking Chassis Start	ZJC386	Chassis Start
+00:19.9	OMT Offline Tracking	SPF970	Sold
+14:04.8	Cab Conveyer	GTO457	Cab Upload 2
+14:04.8	Cab Conveyor / Monorail	GTO457	Cab Upload
+21:55.9	Cab Conveyer	YBP783	Cab Upload 2
+21:55.9	Cab Conveyor / Monorail	YBP783	Cab Upload
+25:21.4	Cab call scan	GZC132	A Line
+26:44.4	Hood Conveyor	ZJK473	Hood Upload
+28:19.9	Cab Conveyer	CMI143	Cab Upload 2
+28:19.9	Cab Conveyor / Monorail	CMI143	Cab Upload
+30:53.1	Paint Inspection	LES327	PAINT
+33:24.5	Hood Conveyor	GLW381	Hood Upload
+34:03.9	Cab Conveyer	ATG468	Cab Upload 2
+34:03.9	Cab Conveyor / Monorail	ATG468	Cab Upload
+34:37.5	Hood Conveyor	DKE275	Hood Upload
+36:01.0	Cab in white conveyer	FSB584	CIW upload
+39:39.8	Paint Inspection	KTN409	PAINT
+44:35.3	OMT Offline Tracking	OQS570	Sold
+45:06.8	Paint Inspection	MUJ483	PAINT
+45:38.5	Cab call scan	FWS327	A Line
+46:11.0	Cab in white conveyer	AUG052	CIW upload
+49:22.1	Hood Conveyor	MUJ483	Hood Upload
+51:47.0	Cab Call Scan	UXJ427	B Line
+52:15.3	OMT Offline Tracking	FQP941	Enter Offline
+52:24.5	Cab in white conveyer	WDO021	CIW upload
+55:58.9	Cab Conveyer	GZC132	Cab Upload 2
+55:58.9	Cab Conveyor / Monorail	GZC132	Cab Upload
+56:30.0	U-BOLT	YHP863	Front U-Bolt
+58:08.2	Cab in white conveyer	WGT289	CIW upload
+58:20.3	Paint Inspection	RUK258	PAINT
+59:47.5	Cab Call Scan	CNE620	B Line
+02:33.9	OMT Offline Tracking	MAU864	Enter Offline
+02:39.8	OMT Offline Tracking	HQI892	Enter Offline
+03:16.5	Hood Conveyor	LES327	Hood Upload
+03:52.0	U-BOLT	SEU602	Front U-Bolt
+05:02.0	STVMS Tracking Chassis Start	ZJK473	Chassis Start
+05:07.0	STVMS Tracking Chassis Start	QTI468	Chassis Start
+05:12.0	STVMS Tracking Chassis Start	MBG962	Chassis Start
+05:12.7	Paint Inspection	UZV267	PAINT
+05:17.0	STVMS Tracking Chassis Start	DKE275	Chassis Start
+06:16.6	Cab Conveyer	XPQ906	Cab Upload 2
+06:16.6	Cab Conveyor / Monorail	XPQ906	Cab Upload
+07:22.1	Cab in white conveyer	NHX895	CIW upload
+11:48.4	OMT Offline Tracking	WBR310	Enter Offline
+11:50.0	Cab Conveyer	FWS327	Cab Upload 2
+11:50.0	Cab Conveyor / Monorail	FWS327	Cab Upload
+12:28.0	U-BOLT	EZV240	Front U-Bolt
+13:17.6	Hood Conveyor	RUK258	Hood Upload
+17:07.7	Hood Conveyor	UZV267	Hood Upload
+18:26.5	Cab Call Scan	DAJ581	B Line
+20:41.0	U-BOLT	HTV792	Front U-Bolt
+20:47.6	Cab Conveyer	UXJ427	Cab Upload 2
+20:47.6	Cab Conveyor / Monorail	UXJ427	Cab Upload
+23:39.6	Cab call scan	MTV391	A Line
+28:09.7	OMT Offline Tracking	LPU731	Enter Offline
+30:52.1	Cab in white conveyer	XUB638	CIW upload
+31:30.2	Paint Inspection	DIN812	PAINT
+32:12.1	Cab Conveyer	CNE620	Cab Upload 2
+32:12.1	Cab Conveyor / Monorail	CNE620	Cab Upload
+33:55.0	U-BOLT	HXT823	Front U-Bolt
+34:41.0	STVMS Tracking Chassis Start	WQS294	Chassis Start
+34:43.0	STVMS Tracking Chassis Start	MUJ483	Chassis Start
+34:46.7	Cab Call Scan	DUT829	B Line
+34:47.0	STVMS Tracking Chassis Start	GLW381	Chassis Start
+34:49.0	STVMS Tracking Chassis Start	LES327	Chassis Start
+34:52.0	STVMS Tracking Chassis Start	RUK258	Chassis Start
+36:36.8	Cab in white conveyer	XNK048	CIW upload
+37:27.9	Paint Inspection	BPM756	PAINT
+39:07.2	OMT Offline Tracking	SFZ186	Enter Offline
+40:05.8	Cab Call Scan	JCV863	B Line
+42:23.0	U-BOLT	SNU912	Front U-Bolt
+42:32.8	Paint Inspection	XWS890	PAINT
+42:57.9	Cab in white conveyer	WYB426	CIW upload
+43:21.4	OMT Offline Tracking	XSZ543	Enter Offline
+44:45.4	Cab call scan	PVO367	A Line
+44:48.4	Hood Conveyor	BPM756	Hood Upload
+46:48.5	Hood Conveyor	DIN812	Hood Upload
+48:16.6	OMT Offline Tracking	PWR481	Enter Offline
+48:39.3	Cab Conveyer	DAJ581	Cab Upload 2
+48:39.3	Cab Conveyor / Monorail	DAJ581	Cab Upload
+49:45.3	Cab in white conveyer	UDG579	CIW upload
+49:48.0	U-BOLT	CFO213	Front U-Bolt
+51:11.3	Hood Conveyor	XWS890	Hood Upload
+53:45.0	STVMS Tracking Chassis Start	UZV267	Chassis Start
+53:49.0	STVMS Tracking Chassis Start	BPM756	Chassis Start
+55:18.0	Cab in white conveyer	EXO028	CIW upload
+55:56.9	Hood Conveyor	LWM061	Hood Upload
+56:00.0	STVMS Tracking Chassis Start	DIN812	Chassis Start
+56:09.5	Cab call scan	DRY562	A Line
+56:36.0	Cab Conveyer	MTV391	Cab Upload 2
+56:36.0	Cab Conveyor / Monorail	MTV391	Cab Upload
+57:15.7	OMT Offline Tracking	XGC043	Enter Offline
+01:39.9	Cab in white conveyer	HSE253	CIW upload
+02:39.8	OMT Offline Tracking	HQI892	Sold
+03:32.9	Cab Conveyer	PVO367	Cab Upload 2
+03:32.9	Cab Conveyor / Monorail	PVO367	Cab Upload
+05:07.3	Paint Inspection	ZBT013	PAINT
+05:19.0	Paint Inspection	LWM061	PAINT
+06:19.5	Cab Call Scan	NTD012	B Line
+07:26.2	Cab in white conveyer	MXU287	CIW upload
+07:28.0	U-BOLT	TXR569	Front U-Bolt
+08:04.0	STVMS Tracking Top Station	XET976	Top Station
+08:08.0	STVMS Tracking Top Station	TXR569	Top Station
+08:16.0	STVMS Tracking Top Station	BYF840	Top Station
+08:19.0	STVMS Tracking Top Station	ZJC386	Top Station
+08:22.0	STVMS Tracking Top Station	ZJK473	Top Station
+08:26.0	STVMS Tracking Top Station	QTI468	Top Station
+08:31.0	STVMS Tracking Top Station	MBG962	Top Station
+08:35.0	STVMS Tracking Top Station	DKE275	Top Station
+08:48.0	STVMS Tracking Top Station	MUJ483	Top Station
+09:01.0	STVMS Tracking Top Station	GLW381	Top Station
+09:06.0	STVMS Tracking Top Station	LES327	Top Station
+09:11.0	STVMS Tracking Top Station	RUK258	Top Station
+09:15.0	STVMS Tracking Top Station	UZV267	Top Station
+09:28.0	STVMS Tracking Top Station	BPM756	Top Station
+10:49.4	OMT Offline Tracking	HCS198	Enter Offline
+10:51.2	Assembly Line Tracker	BPM756	Pool 60 Start
+10:52.2	Assembly Line Tracker	UZV267	Pool 60 Start
+10:53.2	Assembly Line Tracker	RUK258	Pool 60 Start
+10:54.2	Assembly Line Tracker	LES327	Pool 60 Start
+10:55.3	Assembly Line Tracker	GLW381	Pool 60 Start
+10:56.3	Assembly Line Tracker	MUJ483	Pool 60 Start
+10:57.3	Assembly Line Tracker	DKE275	Pool 60 Start
+10:58.4	Assembly Line Tracker	MBG962	Pool 60 Start
+10:59.4	Assembly Line Tracker	QTI468	Pool 60 Start
+11:00.4	Assembly Line Tracker	ZJK473	Pool 60 Start
+11:01.4	Assembly Line Tracker	ZJC386	Pool 60 Start
+11:02.5	Assembly Line Tracker	BYF840	Pool 60 Start
+11:03.5	Assembly Line Tracker	TXR569	Pool 60 Start
+11:04.6	Assembly Line Tracker	XET976	Pool 60 Start
+11:19.7	Cab call scan	IVC016	A Line
+11:39.6	Paint Inspection	ZJU865	PAINT
+12:05.3	Hood Conveyor	ZJU865	Hood Upload
+12:33.6	Cab Conveyer	DUT829	Cab Upload 2
+12:33.6	Cab Conveyor / Monorail	DUT829	Cab Upload
+12:56.2	Cab in white conveyer	GJI906	CIW upload
+14:32.0	U-BOLT	BYF840	Front U-Bolt
+15:51.8	Cab Call Scan	HBM615	B Line
+16:10.7	Cab in white conveyer	GWQ581	CIW upload
+16:21.1	Paint Inspection	JZP143	PAINT
+16:22.2	Cab in white conveyer	IYM374	CIW upload
+16:33.7	Cab in white conveyer	PNR981	CIW upload
+17:12.7	Hood Conveyor	ZBT013	Hood Upload
+19:29.9	OMT Offline Tracking	JIN079	Enter Offline
+20:50.0	STVMS Tracking Chassis Start	LWM061	Chassis Start
+20:53.0	STVMS Tracking Chassis Start	XWS890	Chassis Start
+20:56.0	STVMS Tracking Chassis Start	ZJU865	Chassis Start
+22:11.7	Cab Conveyer	JCV863	Cab Upload 2
+22:11.7	Cab Conveyor / Monorail	JCV863	Cab Upload
+23:38.7	Hood Conveyor	JZP143	Hood Upload
+24:06.8	Cab Conveyer	DRY562	Cab Upload 2
+24:06.8	Cab Conveyor / Monorail	DRY562	Cab Upload
+24:14.0	U-BOLT	ZJC386	Front U-Bolt
+24:34.3	OMT Offline Tracking	TBP914	Enter Offline
+24:57.6	Paint Inspection	TJG894	PAINT
+25:45.8	Cab call scan	QTF497	A Line
+26:10.4	OMT Offline Tracking	TMU402	Enter Offline
+27:14.3	Cab Call Scan	AQG261	B Line
+28:12.2	Cab in white conveyer	IYM374	CIW upload
+29:44.6	Paint Inspection	FHL296	PAINT
+30:12.3	Hood Conveyor	TJG894	Hood Upload
+31:06.0	STVMS Tracking Chassis Start	JZP143	Chassis Start
+31:42.7	Cab Conveyer	IVC016	Cab Upload 2
+31:42.7	Cab Conveyor / Monorail	IVC016	Cab Upload
+33:59.0	U-BOLT	ZJK473	Front U-Bolt
+34:34.4	Paint Inspection	GWE561	PAINT
+34:37.8	Hood Conveyor	FHL296	Hood Upload
+37:59.9	OMT Offline Tracking	XJI184	Enter Offline
+38:34.8	Cab in white conveyer	VRO359	CIW upload
+38:41.0	STVMS Tracking Top Station	DIN812	Top Station
+38:44.0	STVMS Tracking Top Station	LWM061	Top Station
+38:47.0	STVMS Tracking Top Station	XWS890	Top Station
+39:30.0	STVMS Tracking Chassis Start	ZBT013	Chassis Start
+39:45.8	Cab Conveyer	NTD012	Cab Upload 2
+39:45.8	Cab Conveyor / Monorail	NTD012	Cab Upload
+40:05.3	Cab call scan	YKL719	A Line
+40:52.4	Assembly Line Tracker	XWS890	Pool 60 Start
+40:53.2	Assembly Line Tracker	LWM061	Pool 60 Start
+40:53.9	Assembly Line Tracker	DIN812	Pool 60 Start
+41:58.0	U-BOLT	QTI468	Front U-Bolt
+43:47.3	Cab Conveyer	HBM615	Cab Upload 2
+43:47.3	Cab Conveyor / Monorail	HBM615	Cab Upload
+44:52.0	Cab in white conveyer	KQO271	CIW upload
+45:40.9	Hood Conveyor	GWE561	Hood Upload
+47:38.8	Paint Inspection	FCR320	PAINT
+48:16.6	OMT Offline Tracking	PWR481	Sold
+50:06.5	Cab in white conveyer	ULF935	CIW upload
+51:08.6	OMT Offline Tracking	YRW680	Enter Offline
+52:12.4	Cab Call Scan	IMS267	B Line
+52:42.8	Paint Inspection	TEN567	PAINT
+55:11.0	Cab Conveyer	QTF497	Cab Upload 2
+55:11.0	Cab Conveyor / Monorail	QTF497	Cab Upload
+55:56.0	U-BOLT	DKE275	Front U-Bolt
+55:56.5	Cab in white conveyer	NOL934	CIW upload
+57:25.7	Paint Inspection	WBS653	PAINT
+58:25.5	OMT Offline Tracking	BJM584	Enter Offline
+59:17.1	Cab Conveyer	AQG261	Cab Upload 2
+59:17.1	Cab Conveyor / Monorail	AQG261	Cab Upload
+59:34.6	Cab call scan	KIA624	A Line
+00:10.0	STVMS Tracking Chassis Start	FHL296	Chassis Start
+00:14.0	STVMS Tracking Chassis Start	TJG894	Chassis Start
+00:17.0	STVMS Tracking Chassis Start	GWE561	Chassis Start
+02:44.0	U-BOLT	MUJ483	Front U-Bolt
+04:22.9	OMT Offline Tracking	LOF143	Enter Offline
+04:44.2	Cab in white conveyer	IXJ859	CIW upload
+07:52.4	OMT Offline Tracking	TEK452	Enter Offline
+08:36.0	STVMS Tracking Chassis Start	TEN567	Chassis Start
+09:54.8	Paint Inspection	JNM860	PAINT
+10:53.1	Cab Conveyer	YKL719	Cab Upload 2
+10:53.1	Cab Conveyor / Monorail	YKL719	Cab Upload
+11:39.6	Paint Inspection	ZJU865	PAINT
+13:16.6	Cab Call Scan	YHP863	B Line
+14:03.2	Cab call scan	SEU602	A Line
+14:59.0	STVMS Tracking Chassis Start	WBS653	Chassis Start
+15:26.1	Cab Call Scan	EZV240	B Line
+16:21.1	Paint Inspection	JZP143	PAINT
+16:52.6	Cab Conveyer	IMS267	Cab Upload 2
+16:52.6	Cab Conveyor / Monorail	IMS267	Cab Upload
+18:03.0	U-BOLT	LES327	Front U-Bolt
+19:29.9	OMT Offline Tracking	JIN079	Sold
+23:43.0	U-BOLT	RUK258	Front U-Bolt
+24:57.6	Paint Inspection	TJG894	PAINT
+25:58.8	Cab call scan	HTV792	A Line
+27:11.0	STVMS Tracking Chassis Start	GIL947	Chassis Start
+27:38.6	Cab Conveyer	KIA624	Cab Upload 2
+27:38.6	Cab Conveyor / Monorail	KIA624	Cab Upload
+29:44.6	Paint Inspection	FHL296	PAINT
+34:34.4	Paint Inspection	GWE561	PAINT
+39:39.1	OMT Offline Tracking	EBM074	Enter Offline
+47:38.8	Paint Inspection	FCR320	PAINT
+51:08.6	OMT Offline Tracking	YRW680	Enter Offline
+52:42.8	Paint Inspection	TEN567	PAINT
+57:25.7	Paint Inspection	WBS653	PAINT
+58:25.5	OMT Offline Tracking	BJM584	Enter Offline
+58:25.5	OMT Offline Tracking	BJM584	Sold
+04:22.9	OMT Offline Tracking	LOF143	Enter Offline
+07:52.4	OMT Offline Tracking	TEK452	Enter Offline
+09:54.8	Paint Inspection	JNM860	PAINT
+39:39.1	OMT Offline Tracking	EBM074	Enter Offline
